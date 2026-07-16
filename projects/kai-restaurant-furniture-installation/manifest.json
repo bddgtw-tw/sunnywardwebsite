@@ -1,0 +1,18 @@
+{
+  "schema_version": "sunnyward-project-folder-v1",
+  "project_id": "case-hotel-fb",
+  "slug": "kai-restaurant-furniture-installation",
+  "text": {
+    "en": "text/en.json",
+    "tw": "text/tw.json",
+    "jp": "text/jp.json"
+  },
+  "images": [
+    "images/image-01.jpg",
+    "images/image-02.jpg",
+    "images/image-03.jpg",
+    "images/image-04.jpg",
+    "images/image-05.jpg"
+  ],
+  "video": "video/project-film.mp4"
+}
