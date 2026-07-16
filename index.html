@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sunnyward | Select Language</title>
+  <meta name="description" content="Choose English, Traditional Chinese or Japanese to explore Sunnyward commercial furniture and verified project records.">
+  <meta name="robots" content="noindex,follow">
+  <link rel="canonical" href="https://sunnyward.com/en/">
+  <link rel="alternate" hreflang="en" href="https://sunnyward.com/en/">
+  <link rel="alternate" hreflang="zh-TW" href="https://sunnyward.com/tw/">
+  <link rel="alternate" hreflang="ja" href="https://sunnyward.com/jp/">
+  <link rel="alternate" hreflang="x-default" href="https://sunnyward.com/en/">
+  <script>
+    (function () {
+      var savedLang = localStorage.getItem('sw_lang');
+      if (savedLang === 'jp' || savedLang === 'en' || savedLang === 'tw') {
+        window.location.replace('./' + savedLang + '/index.html');
+        return;
+      }
+      var browserLang = (navigator.language || navigator.userLanguage || 'en').toLowerCase();
+      window.location.replace(browserLang.indexOf('zh') > -1 ? './tw/index.html' : browserLang.indexOf('ja') > -1 ? './jp/index.html' : './en/index.html');
+    })();
+  </script>
+</head>
+<body style="background:#f9f8f6;display:flex;align-items:center;justify-content:center;height:100vh;font-family:Arial,sans-serif;margin:0;color:#2e2722;">
+  <main style="text-align:center;padding:2rem;">
+    <p style="font-size:.9rem;letter-spacing:.1em;text-transform:uppercase;color:#b88e6b;">Choose your language</p>
+    <p><a href="./en/">English</a> · <a href="./tw/">繁體中文</a> · <a href="./jp/">日本語</a></p>
+  </main>
+</body>
+</html>

@@ -1,0 +1,153 @@
+{
+  "products": [
+    {
+      "id": "SWF-91704140",
+      "sku": "SWF-91704140",
+      "name": "STRING Aluminum Outdoor Lounger",
+      "brand": "Funife",
+      "category": "Outdoor",
+      "sub_category": "Outdoor Chair",
+      "collection": "STRING COLLECTION",
+      "description": "A low-profile outdoor lounger from the STRING Collection, combining an anthracite aluminum frame with Batyline mesh. Its 200 cm depth makes it suitable for poolside, resort and hospitality planning where a full-length reclining format is required.",
+      "materials": [
+        "Anthracite aluminum",
+        "Batyline mesh"
+      ],
+      "dimensions": {
+        "raw": "W67 × D200 × H36 cm",
+        "w": 67,
+        "d": 200,
+        "h": 36,
+        "unit": "cm"
+      },
+      "origin": "China",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/swf_91704140_1.png",
+        "Product_Images/03_Outdoor_Furniture/swf_91704140_2.png",
+        "Product_Images/03_Outdoor_Furniture/swf_91704140_3.png",
+        "Product_Images/03_Outdoor_Furniture/swf_91704140_4.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ],
+        [
+          600,
+          450
+        ],
+        [
+          600,
+          448
+        ],
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products/string-aluminum-outdoor-lounger.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SWF-91704070",
+      "sku": "SWF-91704070",
+      "name": "STRING Rope Outdoor Dining Chair",
+      "brand": "Funife",
+      "category": "Outdoor",
+      "sub_category": "Outdoor Chair",
+      "collection": "STRING COLLECTION",
+      "description": "An outdoor dining armchair from the STRING Collection with an anthracite aluminum frame, acrylic-rope sides and a seat cushion offered in granite or greige. The verified 60 × 58 × 77 cm format supports restaurant, café and hotel terrace planning.",
+      "materials": [
+        "Anthracite aluminum",
+        "Acrylic rope",
+        "Granite or greige seat cushion"
+      ],
+      "dimensions": {
+        "raw": "W60 × D58 × H77 cm",
+        "w": 60,
+        "d": 58,
+        "h": 77,
+        "unit": "cm"
+      },
+      "origin": "China",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/swf_91704070_1.png",
+        "Product_Images/03_Outdoor_Furniture/swf_91704070_2.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ],
+        [
+          600,
+          453
+        ]
+      ],
+      "detail_page": "products/string-rope-outdoor-dining-chair.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SWF-91962520",
+      "sku": "SWF-91962520",
+      "name": "FOUNDATION Louvered Outdoor Cabana Daybed",
+      "brand": "Funife",
+      "category": "Outdoor",
+      "sub_category": "Outdoor Chair",
+      "collection": "FOUNDATION COLLECTION",
+      "description": "A large-format outdoor cabana daybed from the FOUNDATION Collection. The anthracite aluminum frame, louvered roof and dark grey cushions create a defined relaxation zone for resort, hotel and poolside planning.",
+      "materials": [
+        "Anthracite aluminum",
+        "Dark grey seat and back cushions"
+      ],
+      "dimensions": {
+        "raw": "W180 × D205 × H200 cm",
+        "w": 180,
+        "d": 205,
+        "h": 200,
+        "unit": "cm"
+      },
+      "origin": "China",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/swf_91962520_1.jpg",
+        "Product_Images/03_Outdoor_Furniture/swf_91962520_2.jpg",
+        "Product_Images/03_Outdoor_Furniture/swf_91962520_3.png",
+        "Product_Images/03_Outdoor_Furniture/swf_91962520_4.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ],
+        [
+          600,
+          450
+        ],
+        [
+          1200,
+          896
+        ],
+        [
+          1200,
+          799
+        ]
+      ],
+      "detail_page": "products/foundation-louvered-outdoor-cabana-daybed.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    }
+  ],
+  "catalog_policy": "Public product catalogue. Pricing, suppliers, margins, packaging, freight and loading data are intentionally excluded.",
+  "total_products": 3
+}

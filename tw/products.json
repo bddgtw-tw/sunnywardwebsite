@@ -1,0 +1,153 @@
+{
+  "products": [
+    {
+      "id": "SWF-91704140",
+      "sku": "SWF-91704140",
+      "name": "STRING 系列鋁合金戶外躺椅",
+      "brand": "Funife",
+      "category": "Outdoor",
+      "sub_category": "Outdoor Chair",
+      "collection": "STRING COLLECTION",
+      "description": "STRING 系列低座戶外躺椅，採用碳灰色鋁合金框架與 Batyline 網布。200 公分的椅身深度，適合飯店泳池、度假村與商業休憩空間進行全身躺臥配置。",
+      "materials": [
+        "碳灰色鋁合金",
+        "Batyline 網布"
+      ],
+      "dimensions": {
+        "raw": "W67 × D200 × H36 cm",
+        "w": 67,
+        "d": 200,
+        "h": 36,
+        "unit": "cm"
+      },
+      "origin": "China",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/swf_91704140_1.png",
+        "Product_Images/03_Outdoor_Furniture/swf_91704140_2.png",
+        "Product_Images/03_Outdoor_Furniture/swf_91704140_3.png",
+        "Product_Images/03_Outdoor_Furniture/swf_91704140_4.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ],
+        [
+          600,
+          450
+        ],
+        [
+          600,
+          448
+        ],
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products/string-aluminum-outdoor-lounger.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SWF-91704070",
+      "sku": "SWF-91704070",
+      "name": "STRING 系列編織繩戶外餐椅",
+      "brand": "Funife",
+      "category": "Outdoor",
+      "sub_category": "Outdoor Chair",
+      "collection": "STRING COLLECTION",
+      "description": "STRING 系列戶外扶手餐椅，結合碳灰色鋁合金框架、壓克力編織繩側面與 Granite 或 Greige 坐墊。已核對尺寸為 60 × 58 × 77 公分，適合餐廳、咖啡廳與飯店戶外用餐區規劃。",
+      "materials": [
+        "碳灰色鋁合金",
+        "壓克力編織繩",
+        "Granite 或 Greige 坐墊"
+      ],
+      "dimensions": {
+        "raw": "W60 × D58 × H77 cm",
+        "w": 60,
+        "d": 58,
+        "h": 77,
+        "unit": "cm"
+      },
+      "origin": "China",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/swf_91704070_1.png",
+        "Product_Images/03_Outdoor_Furniture/swf_91704070_2.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ],
+        [
+          600,
+          453
+        ]
+      ],
+      "detail_page": "products/string-rope-outdoor-dining-chair.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SWF-91962520",
+      "sku": "SWF-91962520",
+      "name": "FOUNDATION 系列百葉頂棚戶外 Cabana 躺床",
+      "brand": "Funife",
+      "category": "Outdoor",
+      "sub_category": "Outdoor Chair",
+      "collection": "FOUNDATION COLLECTION",
+      "description": "FOUNDATION 系列大型戶外 Cabana 躺床，結合碳灰色鋁合金框架、百葉頂棚與深灰色坐背墊，可作為度假村、飯店及泳池區的獨立休憩配置。",
+      "materials": [
+        "碳灰色鋁合金",
+        "深灰色坐墊與靠墊"
+      ],
+      "dimensions": {
+        "raw": "W180 × D205 × H200 cm",
+        "w": 180,
+        "d": 205,
+        "h": 200,
+        "unit": "cm"
+      },
+      "origin": "China",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/swf_91962520_1.jpg",
+        "Product_Images/03_Outdoor_Furniture/swf_91962520_2.jpg",
+        "Product_Images/03_Outdoor_Furniture/swf_91962520_3.png",
+        "Product_Images/03_Outdoor_Furniture/swf_91962520_4.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ],
+        [
+          600,
+          450
+        ],
+        [
+          1200,
+          896
+        ],
+        [
+          1200,
+          799
+        ]
+      ],
+      "detail_page": "products/foundation-louvered-outdoor-cabana-daybed.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    }
+  ],
+  "catalog_policy": "Public product catalogue. Pricing, suppliers, margins, packaging, freight and loading data are intentionally excluded.",
+  "total_products": 3
+}

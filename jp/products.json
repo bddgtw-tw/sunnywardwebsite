@@ -1,0 +1,153 @@
+{
+  "products": [
+    {
+      "id": "SWF-91704140",
+      "sku": "SWF-91704140",
+      "name": "STRINGコレクション アルミ製アウトドアラウンジャー",
+      "brand": "Funife",
+      "category": "Outdoor",
+      "sub_category": "Outdoor Chair",
+      "collection": "STRING COLLECTION",
+      "description": "STRINGコレクションのロースタイル・アウトドアラウンジャーです。アンスラサイト色のアルミフレームとBatylineメッシュを組み合わせ、全長200cmのフルレングス仕様で、ホテルのプールサイドやリゾート施設の計画に適しています。",
+      "materials": [
+        "アンスラサイト色アルミ",
+        "Batylineメッシュ"
+      ],
+      "dimensions": {
+        "raw": "W67 × D200 × H36 cm",
+        "w": 67,
+        "d": 200,
+        "h": 36,
+        "unit": "cm"
+      },
+      "origin": "China",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/swf_91704140_1.png",
+        "Product_Images/03_Outdoor_Furniture/swf_91704140_2.png",
+        "Product_Images/03_Outdoor_Furniture/swf_91704140_3.png",
+        "Product_Images/03_Outdoor_Furniture/swf_91704140_4.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ],
+        [
+          600,
+          450
+        ],
+        [
+          600,
+          448
+        ],
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products/string-aluminum-outdoor-lounger.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SWF-91704070",
+      "sku": "SWF-91704070",
+      "name": "STRINGコレクション ロープ編みアウトドアダイニングチェア",
+      "brand": "Funife",
+      "category": "Outdoor",
+      "sub_category": "Outdoor Chair",
+      "collection": "STRING COLLECTION",
+      "description": "STRINGコレクションの屋外用アームダイニングチェアです。アンスラサイト色アルミフレーム、アクリルロープの側面、グラナイトまたはグレージュの座面クッションを組み合わせています。確認済み寸法は60 × 58 × 77cmです。",
+      "materials": [
+        "アンスラサイト色アルミ",
+        "アクリルロープ",
+        "グラナイトまたはグレージュの座面クッション"
+      ],
+      "dimensions": {
+        "raw": "W60 × D58 × H77 cm",
+        "w": 60,
+        "d": 58,
+        "h": 77,
+        "unit": "cm"
+      },
+      "origin": "China",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/swf_91704070_1.png",
+        "Product_Images/03_Outdoor_Furniture/swf_91704070_2.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ],
+        [
+          600,
+          453
+        ]
+      ],
+      "detail_page": "products/string-rope-outdoor-dining-chair.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SWF-91962520",
+      "sku": "SWF-91962520",
+      "name": "FOUNDATIONコレクション ルーバールーフ付きアウトドアカバナデイベッド",
+      "brand": "Funife",
+      "category": "Outdoor",
+      "sub_category": "Outdoor Chair",
+      "collection": "FOUNDATION COLLECTION",
+      "description": "FOUNDATIONコレクションの大型アウトドアカバナデイベッドです。アンスラサイト色アルミフレーム、ルーバールーフ、ダークグレーのクッションを組み合わせ、リゾートやホテルのプールサイドに独立したリラクゼーションエリアを構成します。",
+      "materials": [
+        "アンスラサイト色アルミ",
+        "ダークグレーの座面・背面クッション"
+      ],
+      "dimensions": {
+        "raw": "W180 × D205 × H200 cm",
+        "w": 180,
+        "d": 205,
+        "h": 200,
+        "unit": "cm"
+      },
+      "origin": "China",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/swf_91962520_1.jpg",
+        "Product_Images/03_Outdoor_Furniture/swf_91962520_2.jpg",
+        "Product_Images/03_Outdoor_Furniture/swf_91962520_3.png",
+        "Product_Images/03_Outdoor_Furniture/swf_91962520_4.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ],
+        [
+          600,
+          450
+        ],
+        [
+          1200,
+          896
+        ],
+        [
+          1200,
+          799
+        ]
+      ],
+      "detail_page": "products/foundation-louvered-outdoor-cabana-daybed.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    }
+  ],
+  "catalog_policy": "Public product catalogue. Pricing, suppliers, margins, packaging, freight and loading data are intentionally excluded.",
+  "total_products": 3
+}

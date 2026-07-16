@@ -1,0 +1,69 @@
+{
+  "materials": [
+    {
+      "id": "cultured-marble",
+      "name": "Cultured Marble",
+      "description": "Made by mixing crushed marble dust with a polyester resin, Cultured Marble table tops are designed to mimic the look feel of natural marble, but more affordable, lighter in weight, and easier to maintain. Cultured Marble table tops are resistant to scratches, stains, and heat. Additionally, they are non-porous, which means they do not absorb liquids, making them easy to clean and maintain for restaurants, cafes, bars, and hotels.",
+      "benefits": [
+        "Scratch Resistant",
+        "Heat Resistant",
+        "Non-Porous",
+        "Easy Maintenance"
+      ]
+    },
+    {
+      "id": "compressed-rubberwood",
+      "name": "Compressed Rubberwood",
+      "description": "Using rubberwood ashes, compressed rubberwood tabletops are produced under higher pressure and temperature. Their dense, durable, and uniform structure makes them more stable, water & stain & heat resistance, and less prone to shrinking, cracking or even splitting from the edges as laminate table tops. With 14 colors and three types of surface finishings (smooth, sandy, supermatt), it is a versatile choice for all commercial settings.",
+      "benefits": [
+        "High Density",
+        "Water Resistant",
+        "Heat Resistant",
+        "No Shrinking"
+      ]
+    },
+    {
+      "id": "phenolic",
+      "name": "Phenolic (Compact Laminate)",
+      "description": "Made by impregnating multiple layers of paper or fabric with phenolic resin, compressed and cured under high pressure and temperature to create a hard and durable surface. Phenolic tops are highly resistant to abrasion, impact, and moisture. Their durability, resistance to heat and chemicals, and ease of maintenance make them ideal for use in high-traffic environments.",
+      "benefits": [
+        "Abrasion Resistant",
+        "High Impact",
+        "Moisture Resistant",
+        "Chemical Resistant"
+      ]
+    },
+    {
+      "id": "fibreglass",
+      "name": "Fibreglass",
+      "description": "Fibreglass is a strong lightweight material, high resistance to corrosion, it will not rust. When exposed to moisture, fibre glass insulation neither absorbs nor holds water. As a rule of thumb, for the same strength, fibreglass will weight approximately one seventh as much as steel, and half as much as aluminium. It has the least expansion and contraction with heat, cold and or stress.",
+      "benefits": [
+        "Lightweight",
+        "High Strength",
+        "Corrosion Resistant",
+        "Low Expansion"
+      ]
+    },
+    {
+      "id": "balau-wood",
+      "name": "Balau Wood (Bangkirai)",
+      "description": "The Balau Wood Collection offers timeless, durable outdoor furniture crafted from Balau wood (Bangkirai). Designed to withstand humidity, rain, and extreme weather, it combines strength, weather resistance, and aesthetic appeal, making it ideal for gardens, patios, resorts, and commercial spaces.",
+      "benefits": [
+        "Weather Resistant",
+        "High Strength",
+        "Outdoor Ready"
+      ]
+    },
+    {
+      "id": "polypropylene",
+      "name": "Polypropylene (PP)",
+      "description": "Made of nontoxic eco-friendly polypropylene, EU-made color masterbatch, and UV stabilizers, Lagoon outdoor series are water-proof, UV-resist, easy to maintain and clean.",
+      "benefits": [
+        "Eco-friendly",
+        "UV Resistant",
+        "Water-proof",
+        "Easy Clean"
+      ]
+    }
+  ]
+}

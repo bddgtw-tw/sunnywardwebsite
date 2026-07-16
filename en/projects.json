@@ -1,0 +1,84 @@
+{
+  "projects": [
+    {
+      "id": "p-ecuador-rolfwittmer",
+      "name": "Rolf Wittmer Turismo",
+      "location": "Quito, Ecuador",
+      "website": "rwittmer.com",
+      "products_used": [
+        "Magnolia Club Chair",
+        "Magnolia Loveseat"
+      ],
+      "image": "images/projects/pending.jpg"
+    },
+    {
+      "id": "p-usa-vistarestaurant",
+      "name": "Vista Restaurant",
+      "location": "Miami, FL, USA",
+      "website": "vistamiamirestaurant.com",
+      "products_used": [
+        "Rue Stackable Rattan Dining Chair"
+      ],
+      "image": "images/projects/pending.jpg"
+    },
+    {
+      "id": "p-usa-elbalcon",
+      "name": "El Balcon de Las Americas",
+      "location": "Florida, USA",
+      "website": "elbalcondelasamericas.com",
+      "products_used": [
+        "Koppla Rattan Arm Chair",
+        "Russ Dining Table"
+      ],
+      "image": "images/projects/pending.jpg"
+    },
+    {
+      "id": "p-tw-balanhill",
+      "name": "Balan Hill Glamping",
+      "location": "Nantou, Taiwan",
+      "website": "balanhill.com",
+      "products_used": [
+        "Sensilla Resin Bar Stool"
+      ],
+      "image": "images/projects/pending.jpg"
+    },
+    {
+      "id": "p-honduras-koinonia",
+      "name": "Cafe Koinonia",
+      "location": "Honduras",
+      "website": "",
+      "products_used": [
+        "Joyous Resin Counter Stool",
+        "Whale Leisure Dining Chair"
+      ],
+      "image": "images/projects/pending.jpg"
+    },
+    {
+      "id": "p-jp-tamayura",
+      "name": "Tamayura-no-Sato",
+      "location": "Wakayama, Japan",
+      "website": "tamayura-sato.com",
+      "products_used": [
+        "Magnolia sofa",
+        "Russ coffee table",
+        "Nido outdoor chair"
+      ],
+      "image": "images/projects/pending.jpg"
+    },
+    {
+      "id": "p-tw-taoyuanbaseball",
+      "name": "Taoyuan International Baseball Stadium",
+      "location": "Taoyuan, Taiwan",
+      "website": "",
+      "products_used": [
+        "Magnolia Sofa",
+        "Joyous Resin Bar Stool",
+        "Sprout 2-in-1 Round Side Table",
+        "Russ Bar Table",
+        "Nido Outdoor Chair",
+        "Iris Classic Club Arm Chair"
+      ],
+      "image": "images/projects/pending.jpg"
+    }
+  ]
+}
