@@ -30,17 +30,12 @@
     const subject = value('subject');
     const lines = [
       `${text.labels.name}: ${value('name')}`,
-      `${text.labels.company}: ${value('company')}`,
+      value('company') ? `${text.labels.company}: ${value('company')}` : '',
       `${text.labels.email}: ${value('email')}`,
-      `${text.labels.phone}: ${value('phone') || '—'}`,
-      `${text.labels.projectType}: ${value('project_type')}`,
-      `${text.labels.market}: ${value('market') || '—'}`,
-      `${text.labels.quantity}: ${value('quantity') || '—'}`,
-      `${text.labels.timeline}: ${value('timeline') || '—'}`,
-      '', `${text.labels.subject}: ${subject}`,
+      value('phone') ? `${text.labels.phone}: ${value('phone')}` : '',
       '', `${text.labels.message}:`, value('message'),
       '', `${text.labels.source}: ${window.location.href}`
-    ];
+    ].filter((line, index, lines) => line !== '' || (index > 0 && lines[index - 1] !== ''));
     const draft = lines.join('\n');
     emailLink.href = `mailto:sales@sunnyward.com?subject=${encodeURIComponent(text.prefix + subject)}&body=${encodeURIComponent(draft)}`;
     whatsappLink.href = `https://wa.me/60165262894?text=${encodeURIComponent(text.prefix + subject + '\n\n' + draft)}`;

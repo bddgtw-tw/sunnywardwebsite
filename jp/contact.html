@@ -115,20 +115,16 @@
 <!-- お問い合わせ Form (Right Side) -->
 <div class="contact-form-wrapper scroll-reveal" style="transition-delay: 0.15s;">
 <form class="contact-form" id="contact-inquiry-form">
-<h3 style="margin-bottom: 1.5rem; font-size:1.8rem;">プロジェクトお問い合わせの準備</h3>
+<h3 style="margin-bottom: 1.5rem; font-size:1.8rem;">ご要望をお聞かせください</h3>
 <div class="form-group"><label class="form-label" for="contact-name">お名前</label><input autocomplete="name" class="form-control" id="contact-name" name="name" placeholder="例：山田 花子" required="" type="text"/></div>
-<div class="form-group"><label class="form-label" for="contact-company">会社・組織名</label><input autocomplete="organization" class="form-control" id="contact-company" name="company" placeholder="例：ABCデザイン" required="" type="text"/></div>
-<div class="form-group"><label class="form-label" for="contact-email">業務用メールアドレス</label><input autocomplete="email" class="form-control" id="contact-email" name="email" placeholder="例：buyer@example.com" required="" type="email"/></div>
+<div class="form-group"><label class="form-label" for="contact-company">会社名（任意）</label><input autocomplete="organization" class="form-control" id="contact-company" name="company" placeholder="例：ABCデザイン" type="text"/></div>
+<div class="form-group"><label class="form-label" for="contact-email">メールアドレス</label><input autocomplete="email" class="form-control" id="contact-email" name="email" placeholder="例：buyer@example.com" required="" type="email"/></div>
 <div class="form-group"><label class="form-label" for="contact-phone">電話番号（任意）</label><input autocomplete="tel" class="form-control" id="contact-phone" name="phone" placeholder="例：+81 90 1234 5678" type="tel"/></div>
-<div class="form-group"><label class="form-label" for="contact-project-type">プロジェクト種別</label><select class="form-control" id="contact-project-type" name="project_type" required=""><option value="">プロジェクト種別を選択</option><option value="ホテル／リゾート">ホテル／リゾート</option><option value="レストラン／カフェ">レストラン／カフェ</option><option value="レジャー／プールサイド">レジャー／プールサイド</option><option value="小売／商業施設">小売／商業施設</option><option value="住宅開発">住宅開発</option><option value="その他">その他</option></select></div>
-<div class="form-group"><label class="form-label" for="contact-market">納品先の都市／国</label><input class="form-control" id="contact-market" name="market" placeholder="例：東京、日本" required="" type="text"/></div>
-<div class="form-group"><label class="form-label" for="contact-quantity">予定数量（任意）</label><input class="form-control" id="contact-quantity" name="quantity" placeholder="例：ダイニングチェア80脚" type="text"/></div>
-<div class="form-group"><label class="form-label" for="contact-timeline">希望納期（任意）</label><input class="form-control" id="contact-timeline" name="timeline" placeholder="例：2026年10月" type="text"/></div>
-<div class="form-group"><label class="form-label" for="contact-subject">件名</label><input class="form-control" id="contact-subject" name="subject" placeholder="例：リゾート案件の見積依頼" required="" type="text"/></div>
-<div class="form-group"><label class="form-label" for="contact-message">ご要望・仕様</label><textarea class="form-control" id="contact-message" name="message" placeholder="空間、必要な製品、仕上げ、制約条件、適用基準などをご記入ください。" required=""></textarea><p class="form-help">図面、数量表、仕様書がある場合は、下書き作成後に Email を選び、メールアプリでファイルを添付してください。</p></div>
-<button class="btn btn-primary" style="width:100%; padding:1rem;" type="submit">送信方法を準備する</button>
+<input id="contact-subject" name="subject" type="hidden" value="ウェブサイトからのプロジェクト相談"/>
+<div class="form-group"><label class="form-label" for="contact-message">お問い合わせ内容</label><textarea class="form-control" id="contact-message" name="message" placeholder="計画中の家具や空間について、簡単にお聞かせください。" required=""></textarea></div>
+<button class="btn btn-primary" style="width:100%; padding:1rem;" type="submit">Sunnywardへ連絡</button>
 <div aria-live="polite" class="inquiry-actions" hidden="" id="inquiry-actions">
-<p id="inquiry-status">フォームを入力するとお問い合わせ下書きを準備できます。自動送信はされません。</p>
+<p id="inquiry-status">Email または WhatsApp を選択してください。</p>
 <div class="inquiry-actions__buttons"><a class="btn btn-primary" href="mailto:sales@sunnyward.com" id="inquiry-email-action">Emailで続ける</a><a class="btn btn-secondary" href="https://wa.me/60165262894" id="inquiry-whatsapp-action" rel="noopener" target="_blank">WhatsAppで続ける</a><button class="btn btn-secondary" id="inquiry-copy-action" type="button">下書きをコピー</button></div>
 </div>
 </form>

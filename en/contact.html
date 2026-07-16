@@ -115,20 +115,16 @@
 <!-- Contact Form (Right Side) -->
 <div class="contact-form-wrapper scroll-reveal" style="transition-delay: 0.15s;">
 <form class="contact-form" id="contact-inquiry-form">
-<h3 style="margin-bottom: 1.5rem; font-size:1.8rem;">Prepare a project enquiry</h3>
+<h3 style="margin-bottom: 1.5rem; font-size:1.8rem;">Tell us what you need</h3>
 <div class="form-group"><label class="form-label" for="contact-name">Your name</label><input autocomplete="name" class="form-control" id="contact-name" name="name" placeholder="e.g. Sarah Jenkins" required="" type="text"/></div>
-<div class="form-group"><label class="form-label" for="contact-company">Company / organisation</label><input autocomplete="organization" class="form-control" id="contact-company" name="company" placeholder="e.g. Studio North" required="" type="text"/></div>
-<div class="form-group"><label class="form-label" for="contact-email">Work email</label><input autocomplete="email" class="form-control" id="contact-email" name="email" placeholder="e.g. sarah@interiors.com" required="" type="email"/></div>
+<div class="form-group"><label class="form-label" for="contact-company">Company (optional)</label><input autocomplete="organization" class="form-control" id="contact-company" name="company" placeholder="e.g. Studio North" type="text"/></div>
+<div class="form-group"><label class="form-label" for="contact-email">Email</label><input autocomplete="email" class="form-control" id="contact-email" name="email" placeholder="e.g. sarah@interiors.com" required="" type="email"/></div>
 <div class="form-group"><label class="form-label" for="contact-phone">Phone (optional)</label><input autocomplete="tel" class="form-control" id="contact-phone" name="phone" placeholder="e.g. +65 9123 4567" type="tel"/></div>
-<div class="form-group"><label class="form-label" for="contact-project-type">Project type</label><select class="form-control" id="contact-project-type" name="project_type" required=""><option value="">Select a project type</option><option value="Hotel / resort">Hotel / resort</option><option value="Restaurant / café">Restaurant / café</option><option value="Leisure / poolside">Leisure / poolside</option><option value="Retail / commercial">Retail / commercial</option><option value="Residential development">Residential development</option><option value="Other">Other</option></select></div>
-<div class="form-group"><label class="form-label" for="contact-market">Delivery city / country</label><input class="form-control" id="contact-market" name="market" placeholder="e.g. Singapore" required="" type="text"/></div>
-<div class="form-group"><label class="form-label" for="contact-quantity">Estimated quantity (optional)</label><input class="form-control" id="contact-quantity" name="quantity" placeholder="e.g. 80 dining chairs" type="text"/></div>
-<div class="form-group"><label class="form-label" for="contact-timeline">Target delivery timing (optional)</label><input class="form-control" id="contact-timeline" name="timeline" placeholder="e.g. October 2026" type="text"/></div>
-<div class="form-group"><label class="form-label" for="contact-subject">Subject</label><input class="form-control" id="contact-subject" name="subject" placeholder="e.g. Quote request for resort project" required="" type="text"/></div>
-<div class="form-group"><label class="form-label" for="contact-message">Requirements and specifications</label><textarea class="form-control" id="contact-message" name="message" placeholder="Describe the space, required products, finishes, constraints and any standards that apply." required=""></textarea><p class="form-help">For drawings, schedules or specification files, continue with Email after preparing the draft and attach them in your email application.</p></div>
-<button class="btn btn-primary" style="width:100%; padding:1rem;" type="submit">Prepare enquiry options</button>
+<input id="contact-subject" name="subject" type="hidden" value="Website project enquiry"/>
+<div class="form-group"><label class="form-label" for="contact-message">How can we help?</label><textarea class="form-control" id="contact-message" name="message" placeholder="Tell us briefly about the furniture or space you are planning." required=""></textarea></div>
+<button class="btn btn-primary" style="width:100%; padding:1rem;" type="submit">Contact Sunnyward</button>
 <div aria-live="polite" class="inquiry-actions" hidden="" id="inquiry-actions">
-<p id="inquiry-status">Complete the form to prepare an enquiry draft. Nothing is sent automatically.</p>
+<p id="inquiry-status">Choose Email or WhatsApp to continue.</p>
 <div class="inquiry-actions__buttons"><a class="btn btn-primary" href="mailto:sales@sunnyward.com" id="inquiry-email-action">Continue with Email</a><a class="btn btn-secondary" href="https://wa.me/60165262894" id="inquiry-whatsapp-action" rel="noopener" target="_blank">Continue with WhatsApp</a><button class="btn btn-secondary" id="inquiry-copy-action" type="button">Copy draft</button></div>
 </div>
 </form>

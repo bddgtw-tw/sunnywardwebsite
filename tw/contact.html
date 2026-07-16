@@ -115,20 +115,16 @@
 <!-- Contact Form (Right Side) -->
 <div class="contact-form-wrapper scroll-reveal" style="transition-delay: 0.15s;">
 <form class="contact-form" id="contact-inquiry-form">
-<h3 style="margin-bottom: 1.5rem; font-size:1.8rem;">準備專案詢價</h3>
+<h3 style="margin-bottom: 1.5rem; font-size:1.8rem;">告訴我們您的需求</h3>
 <div class="form-group"><label class="form-label" for="contact-name">您的姓名</label><input autocomplete="name" class="form-control" id="contact-name" name="name" placeholder="例如：王小姐" required="" type="text"/></div>
-<div class="form-group"><label class="form-label" for="contact-company">公司／組織</label><input autocomplete="organization" class="form-control" id="contact-company" name="company" placeholder="例如：晴空設計" required="" type="text"/></div>
-<div class="form-group"><label class="form-label" for="contact-email">工作電子信箱</label><input autocomplete="email" class="form-control" id="contact-email" name="email" placeholder="例如：buyer@example.com" required="" type="email"/></div>
+<div class="form-group"><label class="form-label" for="contact-company">公司（選填）</label><input autocomplete="organization" class="form-control" id="contact-company" name="company" placeholder="例如：晴空設計" type="text"/></div>
+<div class="form-group"><label class="form-label" for="contact-email">電子信箱</label><input autocomplete="email" class="form-control" id="contact-email" name="email" placeholder="例如：buyer@example.com" required="" type="email"/></div>
 <div class="form-group"><label class="form-label" for="contact-phone">電話（選填）</label><input autocomplete="tel" class="form-control" id="contact-phone" name="phone" placeholder="例如：+886 912 345 678" type="tel"/></div>
-<div class="form-group"><label class="form-label" for="contact-project-type">專案類型</label><select class="form-control" id="contact-project-type" name="project_type" required=""><option value="">請選擇專案類型</option><option value="飯店／度假村">飯店／度假村</option><option value="餐廳／咖啡廳">餐廳／咖啡廳</option><option value="休閒／泳池空間">休閒／泳池空間</option><option value="零售／商業空間">零售／商業空間</option><option value="住宅開發案">住宅開發案</option><option value="其他">其他</option></select></div>
-<div class="form-group"><label class="form-label" for="contact-market">交貨城市／國家</label><input class="form-control" id="contact-market" name="market" placeholder="例如：台北，台灣" required="" type="text"/></div>
-<div class="form-group"><label class="form-label" for="contact-quantity">預估數量（選填）</label><input class="form-control" id="contact-quantity" name="quantity" placeholder="例如：80 張餐椅" type="text"/></div>
-<div class="form-group"><label class="form-label" for="contact-timeline">目標交貨時程（選填）</label><input class="form-control" id="contact-timeline" name="timeline" placeholder="例如：2026 年 10 月" type="text"/></div>
-<div class="form-group"><label class="form-label" for="contact-subject">主旨</label><input class="form-control" id="contact-subject" name="subject" placeholder="例如：度假村專案報價需求" required="" type="text"/></div>
-<div class="form-group"><label class="form-label" for="contact-message">需求與規格</label><textarea class="form-control" id="contact-message" name="message" placeholder="請說明空間、需求產品、表面處理、限制條件及須遵循的標準。" required=""></textarea><p class="form-help">如有圖面、數量表或規格檔案，準備草稿後請選擇 Email，並在您的郵件程式中加入附件。</p></div>
-<button class="btn btn-primary" style="width:100%; padding:1rem;" type="submit">準備詢價傳送方式</button>
+<input id="contact-subject" name="subject" type="hidden" value="網站專案詢問"/>
+<div class="form-group"><label class="form-label" for="contact-message">您想詢問什麼？</label><textarea class="form-control" id="contact-message" name="message" placeholder="簡單告訴我們正在規劃的家具或空間即可。" required=""></textarea></div>
+<button class="btn btn-primary" style="width:100%; padding:1rem;" type="submit">聯絡 Sunnyward</button>
 <div aria-live="polite" class="inquiry-actions" hidden="" id="inquiry-actions">
-<p id="inquiry-status">請完成表單以準備詢價草稿；系統不會自動送出。</p>
+<p id="inquiry-status">請選擇 Email 或 WhatsApp 繼續。</p>
 <div class="inquiry-actions__buttons"><a class="btn btn-primary" href="mailto:sales@sunnyward.com" id="inquiry-email-action">使用 Email 繼續</a><a class="btn btn-secondary" href="https://wa.me/60165262894" id="inquiry-whatsapp-action" rel="noopener" target="_blank">使用 WhatsApp 繼續</a><button class="btn btn-secondary" id="inquiry-copy-action" type="button">複製草稿</button></div>
 </div>
 </form>
