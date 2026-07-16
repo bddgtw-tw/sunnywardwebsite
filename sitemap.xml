@@ -8,6 +8,13 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sunnyward.com/en/" />
   </url>
   <url>
+    <loc>https://sunnyward.com/en/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunnyward.com/en/about.html" />
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://sunnyward.com/tw/about.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://sunnyward.com/jp/about.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunnyward.com/en/about.html" />
+  </url>
+  <url>
     <loc>https://sunnyward.com/en/contact.html</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://sunnyward.com/en/contact.html" />
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://sunnyward.com/tw/contact.html" />
@@ -78,6 +85,13 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sunnyward.com/en/" />
   </url>
   <url>
+    <loc>https://sunnyward.com/tw/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunnyward.com/en/about.html" />
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://sunnyward.com/tw/about.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://sunnyward.com/jp/about.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunnyward.com/en/about.html" />
+  </url>
+  <url>
     <loc>https://sunnyward.com/tw/contact.html</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://sunnyward.com/en/contact.html" />
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://sunnyward.com/tw/contact.html" />
@@ -146,6 +160,13 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://sunnyward.com/tw/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://sunnyward.com/jp/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sunnyward.com/en/" />
+  </url>
+  <url>
+    <loc>https://sunnyward.com/jp/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunnyward.com/en/about.html" />
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://sunnyward.com/tw/about.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://sunnyward.com/jp/about.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunnyward.com/en/about.html" />
   </url>
   <url>
     <loc>https://sunnyward.com/jp/contact.html</loc>
