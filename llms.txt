@@ -1,21 +1,21 @@
 # Sunnyward
 
-> Sunnyward provides commercial furniture sourcing, verified product information and project coordination for architects, designers, hospitality operators and project buyers.
+> Sunnyward provides commercial furniture sourcing, customization and project coordination for architects, designers, hospitality operators and project buyers.
 
 ## Official multilingual pages
 - [English](https://sunnyward.com/en/)
 - [Traditional Chinese](https://sunnyward.com/tw/)
 - [Japanese](https://sunnyward.com/jp/)
 
-## Verified public product records
-- [STRING Aluminum Outdoor Lounger](https://sunnyward.com/en/products/string-aluminum-outdoor-lounger.html) — SKU SWF-91704140; verified dimensions, materials and images.
-- [STRING Rope Outdoor Dining Chair](https://sunnyward.com/en/products/string-rope-outdoor-dining-chair.html) — SKU SWF-91704070; verified dimensions, materials and images.
-- [FOUNDATION Louvered Outdoor Cabana Daybed](https://sunnyward.com/en/products/foundation-louvered-outdoor-cabana-daybed.html) — SKU SWF-91962520; verified dimensions, materials and images.
+## Selected commercial products
+- [STRING Aluminum Outdoor Lounger](https://sunnyward.com/en/products/string-aluminum-outdoor-lounger.html) — SKU SWF-91704140; dimensions, materials and product images.
+- [STRING Rope Outdoor Dining Chair](https://sunnyward.com/en/products/string-rope-outdoor-dining-chair.html) — SKU SWF-91704070; dimensions, materials and product images.
+- [FOUNDATION Louvered Outdoor Cabana Daybed](https://sunnyward.com/en/products/foundation-louvered-outdoor-cabana-daybed.html) — SKU SWF-91962520; dimensions, materials and product images.
 
-## Media-backed project records
-- [Kai Restaurant Furniture Installation](https://sunnyward.com/en/projects/kai-restaurant-furniture-installation.html) — archived 2026-01; installation video and site images available.
-- [Legoland Cafeteria Furniture Installation](https://sunnyward.com/en/projects/legoland-cafeteria-furniture-installation.html) — archived 2025-12; installation video and site images available.
-- [LL Waterpark Poolside Furniture Installation](https://sunnyward.com/en/projects/ll-waterpark-poolside-furniture-installation.html) — archived 2025-05; installation video and site images available.
+## Commercial furniture projects
+- [Kai Restaurant Furniture Installation](https://sunnyward.com/en/projects/kai-restaurant-furniture-installation.html) — 2026-01; installation video and site images available.
+- [Legoland Cafeteria Furniture Installation](https://sunnyward.com/en/projects/legoland-cafeteria-furniture-installation.html) — 2025-12; installation video and site images available.
+- [LL Waterpark Poolside Furniture Installation](https://sunnyward.com/en/projects/ll-waterpark-poolside-furniture-installation.html) — 2025-05; installation video and site images available.
 
 ## Enquiries
 - [Prepare a project enquiry](https://sunnyward.com/en/contact.html)
@@ -23,7 +23,5 @@
 - WhatsApp: +6016-526 2894
 - Include product SKU or reference project, company, delivery market, quantity and target timeline.
 
-## Publication policy
-- The public pilot catalogue contains only products with cross-checked source records and independent detail pages.
-- Exact project SKUs, quantities, contractual scope, client quotations and measured outcomes are not claimed without supporting documents.
-- Public languages: English, Traditional Chinese and Japanese.
+## Languages
+- English, Traditional Chinese and Japanese.
