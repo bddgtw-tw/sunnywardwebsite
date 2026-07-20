@@ -1,12 +1,4636 @@
 {
   "products": [
     {
+      "id": "ST-MN01",
+      "sku": "ST-MN01",
+      "name": "頂級行政主管桌",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "主管桌",
+      "collection": "General Collection",
+      "description": "這款【頂級行政主管桌】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "桌面板材：美耐板熱壓塑合板｜支架骨架：鋼製粉體防銹烤漆"
+      ],
+      "dimensions": {
+        "raw": "約200×100cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/01_Office_Furniture/ST-MN01/st-mn01_page2_img1.jpeg"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-DM01",
+      "sku": "ST-DM01",
+      "name": "頂級行政主管桌",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "主管桌",
+      "collection": "General Collection",
+      "description": "這款【頂級行政主管桌】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "桌面板材：美耐板熱壓塑合板｜支架骨架：鋼製粉體防銹烤漆"
+      ],
+      "dimensions": {
+        "raw": "約180×200cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/01_Office_Furniture/ST-DM01/st-dm01_page3_img1.jpeg"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-LN01",
+      "sku": "ST-LN01",
+      "name": "頂級行政主管桌",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "主管桌",
+      "collection": "General Collection",
+      "description": "這款【頂級行政主管桌】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "桌面板材：美耐板熱壓塑合板｜支架骨架：鋼製粉體防銹烤漆"
+      ],
+      "dimensions": {
+        "raw": "約200×90cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-LN02",
+      "sku": "ST-LN02",
+      "name": "頂級行政主管桌",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "主管桌",
+      "collection": "General Collection",
+      "description": "這款【頂級行政主管桌】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "桌面板材：美耐板熱壓塑合板｜支架骨架：鋼製粉體防銹烤漆"
+      ],
+      "dimensions": {
+        "raw": "約180×90cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-MS01",
+      "sku": "ST-MS01",
+      "name": "頂級行政主管桌",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "主管桌",
+      "collection": "General Collection",
+      "description": "這款【頂級行政主管桌】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "桌面板材：美耐板熱壓塑合板｜支架骨架：鋼製粉體防銹烤漆"
+      ],
+      "dimensions": {
+        "raw": "約180×190cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/01_Office_Furniture/ST-MS01/st-ms01_page5_img1.jpeg"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-YOUNG01",
+      "sku": "ST-YOUNG01",
+      "name": "頂級行政主管桌",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "主管桌",
+      "collection": "General Collection",
+      "description": "這款【頂級行政主管桌】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "桌面板材：美耐板熱壓塑合板｜支架骨架：鋼製粉體防銹烤漆"
+      ],
+      "dimensions": {
+        "raw": "約210×200cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-YOUNGMT2400",
+      "sku": "ST-YOUNGMT2400",
+      "name": "多功能會議桌",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "辦公家具",
+      "collection": "General Collection",
+      "description": "這款【多功能會議桌】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "桌面板材：美耐板熱壓塑合板｜支架骨架：鋼製粉體防銹烤漆"
+      ],
+      "dimensions": {
+        "raw": "約240×120cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-YOUNGMT3600",
+      "sku": "ST-YOUNGMT3600",
+      "name": "多功能會議桌",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "辦公家具",
+      "collection": "General Collection",
+      "description": "這款【多功能會議桌】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "桌面板材：美耐板熱壓塑合板｜支架骨架：鋼製粉體防銹烤漆"
+      ],
+      "dimensions": {
+        "raw": "約360×150cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-YOUNGMT4800",
+      "sku": "ST-YOUNGMT4800",
+      "name": "多功能會議桌",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "辦公家具",
+      "collection": "General Collection",
+      "description": "這款【多功能會議桌】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "桌面板材：美耐板熱壓塑合板｜支架骨架：鋼製粉體防銹烤漆"
+      ],
+      "dimensions": {
+        "raw": "約480×150cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-SQAMT3600",
+      "sku": "ST-SQAMT3600",
+      "name": "多功能會議桌",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "辦公家具",
+      "collection": "General Collection",
+      "description": "這款【多功能會議桌】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "桌面板材：美耐板熱壓塑合板｜支架骨架：鋼製粉體防銹烤漆"
+      ],
+      "dimensions": {
+        "raw": "約360×150cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-SQAMT2400",
+      "sku": "ST-SQAMT2400",
+      "name": "多功能會議桌",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "辦公家具",
+      "collection": "General Collection",
+      "description": "這款【多功能會議桌】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "桌面板材：美耐板熱壓塑合板｜支架骨架：鋼製粉體防銹烤漆"
+      ],
+      "dimensions": {
+        "raw": "約240×120cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-SQAMT4800",
+      "sku": "ST-SQAMT4800",
+      "name": "多功能會議桌",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "辦公家具",
+      "collection": "General Collection",
+      "description": "這款【多功能會議桌】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "桌面板材：美耐板熱壓塑合板｜支架骨架：鋼製粉體防銹烤漆"
+      ],
+      "dimensions": {
+        "raw": "約480×150cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-TRIMT2400",
+      "sku": "ST-TRIMT2400",
+      "name": "多功能會議桌",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "辦公家具",
+      "collection": "General Collection",
+      "description": "這款【多功能會議桌】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "桌面板材：美耐板熱壓塑合板｜支架骨架：鋼製粉體防銹烤漆"
+      ],
+      "dimensions": {
+        "raw": "約240×120cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-TRIMT3600",
+      "sku": "ST-TRIMT3600",
+      "name": "多功能會議桌",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "辦公家具",
+      "collection": "General Collection",
+      "description": "這款【多功能會議桌】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "桌面板材：美耐板熱壓塑合板｜支架骨架：鋼製粉體防銹烤漆"
+      ],
+      "dimensions": {
+        "raw": "約360×150cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-TRIMT4800",
+      "sku": "ST-TRIMT4800",
+      "name": "多功能會議桌",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "辦公家具",
+      "collection": "General Collection",
+      "description": "這款【多功能會議桌】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "桌面板材：美耐板熱壓塑合板｜支架骨架：鋼製粉體防銹烤漆"
+      ],
+      "dimensions": {
+        "raw": "約480×150cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-TRIMT1800",
+      "sku": "ST-TRIMT1800",
+      "name": "多功能會議桌",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "辦公家具",
+      "collection": "General Collection",
+      "description": "這款【多功能會議桌】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "桌面板材：美耐板熱壓塑合板｜支架骨架：鋼製粉體防銹烤漆"
+      ],
+      "dimensions": {
+        "raw": "約180×90cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-TRIMT3000",
+      "sku": "ST-TRIMT3000",
+      "name": "多功能會議桌",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "辦公家具",
+      "collection": "General Collection",
+      "description": "這款【多功能會議桌】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "桌面板材：美耐板熱壓塑合板｜支架骨架：鋼製粉體防銹烤漆"
+      ],
+      "dimensions": {
+        "raw": "約300×150cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-YOUNG2400",
+      "sku": "ST-YOUNG2400",
+      "name": "模組化職員工作站桌",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "工作站桌",
+      "collection": "General Collection",
+      "description": "這款【模組化職員工作站桌】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "桌面板材：美耐板熱壓塑合板｜支架骨架：鋼製粉體防銹烤漆"
+      ],
+      "dimensions": {
+        "raw": "約240×120cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-YOUNG3000",
+      "sku": "ST-YOUNG3000",
+      "name": "模組化職員工作站桌",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "工作站桌",
+      "collection": "General Collection",
+      "description": "這款【模組化職員工作站桌】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "桌面板材：美耐板熱壓塑合板｜支架骨架：鋼製粉體防銹烤漆"
+      ],
+      "dimensions": {
+        "raw": "約300×150cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-YOUNG4800",
+      "sku": "ST-YOUNG4800",
+      "name": "模組化職員工作站桌",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "工作站桌",
+      "collection": "General Collection",
+      "description": "這款【模組化職員工作站桌】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "桌面板材：美耐板熱壓塑合板｜支架骨架：鋼製粉體防銹烤漆"
+      ],
+      "dimensions": {
+        "raw": "約480×150cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-860E",
+      "sku": "ST-860E",
+      "name": "加厚宴會活動椅",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "辦公椅",
+      "collection": "General Collection",
+      "description": "這款【加厚宴會活動椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "桌面板材：美耐板熱壓塑合板｜支架骨架：鋼製粉體防銹烤漆"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/01_Office_Furniture/ST-860E/st-860e_page35_img1.jpeg"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "UNO-CHAIR",
+      "sku": "UNO-CHAIR",
+      "name": "Uno 北歐設計師餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Uno 北歐設計師餐椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約49×48cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/UNO-CHAIR/uno-chair_page3_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "WOODEN-CHAIR",
+      "sku": "WOODEN-CHAIR",
+      "name": "天然實木溫潤餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【天然實木溫潤餐椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/WOODEN-CHAIR/wooden-chair_page3_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "MACHETE-CHAIR",
+      "sku": "MACHETE-CHAIR",
+      "name": "Machete 工藝設計單椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Machete 工藝設計單椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/MACHETE-CHAIR/machete-chair_page3_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ABBRE-CHAIR",
+      "sku": "ABBRE-CHAIR",
+      "name": "Abbre 極簡美學餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Abbre 極簡美學餐椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/ABBRE-CHAIR/abbre-chair_page3_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "DROIT-CHAIR",
+      "sku": "DROIT-CHAIR",
+      "name": "Droit 靠背工學餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Droit 靠背工學餐椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/DROIT-CHAIR/droit-chair_page3_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "COMFORT-CHAIR",
+      "sku": "COMFORT-CHAIR",
+      "name": "Comfort 高回彈軟包椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Comfort 高回彈軟包椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/COMFORT-CHAIR/comfort-chair_page3_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "CIRCON-CHAIR",
+      "sku": "CIRCON-CHAIR",
+      "name": "Circon 圓弧扶手設計椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Circon 圓弧扶手設計椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/CIRCON-CHAIR/circon-chair_page3_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SALA-CHAIR",
+      "sku": "SALA-CHAIR",
+      "name": "Sala 北歐經典實木椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Sala 北歐經典實木椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約48×46cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/SALA-CHAIR/sala-chair_page3_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SUTERA-CHAIR",
+      "sku": "SUTERA-CHAIR",
+      "name": "Sutera 輕奢高背餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Sutera 輕奢高背餐椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約48×46cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/SUTERA-CHAIR/sutera-chair_page3_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "VICTORY-CHAIR",
+      "sku": "VICTORY-CHAIR",
+      "name": "Victory 經典商用椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Victory 經典商用椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約48×46cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/VICTORY-CHAIR/victory-chair_page3_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SOKONI-CHAIR",
+      "sku": "SOKONI-CHAIR",
+      "name": "Sokoni 溫潤實木椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Sokoni 溫潤實木椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×56cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/SOKONI-CHAIR/sokoni-chair_page4_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "HANAKO-CHAIR",
+      "sku": "HANAKO-CHAIR",
+      "name": "Hanako 日式禪風和風椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Hanako 日式禪風和風椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/HANAKO-CHAIR/hanako-chair_page4_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ANGEL-CHAIR",
+      "sku": "ANGEL-CHAIR",
+      "name": "Angel 扶手包覆餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Angel 扶手包覆餐椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/ANGEL-CHAIR/angel-chair_page4_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "TINA-CHAIR",
+      "sku": "TINA-CHAIR",
+      "name": "Tina 高透氣網背辦公椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Tina 高透氣網背辦公椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/TINA-CHAIR/tina-chair_page4_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "MIA-CHAIR",
+      "sku": "MIA-CHAIR",
+      "name": "Mia 北歐休閒單椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Mia 北歐休閒單椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/MIA-CHAIR/mia-chair_page4_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "RENCE-CHAIR",
+      "sku": "RENCE-CHAIR",
+      "name": "Rence 質感皮革軟包椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Rence 質感皮革軟包椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約52×58cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/RENCE-CHAIR/rence-chair_page4_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "CHERI-CHAIR",
+      "sku": "CHERI-CHAIR",
+      "name": "Cheri 輕奢金屬鐵藝椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Cheri 輕奢金屬鐵藝椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約52×58cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/CHERI-CHAIR/cheri-chair_page4_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "KATTI-CHAIR",
+      "sku": "KATTI-CHAIR",
+      "name": "Katti 工業風防銹鐵椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Katti 工業風防銹鐵椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約52×58cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/KATTI-CHAIR/katti-chair_page4_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "WASSI-CHAIR",
+      "sku": "WASSI-CHAIR",
+      "name": "Wassi 圓背休閒單椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Wassi 圓背休閒單椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約550×480cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/WASSI-CHAIR/wassi-chair_page5_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SCANDI-CHAIR",
+      "sku": "SCANDI-CHAIR",
+      "name": "Scandi 溫潤橡膠木椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Scandi 溫潤橡膠木椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/SCANDI-CHAIR/scandi-chair_page5_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "MAGNUS-CHAIR",
+      "sku": "MAGNUS-CHAIR",
+      "name": "Magnus 極簡無垢實木椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Magnus 極簡無垢實木椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/MAGNUS-CHAIR/magnus-chair_page5_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "MOLLY-CHAIR",
+      "sku": "MOLLY-CHAIR",
+      "name": "Molly 靠背木椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Molly 靠背木椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/MOLLY-CHAIR/molly-chair_page5_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ERIK-CHAIR",
+      "sku": "ERIK-CHAIR",
+      "name": "Erik 溫潤實木單椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Erik 溫潤實木單椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/ERIK-CHAIR/erik-chair_page5_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "MORA-CHAIR",
+      "sku": "MORA-CHAIR",
+      "name": "Mora 靠背工學椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Mora 靠背工學椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/MORA-CHAIR/mora-chair_page5_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "LAZOMI-CHAIR",
+      "sku": "LAZOMI-CHAIR",
+      "name": "Lazomi 北歐現代餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Lazomi 北歐現代餐椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約490×550cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/LAZOMI-CHAIR/lazomi-chair_page5_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "RUSTIC-CHAIR",
+      "sku": "RUSTIC-CHAIR",
+      "name": "Rustic 美式復古餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Rustic 美式復古餐椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約490×550cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/RUSTIC-CHAIR/rustic-chair_page5_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "OPPSI-CHAIR",
+      "sku": "OPPSI-CHAIR",
+      "name": "Oppsi 弧形休閒設計椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Oppsi 弧形休閒設計椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約560×510cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/OPPSI-CHAIR/oppsi-chair_page5_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "STEFIS-CHAIR",
+      "sku": "STEFIS-CHAIR",
+      "name": "Stefis 軟包氣壓升降椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Stefis 軟包氣壓升降椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約62×57cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/STEFIS-CHAIR/stefis-chair_page6_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "STEEL-DINING-CHAIR",
+      "sku": "STEEL-DINING-CHAIR",
+      "name": "鋼製工業風餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【鋼製工業風餐椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/STEEL-DINING-CHAIR/steel-dining-chair_page6_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "CAMPIZ-CHAIR",
+      "sku": "CAMPIZ-CHAIR",
+      "name": "Campiz 鐵藝扶手休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Campiz 鐵藝扶手休閒椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/CAMPIZ-CHAIR/campiz-chair_page6_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "LOUIS-CHAIR",
+      "sku": "LOUIS-CHAIR",
+      "name": "Louis 法式復古編藤椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Louis 法式復古編藤椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/LOUIS-CHAIR/louis-chair_page6_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "LEON-CHAIR",
+      "sku": "LEON-CHAIR",
+      "name": "Leon 北歐軟包設計椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Leon 北歐軟包設計椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/LEON-CHAIR/leon-chair_page6_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "MAYA-CHAIR",
+      "sku": "MAYA-CHAIR",
+      "name": "Maya 現代簡約休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Maya 現代簡約休閒椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/MAYA-CHAIR/maya-chair_page6_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "OFFIZ-CHAIR",
+      "sku": "OFFIZ-CHAIR",
+      "name": "Offiz 人體工學電腦椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Offiz 人體工學電腦椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/OFFIZ-CHAIR/offiz-chair_page6_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "CASTER-CHAIR",
+      "sku": "CASTER-CHAIR",
+      "name": "Caster 滑輪升降工作椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Caster 滑輪升降工作椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約58×53cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/CASTER-CHAIR/caster-chair_page6_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "MAMORIS-CHAIR",
+      "sku": "MAMORIS-CHAIR",
+      "name": "Mamoris 日式簡約木椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Mamoris 日式簡約木椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約58×53cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/MAMORIS-CHAIR/mamoris-chair_page6_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "LISS-CHAIR",
+      "sku": "LISS-CHAIR",
+      "name": "Liss 現代極簡餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Liss 現代極簡餐椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約58×53cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/LISS-CHAIR/liss-chair_page6_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "PLASTIC-CHAIR",
+      "sku": "PLASTIC-CHAIR",
+      "name": "商用塑料椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【商用塑料椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/PLASTIC-CHAIR/plastic-chair_page7_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "PANZER-CHAIR",
+      "sku": "PANZER-CHAIR",
+      "name": "Panzer 工業風鐵網單椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Panzer 工業風鐵網單椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/PANZER-CHAIR/panzer-chair_page7_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "RATTAN-CHAIR",
+      "sku": "RATTAN-CHAIR",
+      "name": "戶外天然藤編休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【戶外天然藤編休閒椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/RATTAN-CHAIR/rattan-chair_page7_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "COMBO-CHAIR",
+      "sku": "COMBO-CHAIR",
+      "name": "Combo 多功能折疊椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Combo 多功能折疊椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/COMBO-CHAIR/combo-chair_page7_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "FILTRO-CHAIR",
+      "sku": "FILTRO-CHAIR",
+      "name": "Filtro 簡約塑料椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Filtro 簡約塑料椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/FILTRO-CHAIR/filtro-chair_page7_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "OZEAN-CHAIR",
+      "sku": "OZEAN-CHAIR",
+      "name": "Ozean 全天候戶外休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Ozean 全天候戶外休閒椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/OZEAN-CHAIR/ozean-chair_page7_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "RONDE-CHAIR",
+      "sku": "RONDE-CHAIR",
+      "name": "Ronde 圓坐墊實木スツール",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Ronde 圓坐墊實木スツール】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/RONDE-CHAIR/ronde-chair_page7_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "NEST-CHAIR",
+      "sku": "NEST-CHAIR",
+      "name": "Nest 藤編包覆休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Nest 藤編包覆休閒椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/NEST-CHAIR/nest-chair_page7_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "BULL-CHAIR",
+      "sku": "BULL-CHAIR",
+      "name": "Bull 復古牛角餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Bull 復古牛角餐椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/BULL-CHAIR/bull-chair_page7_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ROSLY-CHAIR",
+      "sku": "ROSLY-CHAIR",
+      "name": "Rosly 現代美學餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Rosly 現代美學餐椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約56×52cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/ROSLY-CHAIR/rosly-chair_page7_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "TOLIX-STEEL-CHAIR",
+      "sku": "TOLIX-STEEL-CHAIR",
+      "name": "Tolix 經典復古鐵藝椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Tolix 經典復古鐵藝椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/TOLIX-STEEL-CHAIR/tolix-steel-chair_page8_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "TOLIX-STOOL",
+      "sku": "TOLIX-STOOL",
+      "name": "Tolix 工業風高腳吧檯凳",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【Tolix 工業風高腳吧檯凳】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/TOLIX-STOOL/tolix-stool_page8_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "TOLIX-BAR-STOOL",
+      "sku": "TOLIX-BAR-STOOL",
+      "name": "Tolix 鐵製吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【Tolix 鐵製吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/TOLIX-BAR-STOOL/tolix-bar-stool_page8_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "TOLIX-DINING-CHAIR",
+      "sku": "TOLIX-DINING-CHAIR",
+      "name": "Tolix 工業風餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Tolix 工業風餐椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/TOLIX-DINING-CHAIR/tolix-dining-chair_page8_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "WITH-BACKRESTTOLIX-BAR-STOOL",
+      "sku": "WITH-BACKRESTTOLIX-BAR-STOOL",
+      "name": "Tolix 鐵製吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【Tolix 鐵製吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "TOLIX-DINING-ARM-CHAIR",
+      "sku": "TOLIX-DINING-ARM-CHAIR",
+      "name": "Tolix 帶扶手鐵藝餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Tolix 帶扶手鐵藝餐椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約52×52cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/TOLIX-DINING-ARM-CHAIR/tolix-dining-arm-chair_page8_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "MORAS-BAR-STOOL",
+      "sku": "MORAS-BAR-STOOL",
+      "name": "Moras 簡約高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【Moras 簡約高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約42×44cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/MORAS-BAR-STOOL/moras-bar-stool_page9_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "BAR-STOOL",
+      "sku": "BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/BAR-STOOL/bar-stool_page109_img1.jpeg"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "NERDY-BAR-STOOL",
+      "sku": "NERDY-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/NERDY-BAR-STOOL/nerdy-bar-stool_page9_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "DAMIEN-BAR-STOOL",
+      "sku": "DAMIEN-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/DAMIEN-BAR-STOOL/damien-bar-stool_page9_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "HATTIE-BAR-STOOL",
+      "sku": "HATTIE-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/HATTIE-BAR-STOOL/hattie-bar-stool_page9_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "TOBY-BAR-STOOL",
+      "sku": "TOBY-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/TOBY-BAR-STOOL/toby-bar-stool_page9_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "PERA-BAR-STOOL",
+      "sku": "PERA-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/PERA-BAR-STOOL/pera-bar-stool_page9_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "STIG-BAR-STOOL",
+      "sku": "STIG-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約42×45cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/STIG-BAR-STOOL/stig-bar-stool_page9_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SISCO-BAR-STOOL",
+      "sku": "SISCO-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約42×45cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/SISCO-BAR-STOOL/sisco-bar-stool_page9_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "STEEL-BAR-STOOL",
+      "sku": "STEEL-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/STEEL-BAR-STOOL/steel-bar-stool_page10_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "LUIS-BAR-STOOL",
+      "sku": "LUIS-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/LUIS-BAR-STOOL/luis-bar-stool_page10_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ORIN-BAR-STOOL",
+      "sku": "ORIN-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/ORIN-BAR-STOOL/orin-bar-stool_page10_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "POLLY-BAR-STOOL",
+      "sku": "POLLY-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約41×39cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/POLLY-BAR-STOOL/polly-bar-stool_page10_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SANTA-BAR-STOOL",
+      "sku": "SANTA-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約41×39cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/SANTA-BAR-STOOL/santa-bar-stool_page10_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "VEES-BAR-STOOL",
+      "sku": "VEES-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約53×52cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/VEES-BAR-STOOL/vees-bar-stool_page10_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "OLIE-BAR-STOOL",
+      "sku": "OLIE-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約51×54cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/OLIE-BAR-STOOL/olie-bar-stool_page10_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "KERI-BAR-STOOL",
+      "sku": "KERI-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約51×54cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/KERI-BAR-STOOL/keri-bar-stool_page10_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "CASY-BAR-STOOL",
+      "sku": "CASY-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約52×46cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/CASY-BAR-STOOL/casy-bar-stool_page10_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "DARYL-BAR-STOOL",
+      "sku": "DARYL-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約46×56cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/DARYL-BAR-STOOL/daryl-bar-stool_page10_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "LOUNGE-CHAIR",
+      "sku": "LOUNGE-CHAIR",
+      "name": "商用單人沙發休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【商用單人沙發休閒椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/LOUNGE-CHAIR/lounge-chair_page11_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ESSO-LOUNGE-CHAIR",
+      "sku": "ESSO-LOUNGE-CHAIR",
+      "name": "商用單人沙發休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【商用單人沙發休閒椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/ESSO-LOUNGE-CHAIR/esso-lounge-chair_page11_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SIZZIE-LOUNGE-CHAIR",
+      "sku": "SIZZIE-LOUNGE-CHAIR",
+      "name": "商用單人沙發休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【商用單人沙發休閒椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/SIZZIE-LOUNGE-CHAIR/sizzie-lounge-chair_page11_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "FEIJOA-LOUNGE-CHAIR",
+      "sku": "FEIJOA-LOUNGE-CHAIR",
+      "name": "商用單人沙發休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【商用單人沙發休閒椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/FEIJOA-LOUNGE-CHAIR/feijoa-lounge-chair_page11_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "KETTAL-LOUNGE-CHAIR",
+      "sku": "KETTAL-LOUNGE-CHAIR",
+      "name": "商用單人沙發休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【商用單人沙發休閒椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/KETTAL-LOUNGE-CHAIR/kettal-lounge-chair_page11_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "BOYIE-LOUNGE-CHAIR",
+      "sku": "BOYIE-LOUNGE-CHAIR",
+      "name": "商用單人沙發休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【商用單人沙發休閒椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/BOYIE-LOUNGE-CHAIR/boyie-lounge-chair_page11_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ZEN-LOUNGE-CHAIR",
+      "sku": "ZEN-LOUNGE-CHAIR",
+      "name": "商用單人沙發休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【商用單人沙發休閒椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/ZEN-LOUNGE-CHAIR/zen-lounge-chair_page11_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "KESSIE-LOUNGE-CHAIR",
+      "sku": "KESSIE-LOUNGE-CHAIR",
+      "name": "商用單人沙發休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【商用單人沙發休閒椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/KESSIE-LOUNGE-CHAIR/kessie-lounge-chair_page11_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "YUKO-LOUNGE-CHAIR",
+      "sku": "YUKO-LOUNGE-CHAIR",
+      "name": "商用單人沙發休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【商用單人沙發休閒椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/YUKO-LOUNGE-CHAIR/yuko-lounge-chair_page11_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "BENSO-LOUNGE-CHAIR",
+      "sku": "BENSO-LOUNGE-CHAIR",
+      "name": "商用單人沙發休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【商用單人沙發休閒椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約60×64cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/BENSO-LOUNGE-CHAIR/benso-lounge-chair_page11_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "VANDOM-CHAIR",
+      "sku": "VANDOM-CHAIR",
+      "name": "Vandom 戶外耐候塑料椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Vandom 戶外耐候塑料椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約48×46cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/VANDOM-CHAIR/vandom-chair_page20_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ETHIMO-CHAIR",
+      "sku": "ETHIMO-CHAIR",
+      "name": "Ethimo 義式奢華戶外椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Ethimo 義式奢華戶外椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/ETHIMO-CHAIR/ethimo-chair_page20_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "FERMOB-CHAIR",
+      "sku": "FERMOB-CHAIR",
+      "name": "Fermob 法式經典戶外椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Fermob 法式經典戶外椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/FERMOB-CHAIR/fermob-chair_page20_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "TALENTI-CHAIR",
+      "sku": "TALENTI-CHAIR",
+      "name": "Talenti 輕奢戶外休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Talenti 輕奢戶外休閒椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/TALENTI-CHAIR/talenti-chair_page20_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "VARAS-CHAIR",
+      "sku": "VARAS-CHAIR",
+      "name": "Varas 戶外防撥水餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【Varas 戶外防撥水餐椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/VARAS-CHAIR/varas-chair_page20_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "VARAS-BAR-STOOL",
+      "sku": "VARAS-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/VARAS-BAR-STOOL/varas-bar-stool_page20_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "EMU-CHAIR",
+      "sku": "EMU-CHAIR",
+      "name": "EMU CHAIR",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【EMU CHAIR】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約54×60cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/EMU-CHAIR/emu-chair_page20_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "VITRA-LOUNGE-CHAIR",
+      "sku": "VITRA-LOUNGE-CHAIR",
+      "name": "商用單人沙發休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【商用單人沙發休閒椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約54×60cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/VITRA-LOUNGE-CHAIR/vitra-lounge-chair_page20_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "EMU-LOUNGE-CHAIR",
+      "sku": "EMU-LOUNGE-CHAIR",
+      "name": "商用單人沙發休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "這款【商用單人沙發休閒椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約54×60cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/EMU-LOUNGE-CHAIR/emu-lounge-chair_page20_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "OUTDOOR-BAR-STOOL",
+      "sku": "OUTDOOR-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/OUTDOOR-BAR-STOOL/outdoor-bar-stool_page21_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "TENZA-BAR-STOOL",
+      "sku": "TENZA-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/TENZA-BAR-STOOL/tenza-bar-stool_page21_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ATTIE-BAR-STOOL",
+      "sku": "ATTIE-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/ATTIE-BAR-STOOL/attie-bar-stool_page21_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "BUENO-BAR-STOOL",
+      "sku": "BUENO-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/BUENO-BAR-STOOL/bueno-bar-stool_page21_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ZUSS-BAR-STOOL",
+      "sku": "ZUSS-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約50×51cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/ZUSS-BAR-STOOL/zuss-bar-stool_page21_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SENSILLA-BAR-STOOL",
+      "sku": "SENSILLA-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約52×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/SENSILLA-BAR-STOOL/sensilla-bar-stool_page21_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "MANTI-BAR-STOOL",
+      "sku": "MANTI-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約54×64cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/MANTI-BAR-STOOL/manti-bar-stool_page21_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "LACITO-BAR-STOOL",
+      "sku": "LACITO-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約54×58cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/LACITO-BAR-STOOL/lacito-bar-stool_page21_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "BOBI-BAR-STOOL",
+      "sku": "BOBI-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約55×60cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/BOBI-BAR-STOOL/bobi-bar-stool_page21_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "GRACIAS-BAR-STOOL",
+      "sku": "GRACIAS-BAR-STOOL",
+      "name": "商用高腳吧檯椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "吧檯椅",
+      "collection": "General Collection",
+      "description": "這款【商用高腳吧檯椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主椅身：橡膠木無垢材｜底座骨架：防銹烤漆鋼管"
+      ],
+      "dimensions": {
+        "raw": "約63×63cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/02_Commercial_Furniture/GRACIAS-BAR-STOOL/gracias-bar-stool_page21_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SQUARE-TABLE-SET",
+      "sku": "SQUARE-TABLE-SET",
+      "name": "防腐木方形桌椅五件組",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外餐桌",
+      "collection": "General Collection",
+      "description": "這款【防腐木方形桌椅五件組】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約60×60cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/SQUARE-TABLE-SET/square-table-set_page4_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "KIDS-TABLE-SETSQUARE-TABLE-4",
+      "sku": "KIDS-TABLE-SETSQUARE-TABLE-4",
+      "name": "兒童專用Balau木桌椅組",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外餐桌",
+      "collection": "General Collection",
+      "description": "這款【兒童專用Balau木桌椅組】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約60×60cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "DINING-SET-WITH",
+      "sku": "DINING-SET-WITH",
+      "name": "DINING SET WITH",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外餐桌",
+      "collection": "General Collection",
+      "description": "這款【DINING SET WITH】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約121×304cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/DINING-SET-WITH/dining-set-with_page4_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "DINING-SET-X-CHAIR-WITH",
+      "sku": "DINING-SET-X-CHAIR-WITH",
+      "name": "DINING SET X CHAIR WITH",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外餐椅",
+      "collection": "General Collection",
+      "description": "這款【DINING SET X CHAIR WITH】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ROUND-DINING-SET",
+      "sku": "ROUND-DINING-SET",
+      "name": "Balau木圓形休閒桌椅組",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外餐桌",
+      "collection": "General Collection",
+      "description": "這款【Balau木圓形休閒桌椅組】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約91×213cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/ROUND-DINING-SET/round-dining-set_page5_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "X-DINING-SET",
+      "sku": "X-DINING-SET",
+      "name": "Balau木X腳長桌椅組",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外餐桌",
+      "collection": "General Collection",
+      "description": "這款【Balau木X腳長桌椅組】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/X-DINING-SET/x-dining-set_page5_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "X-CHAIR-SETRECTANGULAR-TABLE",
+      "sku": "X-CHAIR-SETRECTANGULAR-TABLE",
+      "name": "Balau木X腳戶外休閒椅組",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外餐椅",
+      "collection": "General Collection",
+      "description": "這款【Balau木X腳戶外休閒椅組】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約91×152cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SET",
+      "sku": "SET",
+      "name": "SET",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外餐桌",
+      "collection": "General Collection",
+      "description": "這款【SET】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約121×121cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/SET/set_page10_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "TWO-SEAT-BAR-SET",
+      "sku": "TWO-SEAT-BAR-SET",
+      "name": "Balau木雙人高腳吧檯桌椅組",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外餐桌",
+      "collection": "General Collection",
+      "description": "這款【Balau木雙人高腳吧檯桌椅組】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約91×152cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/TWO-SEAT-BAR-SET/two-seat-bar-set_page8_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "BIG-BAR-SET",
+      "sku": "BIG-BAR-SET",
+      "name": "Balau木多人大型吧檯桌椅組",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外餐桌",
+      "collection": "General Collection",
+      "description": "這款【Balau木多人大型吧檯桌椅組】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約182×91cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/BIG-BAR-SET/big-bar-set_page8_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "RAYNE-BAR-SET",
+      "sku": "RAYNE-BAR-SET",
+      "name": "Rayne 經典高腳吧檯桌椅組",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外餐桌",
+      "collection": "General Collection",
+      "description": "這款【Rayne 經典高腳吧檯桌椅組】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約3×26cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/RAYNE-BAR-SET/rayne-bar-set_page8_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SUNIE-BENCH-L-SHAPE-BENCHNIGGET-BENCH",
+      "sku": "SUNIE-BENCH-L-SHAPE-BENCHNIGGET-BENCH",
+      "name": "Sunie 實木戶外公園椅",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外長椅",
+      "collection": "General Collection",
+      "description": "這款【Sunie 實木戶外公園椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約121×152cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "LOVESEAT-SWING-SWING-BEDSOLO-SWING",
+      "sku": "LOVESEAT-SWING-SWING-BEDSOLO-SWING",
+      "name": "雙人戶外遮陽鞦韆椅",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外鞦韆",
+      "collection": "General Collection",
+      "description": "這款【雙人戶外遮陽鞦韆椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約4×60cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "FAMILY-SWING",
+      "sku": "FAMILY-SWING",
+      "name": "家庭式大型遮陽鞦韆",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外鞦韆",
+      "collection": "General Collection",
+      "description": "這款【家庭式大型遮陽鞦韆】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/FAMILY-SWING/family-swing_page11_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "WITH-STAND",
+      "sku": "WITH-STAND",
+      "name": "帶獨立支架鞦韆椅",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外餐桌",
+      "collection": "General Collection",
+      "description": "這款【帶獨立支架鞦韆椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/WITH-STAND/with-stand_page11_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SWING-WITH-STAND",
+      "sku": "SWING-WITH-STAND",
+      "name": "帶獨立支架鞦韆椅",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外鞦韆",
+      "collection": "General Collection",
+      "description": "這款【帶獨立支架鞦韆椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/SWING-WITH-STAND/swing-with-stand_page11_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ARCH-LOVESEAT-SWING",
+      "sku": "ARCH-LOVESEAT-SWING",
+      "name": "雙人戶外遮陽鞦韆椅",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外鞦韆",
+      "collection": "General Collection",
+      "description": "這款【雙人戶外遮陽鞦韆椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/ARCH-LOVESEAT-SWING/arch-loveseat-swing_page11_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "STAND-SWING-FAMILY-CORNER-L-SHAPE",
+      "sku": "STAND-SWING-FAMILY-CORNER-L-SHAPE",
+      "name": "L型轉角沙發式大型鞦韆組",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外鞦韆",
+      "collection": "General Collection",
+      "description": "這款【L型轉角沙發式大型鞦韆組】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "WITH-SWING",
+      "sku": "WITH-SWING",
+      "name": "庭園鞦韆椅",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外鞦韆",
+      "collection": "General Collection",
+      "description": "這款【庭園鞦韆椅】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/WITH-SWING/with-swing_page12_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "HANGING-SWING",
+      "sku": "HANGING-SWING",
+      "name": "懸掛式樹吊鞦韆",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外鞦韆",
+      "collection": "General Collection",
+      "description": "這款【懸掛式樹吊鞦韆】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/HANGING-SWING/hanging-swing_page12_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "FLOWERSTAND",
+      "sku": "FLOWERSTAND",
+      "name": "Balau實木三層戶外花架",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外餐桌",
+      "collection": "General Collection",
+      "description": "這款【Balau實木三層戶外花架】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/FLOWERSTAND/flowerstand_page13_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "BBQ-SET",
+      "sku": "BBQ-SET",
+      "name": "BBQ 戶外烤肉桌椅組",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外餐桌",
+      "collection": "General Collection",
+      "description": "這款【BBQ 戶外烤肉桌椅組】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約121×121cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/BBQ-SET/bbq-set_page15_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "BBQ-SET-ELITE",
+      "sku": "BBQ-SET-ELITE",
+      "name": "BBQ 戶外烤肉桌椅組",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外餐桌",
+      "collection": "General Collection",
+      "description": "這款【BBQ 戶外烤肉桌椅組】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/BBQ-SET-ELITE/bbq-set-elite_page15_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "BBQ-SET-SUPREME",
+      "sku": "BBQ-SET-SUPREME",
+      "name": "BBQ 戶外烤肉桌椅組",
+      "brand": "Sunnyward",
+      "category": "outdoor",
+      "sub_category": "戶外餐桌",
+      "collection": "General Collection",
+      "description": "這款【BBQ 戶外烤肉桌椅組】專為高頻率商業空間與優雅家居打造。精心挑選的材料結合堅固的結構設計，保證了優越的穩定性與承重力，適合長期頻繁使用。\n\n\n\n簡約流暢的設計能輕鬆融入各式餐廳、咖啡廳、飯店或大廳辦公室。細緻面料處理與優異的人體工學靠背支撐，為每位使用者帶來極致的舒適坐感體驗。",
+      "materials": [
+        "主材質：頂級防腐 Balau 實木（ Shorea Wood ）"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/03_Outdoor_Furniture/BBQ-SET-SUPREME/bbq-set-supreme_page15_img1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
       "id": "SWF-91704140",
       "sku": "SWF-91704140",
       "name": "STRING 系列鋁合金戶外躺椅",
       "brand": "Funife",
-      "category": "Outdoor",
-      "sub_category": "Outdoor Chair",
+      "category": "outdoor",
+      "sub_category": "STRING COLLECTION",
       "collection": "STRING COLLECTION",
       "description": "STRING 系列低座戶外躺椅，採用碳灰色鋁合金框架與 Batyline 網布。200 公分的椅身深度，適合飯店泳池、度假村與商業休憩空間進行全身躺臥配置。",
       "materials": [
@@ -57,8 +4681,8 @@
       "sku": "SWF-91704070",
       "name": "STRING 系列編織繩戶外餐椅",
       "brand": "Funife",
-      "category": "Outdoor",
-      "sub_category": "Outdoor Chair",
+      "category": "outdoor",
+      "sub_category": "STRING COLLECTION",
       "collection": "STRING COLLECTION",
       "description": "STRING 系列戶外扶手餐椅，結合碳灰色鋁合金框架、壓克力編織繩側面與 Granite 或 Greige 坐墊。產品尺寸為 60 × 58 × 77 公分，適合餐廳、咖啡廳與飯店戶外用餐區規劃。",
       "materials": [
@@ -100,8 +4724,8 @@
       "sku": "SWF-91962520",
       "name": "FOUNDATION 系列百葉頂棚戶外 Cabana 躺床",
       "brand": "Funife",
-      "category": "Outdoor",
-      "sub_category": "Outdoor Chair",
+      "category": "outdoor",
+      "sub_category": "FOUNDATION COLLECTION",
       "collection": "FOUNDATION COLLECTION",
       "description": "FOUNDATION 系列大型戶外 Cabana 躺床，結合碳灰色鋁合金框架、百葉頂棚與深灰色坐背墊，可作為度假村、飯店及泳池區的獨立休憩配置。",
       "materials": [
@@ -119,8 +4743,8 @@
       "images": [
         "Product_Images/03_Outdoor_Furniture/swf_91962520_1.jpg",
         "Product_Images/03_Outdoor_Furniture/swf_91962520_2.jpg",
-        "Product_Images/03_Outdoor_Furniture/swf_91962520_3.png",
-        "Product_Images/03_Outdoor_Furniture/swf_91962520_4.png"
+        "Product_Images/03_Outdoor_Furniture/swf_91962520_3_web.webp",
+        "Product_Images/03_Outdoor_Furniture/swf_91962520_4_web.webp"
       ],
       "image_dimensions": [
         [
@@ -149,5 +4773,5 @@
     }
   ],
   "catalog_policy": "Public product catalogue. Pricing, suppliers, margins, packaging, freight and loading data are intentionally excluded.",
-  "total_products": 3
+  "total_products": 149
 }
