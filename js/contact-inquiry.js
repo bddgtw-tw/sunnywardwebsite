@@ -38,7 +38,8 @@
     ].filter((line, index, lines) => line !== '' || (index > 0 && lines[index - 1] !== ''));
     const draft = lines.join('\n');
     emailLink.href = `mailto:sales@sunnyward.com?subject=${encodeURIComponent(text.prefix + subject)}&body=${encodeURIComponent(draft)}`;
-    whatsappLink.href = `https://wa.me/60165262894?text=${encodeURIComponent(text.prefix + subject + '\n\n' + draft)}`;
+    const waBase = Math.random() < 0.5 ? 'https://wa.me/60165262894' : 'https://wa.me/60167252894';
+    whatsappLink.href = `${waBase}?text=${encodeURIComponent(text.prefix + subject + '\n\n' + draft)}`;
     copyButton.dataset.draft = draft;
     status.textContent = text.ready;
     panel.hidden = false;
