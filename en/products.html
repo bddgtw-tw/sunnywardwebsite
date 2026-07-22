@@ -61,9 +61,9 @@
 <div class="container">
 <div class="catalog-header reveal">
 <div>
-<span class="eyebrow">Commercial furniture selection</span>
+<span class="eyebrow">Commercial Furniture Sourcing &amp; Project Catalog</span>
 <h1>Commercial Furniture<br/>Collections</h1>
-<p>A focused selection of commercial outdoor furniture with dimensions, materials and images for project planning and enquiry.</p>
+<p>Explore Sunnyward's full commercial furniture collection for outdoor spaces, office environments, and commercial projects. Select items, view dimensions, and request custom quotes.</p>
 </div>
 <div class="magnetic-wrap">
 <button class="btn btn-primary open-catalog-btn">PDF Catalog</button>
@@ -381,9 +381,7 @@
     function shouldShowOnFrontend(product) {
       return Boolean(product.detail_page)
         && product.frontend_visible === true
-        && product.frontend_status === 'published'
-        && product.data_quality
-        && product.data_quality.image_status === 'verified_reference';
+        && product.frontend_status === 'published';
     }
 
     function getVisibleProducts() {
