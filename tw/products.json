@@ -17,7 +17,7 @@
       },
       "origin": "馬來西亞製",
       "images": [
-        "Product_Images/[Commercial]_CIRCON-CHAIR/[PDF]_circon-chair_page3_img7.png"
+        "Product_Images/[Commercial]_CIRCON-CHAIR/circon_chair.png"
       ],
       "image_dimensions": [
         [
@@ -49,7 +49,7 @@
       },
       "origin": "馬來西亞製",
       "images": [
-        "Product_Images/[Commercial]_MACHETE-CHAIR/[PDF]_machete-chair_page3_img3.png"
+        "Product_Images/[Commercial]_MACHETE-CHAIR/machete_chair.png"
       ],
       "image_dimensions": [
         [
@@ -145,7 +145,7 @@
       },
       "origin": "馬來西亞製",
       "images": [
-        "Product_Images/[Commercial]_SUTERA-CHAIR/[PDF]_sutera-chair_page3_img9.png"
+        "Product_Images/[Commercial]_SUTERA-CHAIR/sutera_studio_photo.jpg"
       ],
       "image_dimensions": [
         [
@@ -289,7 +289,7 @@
       },
       "origin": "馬來西亞製",
       "images": [
-        "Product_Images/[Commercial]_UNO-CHAIR/[PDF]_uno-chair_page3_img1.png"
+        "Product_Images/[Commercial]_UNO-CHAIR/uno_chair.png"
       ],
       "image_dimensions": [
         [
@@ -321,7 +321,871 @@
       },
       "origin": "馬來西亞製",
       "images": [
-        "Product_Images/[Commercial]_WOODEN-CHAIR/[PDF]_wooden-chair_page3_img2.png"
+        "Product_Images/[Commercial]_WOODEN-CHAIR/wooden_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ABBRE-CHAIR",
+      "sku": "ABBRE-CHAIR",
+      "name": "Abbre 極簡美學餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Abbre 極簡美學餐椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_ABBRE-CHAIR/abbre_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ANGEL-CHAIR",
+      "sku": "ANGEL-CHAIR",
+      "name": "Angel 扶手包覆餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Angel 扶手包覆餐椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_ANGEL-CHAIR/angel_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "BENSO-LOUNGE-CHAIR",
+      "sku": "BENSO-LOUNGE-CHAIR",
+      "name": "商用單人沙發休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "商用單人沙發休閒椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約60×64cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_BENSO-LOUNGE-CHAIR/benso_lounge_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "BOYIE-LOUNGE-CHAIR",
+      "sku": "BOYIE-LOUNGE-CHAIR",
+      "name": "商用單人沙發休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "商用單人沙發休閒椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_BOYIE-LOUNGE-CHAIR/boyie_lounge_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "BULL-CHAIR",
+      "sku": "BULL-CHAIR",
+      "name": "Bull 復古牛角餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Bull 復古牛角餐椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_BULL-CHAIR/bull_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "CAMPIZ-CHAIR",
+      "sku": "CAMPIZ-CHAIR",
+      "name": "Campiz 鐵藝扶手休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Campiz 鐵藝扶手休閒椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_CAMPIZ-CHAIR/campiz_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "CASTER-CHAIR",
+      "sku": "CASTER-CHAIR",
+      "name": "Caster 滑輪升降工作椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Caster 滑輪升降工作椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約58×53cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_CASTER-CHAIR/caster_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "CHERI-CHAIR",
+      "sku": "CHERI-CHAIR",
+      "name": "Cheri 輕奢金屬鐵藝椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Cheri 輕奢金屬鐵藝椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約52×58cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_CHERI-CHAIR/cheri_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "COMBO-CHAIR",
+      "sku": "COMBO-CHAIR",
+      "name": "Combo 多功能折疊椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Combo 多功能折疊椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_COMBO-CHAIR/combo_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "COMFORT-CHAIR",
+      "sku": "COMFORT-CHAIR",
+      "name": "Comfort 高回彈軟包椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Comfort 高回彈軟包椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_COMFORT-CHAIR/comfort_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "DROIT-CHAIR",
+      "sku": "DROIT-CHAIR",
+      "name": "Droit 靠背工學餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Droit 靠背工學餐椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_DROIT-CHAIR/droit_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "EMU-CHAIR",
+      "sku": "EMU-CHAIR",
+      "name": "EMU CHAIR",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "EMU CHAIR",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約54×60cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_EMU-CHAIR/emu_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "EMU-LOUNGE-CHAIR",
+      "sku": "EMU-LOUNGE-CHAIR",
+      "name": "商用單人沙發休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "商用單人沙發休閒椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約54×60cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_EMU-LOUNGE-CHAIR/emu_lounge_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ERIK-CHAIR",
+      "sku": "ERIK-CHAIR",
+      "name": "Erik 溫潤實木單椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Erik 溫潤實木單椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_ERIK-CHAIR/erik_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ESSO-LOUNGE-CHAIR",
+      "sku": "ESSO-LOUNGE-CHAIR",
+      "name": "商用單人沙發休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "商用單人沙發休閒椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_ESSO-LOUNGE-CHAIR/esso_lounge_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ETHIMO-CHAIR",
+      "sku": "ETHIMO-CHAIR",
+      "name": "Ethimo 義式奢華戶外椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Ethimo 義式奢華戶外椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_ETHIMO-CHAIR/ethimo_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "FEIJOA-LOUNGE-CHAIR",
+      "sku": "FEIJOA-LOUNGE-CHAIR",
+      "name": "商用單人沙發休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "商用單人沙發休閒椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_FEIJOA-LOUNGE-CHAIR/feijoa_lounge_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "FERMOB-CHAIR",
+      "sku": "FERMOB-CHAIR",
+      "name": "Fermob 法式經典戶外椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Fermob 法式經典戶外椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_FERMOB-CHAIR/fermob_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "FILTRO-CHAIR",
+      "sku": "FILTRO-CHAIR",
+      "name": "Filtro 簡約塑料椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Filtro 簡約塑料椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_FILTRO-CHAIR/filtro_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "HANAKO-CHAIR",
+      "sku": "HANAKO-CHAIR",
+      "name": "Hanako 日式禪風和風椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Hanako 日式禪風和風椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_HANAKO-CHAIR/hanako_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "KATTI-CHAIR",
+      "sku": "KATTI-CHAIR",
+      "name": "Katti 工業風防銹鐵椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Katti 工業風防銹鐵椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約52×58cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_KATTI-CHAIR/katti_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "KESSIE-LOUNGE-CHAIR",
+      "sku": "KESSIE-LOUNGE-CHAIR",
+      "name": "商用單人沙發休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "商用單人沙發休閒椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_KESSIE-LOUNGE-CHAIR/kessie_lounge_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "KETTAL-LOUNGE-CHAIR",
+      "sku": "KETTAL-LOUNGE-CHAIR",
+      "name": "商用單人沙發休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "商用單人沙發休閒椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_KETTAL-LOUNGE-CHAIR/kettal_lounge_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "LAZOMI-CHAIR",
+      "sku": "LAZOMI-CHAIR",
+      "name": "Lazomi 北歐現代餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Lazomi 北歐現代餐椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約490×550cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_LAZOMI-CHAIR/lazomi_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "LEON-CHAIR",
+      "sku": "LEON-CHAIR",
+      "name": "Leon 北歐軟包設計椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Leon 北歐軟包設計椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_LEON-CHAIR/leon_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "LISS-CHAIR",
+      "sku": "LISS-CHAIR",
+      "name": "Liss 現代極簡餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Liss 現代極簡餐椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約58×53cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_LISS-CHAIR/liss_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "LOUIS-CHAIR",
+      "sku": "LOUIS-CHAIR",
+      "name": "Louis 法式復古編藤椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Louis 法式復古編藤椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_LOUIS-CHAIR/louis_chair.png"
       ],
       "image_dimensions": [
         [
@@ -369,6 +1233,614 @@
       }
     },
     {
+      "id": "MAGNUS-CHAIR",
+      "sku": "MAGNUS-CHAIR",
+      "name": "Magnus 極簡無垢實木椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Magnus 極簡無垢實木椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_MAGNUS-CHAIR/magnus_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "MAMORIS-CHAIR",
+      "sku": "MAMORIS-CHAIR",
+      "name": "Mamoris 日式簡約木椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Mamoris 日式簡約木椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約58×53cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_MAMORIS-CHAIR/mamoris_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "MAYA-CHAIR",
+      "sku": "MAYA-CHAIR",
+      "name": "Maya 現代簡約休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Maya 現代簡約休閒椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_MAYA-CHAIR/maya_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "MIA-CHAIR",
+      "sku": "MIA-CHAIR",
+      "name": "Mia 北歐休閒單椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Mia 北歐休閒單椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_MIA-CHAIR/mia_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "MOLLY-CHAIR",
+      "sku": "MOLLY-CHAIR",
+      "name": "Molly 靠背木椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Molly 靠背木椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_MOLLY-CHAIR/molly_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "MORA-CHAIR",
+      "sku": "MORA-CHAIR",
+      "name": "Mora 靠背工學椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Mora 靠背工學椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_MORA-CHAIR/mora_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "NEST-CHAIR",
+      "sku": "NEST-CHAIR",
+      "name": "Nest 藤編包覆休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Nest 藤編包覆休閒椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_NEST-CHAIR/nest_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "OFFIZ-CHAIR",
+      "sku": "OFFIZ-CHAIR",
+      "name": "Offiz 人體工學電腦椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Offiz 人體工學電腦椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_OFFIZ-CHAIR/offiz_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "OPPSI-CHAIR",
+      "sku": "OPPSI-CHAIR",
+      "name": "Oppsi 弧形休閒設計椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Oppsi 弧形休閒設計椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約560×510cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_OPPSI-CHAIR/oppsi_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "OZEAN-CHAIR",
+      "sku": "OZEAN-CHAIR",
+      "name": "Ozean 全天候戶外休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Ozean 全天候戶外休閒椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_OZEAN-CHAIR/ozean_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "PANZER-CHAIR",
+      "sku": "PANZER-CHAIR",
+      "name": "Panzer 工業風鐵網單椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Panzer 工業風鐵網單椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_PANZER-CHAIR/panzer_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "PLASTIC-CHAIR",
+      "sku": "PLASTIC-CHAIR",
+      "name": "商用塑料椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "商用塑料椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_PLASTIC-CHAIR/plastic_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "RATTAN-CHAIR",
+      "sku": "RATTAN-CHAIR",
+      "name": "戶外天然藤編休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "戶外天然藤編休閒椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_RATTAN-CHAIR/rattan_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "RENCE-CHAIR",
+      "sku": "RENCE-CHAIR",
+      "name": "Rence 質感皮革軟包椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Rence 質感皮革軟包椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約52×58cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_RENCE-CHAIR/rence_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "RONDE-CHAIR",
+      "sku": "RONDE-CHAIR",
+      "name": "Ronde 圓坐墊實木スツール",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Ronde 圓坐墊實木スツール",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_RONDE-CHAIR/ronde_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ROSLY-CHAIR",
+      "sku": "ROSLY-CHAIR",
+      "name": "Rosly 現代美學餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Rosly 現代美學餐椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約56×52cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_ROSLY-CHAIR/rosly_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "RUSTIC-CHAIR",
+      "sku": "RUSTIC-CHAIR",
+      "name": "Rustic 美式復古餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Rustic 美式復古餐椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約490×550cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_RUSTIC-CHAIR/rustic_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SALA-CHAIR",
+      "sku": "SALA-CHAIR",
+      "name": "Sala 北歐經典實木椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Sala 北歐經典實木椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約48×46cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_SALA-CHAIR/sala_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SCANDI-CHAIR",
+      "sku": "SCANDI-CHAIR",
+      "name": "Scandi 溫潤橡膠木椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Scandi 溫潤橡膠木椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_SCANDI-CHAIR/scandi_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
       "id": "SET",
       "sku": "SET",
       "name": "SET",
@@ -386,6 +1858,70 @@
       "origin": "馬來西亞製",
       "images": [
         "Product_Images/[Outdoor]_SQUARE-TABLE-SET/balau_wood_patio_set.jpg"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SIZZIE-LOUNGE-CHAIR",
+      "sku": "SIZZIE-LOUNGE-CHAIR",
+      "name": "商用單人沙發休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "商用單人沙發休閒椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_SIZZIE-LOUNGE-CHAIR/sizzie_lounge_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SOKONI-CHAIR",
+      "sku": "SOKONI-CHAIR",
+      "name": "Sokoni 溫潤實木椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Sokoni 溫潤實木椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×56cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_SOKONI-CHAIR/sokoni_chair.png"
       ],
       "image_dimensions": [
         [
@@ -849,14 +2385,14 @@
       }
     },
     {
-      "id": "ABBRE-CHAIR",
-      "sku": "ABBRE-CHAIR",
-      "name": "Abbre 極簡美學餐椅",
+      "id": "STEEL-DINING-CHAIR",
+      "sku": "STEEL-DINING-CHAIR",
+      "name": "鋼製工業風餐椅",
       "brand": "Sunnyward",
       "category": "project",
       "sub_category": "餐椅",
       "collection": "General Collection",
-      "description": "Abbre 極簡美學餐椅",
+      "description": "鋼製工業風餐椅",
       "materials": [
         "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
       ],
@@ -865,7 +2401,7 @@
       },
       "origin": "馬來西亞製",
       "images": [
-        "Product_Images/[Commercial]_ABBRE-CHAIR/[PDF]_abbre-chair_page3_img4.png"
+        "Product_Images/[Commercial]_STEEL-DINING-CHAIR/steel_dining_chair.png"
       ],
       "image_dimensions": [
         [
@@ -881,14 +2417,46 @@
       }
     },
     {
-      "id": "ANGEL-CHAIR",
-      "sku": "ANGEL-CHAIR",
-      "name": "Angel 扶手包覆餐椅",
+      "id": "STEFIS-CHAIR",
+      "sku": "STEFIS-CHAIR",
+      "name": "Stefis 軟包氣壓升降椅",
       "brand": "Sunnyward",
       "category": "project",
       "sub_category": "餐椅",
       "collection": "General Collection",
-      "description": "Angel 扶手包覆餐椅",
+      "description": "Stefis 軟包氣壓升降椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約62×57cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_STEFIS-CHAIR/stefis_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "TALENTI-CHAIR",
+      "sku": "TALENTI-CHAIR",
+      "name": "Talenti 輕奢戶外休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Talenti 輕奢戶外休閒椅",
       "materials": [
         "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
       ],
@@ -897,7 +2465,359 @@
       },
       "origin": "馬來西亞製",
       "images": [
-        "Product_Images/[Commercial]_ANGEL-CHAIR/[PDF]_angel-chair_page4_img3.png"
+        "Product_Images/[Commercial]_TALENTI-CHAIR/talenti_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "TINA-CHAIR",
+      "sku": "TINA-CHAIR",
+      "name": "Tina 高透氣網背辦公椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Tina 高透氣網背辦公椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_TINA-CHAIR/ergonomic_mesh_chair.jpg"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "TOLIX-DINING-ARM-CHAIR",
+      "sku": "TOLIX-DINING-ARM-CHAIR",
+      "name": "Tolix 帶扶手鐵藝餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Tolix 帶扶手鐵藝餐椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約52×52cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_TOLIX-DINING-ARM-CHAIR/tolix_dining_arm_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "TOLIX-DINING-CHAIR",
+      "sku": "TOLIX-DINING-CHAIR",
+      "name": "Tolix 工業風餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Tolix 工業風餐椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_TOLIX-DINING-CHAIR/tolix_dining_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "TOLIX-STEEL-CHAIR",
+      "sku": "TOLIX-STEEL-CHAIR",
+      "name": "Tolix 經典復古鐵藝椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Tolix 經典復古鐵藝椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_TOLIX-STEEL-CHAIR/tolix_steel_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "VANDOM-CHAIR",
+      "sku": "VANDOM-CHAIR",
+      "name": "Vandom 戶外耐候塑料椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Vandom 戶外耐候塑料椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約48×46cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_VANDOM-CHAIR/vandom_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "VARAS-CHAIR",
+      "sku": "VARAS-CHAIR",
+      "name": "Varas 戶外防撥水餐椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Varas 戶外防撥水餐椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_VARAS-CHAIR/varas_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "VICTORY-CHAIR",
+      "sku": "VICTORY-CHAIR",
+      "name": "Victory 經典商用椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Victory 經典商用椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約48×46cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_VICTORY-CHAIR/victory_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "VITRA-LOUNGE-CHAIR",
+      "sku": "VITRA-LOUNGE-CHAIR",
+      "name": "商用單人沙發休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "商用單人沙發休閒椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約54×60cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_VITRA-LOUNGE-CHAIR/vitra_lounge_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "WASSI-CHAIR",
+      "sku": "WASSI-CHAIR",
+      "name": "Wassi 圓背休閒單椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "Wassi 圓背休閒單椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約550×480cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_WASSI-CHAIR/wassi_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "YUKO-LOUNGE-CHAIR",
+      "sku": "YUKO-LOUNGE-CHAIR",
+      "name": "商用單人沙發休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "商用單人沙發休閒椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_YUKO-LOUNGE-CHAIR/yuko_lounge_chair.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ZEN-LOUNGE-CHAIR",
+      "sku": "ZEN-LOUNGE-CHAIR",
+      "name": "商用單人沙發休閒椅",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "餐椅",
+      "collection": "General Collection",
+      "description": "商用單人沙發休閒椅",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製",
+      "images": [
+        "Product_Images/[Commercial]_ZEN-LOUNGE-CHAIR/zen_lounge_chair.png"
       ],
       "image_dimensions": [
         [
@@ -1105,38 +3025,6 @@
       }
     },
     {
-      "id": "BENSO-LOUNGE-CHAIR",
-      "sku": "BENSO-LOUNGE-CHAIR",
-      "name": "商用單人沙發休閒椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "商用單人沙發休閒椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約60×64cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_BENSO-LOUNGE-CHAIR/[PDF]_benso-lounge-chair_page11_img9.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
       "id": "BIG-BAR-SET",
       "sku": "BIG-BAR-SET",
       "name": "Balau木多人大型吧檯桌椅組",
@@ -1201,38 +3089,6 @@
       }
     },
     {
-      "id": "BOYIE-LOUNGE-CHAIR",
-      "sku": "BOYIE-LOUNGE-CHAIR",
-      "name": "商用單人沙發休閒椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "商用單人沙發休閒椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_BOYIE-LOUNGE-CHAIR/[PDF]_boyie-lounge-chair_page11_img5.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
       "id": "BUENO-BAR-STOOL",
       "sku": "BUENO-BAR-STOOL",
       "name": "商用高腳吧檯椅",
@@ -1265,102 +3121,6 @@
       }
     },
     {
-      "id": "BULL-CHAIR",
-      "sku": "BULL-CHAIR",
-      "name": "Bull 復古牛角餐椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Bull 復古牛角餐椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_BULL-CHAIR/[PDF]_bull-chair_page7_img9.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "CAMPIZ-CHAIR",
-      "sku": "CAMPIZ-CHAIR",
-      "name": "Campiz 鐵藝扶手休閒椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Campiz 鐵藝扶手休閒椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_CAMPIZ-CHAIR/[PDF]_campiz-chair_page6_img3.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "CASTER-CHAIR",
-      "sku": "CASTER-CHAIR",
-      "name": "Caster 滑輪升降工作椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Caster 滑輪升降工作椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約58×53cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_CASTER-CHAIR/[PDF]_caster-chair_page6_img8.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
       "id": "CASY-BAR-STOOL",
       "sku": "CASY-BAR-STOOL",
       "name": "商用高腳吧檯椅",
@@ -1378,102 +3138,6 @@
       "origin": "馬來西亞製",
       "images": [
         "Product_Images/[Commercial]_[pdf]_CASY-BAR-STOOL/[PDF]_casy-bar-stool_page10_img9.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "CHERI-CHAIR",
-      "sku": "CHERI-CHAIR",
-      "name": "Cheri 輕奢金屬鐵藝椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Cheri 輕奢金屬鐵藝椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約52×58cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_CHERI-CHAIR/[PDF]_cheri-chair_page4_img7.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "COMBO-CHAIR",
-      "sku": "COMBO-CHAIR",
-      "name": "Combo 多功能折疊椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Combo 多功能折疊椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_COMBO-CHAIR/[PDF]_combo-chair_page7_img4.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "COMFORT-CHAIR",
-      "sku": "COMFORT-CHAIR",
-      "name": "Comfort 高回彈軟包椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Comfort 高回彈軟包椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_COMFORT-CHAIR/[PDF]_comfort-chair_page3_img6.png"
       ],
       "image_dimensions": [
         [
@@ -1615,198 +3279,6 @@
       }
     },
     {
-      "id": "DROIT-CHAIR",
-      "sku": "DROIT-CHAIR",
-      "name": "Droit 靠背工學餐椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Droit 靠背工學餐椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_DROIT-CHAIR/[PDF]_droit-chair_page3_img5.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "EMU-CHAIR",
-      "sku": "EMU-CHAIR",
-      "name": "EMU CHAIR",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "EMU CHAIR",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約54×60cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_EMU-CHAIR/[PDF]_emu-chair_page20_img7.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "EMU-LOUNGE-CHAIR",
-      "sku": "EMU-LOUNGE-CHAIR",
-      "name": "商用單人沙發休閒椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "商用單人沙發休閒椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約54×60cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_EMU-LOUNGE-CHAIR/[PDF]_emu-lounge-chair_page20_img9.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "ERIK-CHAIR",
-      "sku": "ERIK-CHAIR",
-      "name": "Erik 溫潤實木單椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Erik 溫潤實木單椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_ERIK-CHAIR/[PDF]_erik-chair_page5_img5.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "ESSO-LOUNGE-CHAIR",
-      "sku": "ESSO-LOUNGE-CHAIR",
-      "name": "商用單人沙發休閒椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "商用單人沙發休閒椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_ESSO-LOUNGE-CHAIR/[PDF]_esso-lounge-chair_page11_img1.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "ETHIMO-CHAIR",
-      "sku": "ETHIMO-CHAIR",
-      "name": "Ethimo 義式奢華戶外椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Ethimo 義式奢華戶外椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_ETHIMO-CHAIR/[PDF]_ethimo-chair_page20_img2.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
       "id": "FAMILY-SWING",
       "sku": "FAMILY-SWING",
       "name": "家庭式大型遮陽鞦韆",
@@ -1824,102 +3296,6 @@
       "origin": "馬來西亞製",
       "images": [
         "Product_Images/[Outdoor]_[pdf]_FAMILY-SWING/[PDF]_family-swing_page11_img1.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "FEIJOA-LOUNGE-CHAIR",
-      "sku": "FEIJOA-LOUNGE-CHAIR",
-      "name": "商用單人沙發休閒椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "商用單人沙發休閒椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_FEIJOA-LOUNGE-CHAIR/[PDF]_feijoa-lounge-chair_page11_img3.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "FERMOB-CHAIR",
-      "sku": "FERMOB-CHAIR",
-      "name": "Fermob 法式經典戶外椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Fermob 法式經典戶外椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_FERMOB-CHAIR/[PDF]_fermob-chair_page20_img3.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "FILTRO-CHAIR",
-      "sku": "FILTRO-CHAIR",
-      "name": "Filtro 簡約塑料椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Filtro 簡約塑料椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_FILTRO-CHAIR/[PDF]_filtro-chair_page7_img5.png"
       ],
       "image_dimensions": [
         [
@@ -1999,38 +3375,6 @@
       }
     },
     {
-      "id": "HANAKO-CHAIR",
-      "sku": "HANAKO-CHAIR",
-      "name": "Hanako 日式禪風和風椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Hanako 日式禪風和風椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_HANAKO-CHAIR/[PDF]_hanako-chair_page4_img2.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
       "id": "HANGING-SWING",
       "sku": "HANGING-SWING",
       "name": "懸掛式樹吊鞦韆",
@@ -2095,38 +3439,6 @@
       }
     },
     {
-      "id": "KATTI-CHAIR",
-      "sku": "KATTI-CHAIR",
-      "name": "Katti 工業風防銹鐵椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Katti 工業風防銹鐵椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約52×58cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_KATTI-CHAIR/[PDF]_katti-chair_page4_img8.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
       "id": "KERI-BAR-STOOL",
       "sku": "KERI-BAR-STOOL",
       "name": "商用高腳吧檯椅",
@@ -2144,70 +3456,6 @@
       "origin": "馬來西亞製",
       "images": [
         "Product_Images/[Commercial]_[pdf]_KERI-BAR-STOOL/[PDF]_keri-bar-stool_page10_img8.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "KESSIE-LOUNGE-CHAIR",
-      "sku": "KESSIE-LOUNGE-CHAIR",
-      "name": "商用單人沙發休閒椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "商用單人沙發休閒椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_KESSIE-LOUNGE-CHAIR/[PDF]_kessie-lounge-chair_page11_img7.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "KETTAL-LOUNGE-CHAIR",
-      "sku": "KETTAL-LOUNGE-CHAIR",
-      "name": "商用單人沙發休閒椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "商用單人沙發休閒椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_KETTAL-LOUNGE-CHAIR/[PDF]_kettal-lounge-chair_page11_img4.png"
       ],
       "image_dimensions": [
         [
@@ -2285,134 +3533,6 @@
       }
     },
     {
-      "id": "LAZOMI-CHAIR",
-      "sku": "LAZOMI-CHAIR",
-      "name": "Lazomi 北歐現代餐椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Lazomi 北歐現代餐椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約490×550cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_LAZOMI-CHAIR/[PDF]_lazomi-chair_page5_img7.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "LEON-CHAIR",
-      "sku": "LEON-CHAIR",
-      "name": "Leon 北歐軟包設計椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Leon 北歐軟包設計椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_LEON-CHAIR/[PDF]_leon-chair_page6_img5.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "LISS-CHAIR",
-      "sku": "LISS-CHAIR",
-      "name": "Liss 現代極簡餐椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Liss 現代極簡餐椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約58×53cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_LISS-CHAIR/[PDF]_liss-chair_page6_img10.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "LOUIS-CHAIR",
-      "sku": "LOUIS-CHAIR",
-      "name": "Louis 法式復古編藤椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Louis 法式復古編藤椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_LOUIS-CHAIR/[PDF]_louis-chair_page6_img4.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
       "id": "LOVESEAT-SWING-SWING-BEDSOLO-SWING",
       "sku": "LOVESEAT-SWING-SWING-BEDSOLO-SWING",
       "name": "雙人戶外遮陽鞦韆椅",
@@ -2475,70 +3595,6 @@
       }
     },
     {
-      "id": "MAGNUS-CHAIR",
-      "sku": "MAGNUS-CHAIR",
-      "name": "Magnus 極簡無垢實木椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Magnus 極簡無垢實木椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_MAGNUS-CHAIR/[PDF]_magnus-chair_page5_img3.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "MAMORIS-CHAIR",
-      "sku": "MAMORIS-CHAIR",
-      "name": "Mamoris 日式簡約木椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Mamoris 日式簡約木椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約58×53cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_MAMORIS-CHAIR/[PDF]_mamoris-chair_page6_img9.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
       "id": "MANTI-BAR-STOOL",
       "sku": "MANTI-BAR-STOOL",
       "name": "商用高腳吧檯椅",
@@ -2556,134 +3612,6 @@
       "origin": "馬來西亞製",
       "images": [
         "Product_Images/[Commercial]_[pdf]_MANTI-BAR-STOOL/[PDF]_manti-bar-stool_page21_img7.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "MAYA-CHAIR",
-      "sku": "MAYA-CHAIR",
-      "name": "Maya 現代簡約休閒椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Maya 現代簡約休閒椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_MAYA-CHAIR/[PDF]_maya-chair_page6_img6.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "MIA-CHAIR",
-      "sku": "MIA-CHAIR",
-      "name": "Mia 北歐休閒單椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Mia 北歐休閒單椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_MIA-CHAIR/[PDF]_mia-chair_page4_img5.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "MOLLY-CHAIR",
-      "sku": "MOLLY-CHAIR",
-      "name": "Molly 靠背木椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Molly 靠背木椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_MOLLY-CHAIR/[PDF]_molly-chair_page5_img4.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "MORA-CHAIR",
-      "sku": "MORA-CHAIR",
-      "name": "Mora 靠背工學椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Mora 靠背工學椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_MORA-CHAIR/[PDF]_mora-chair_page5_img6.png"
       ],
       "image_dimensions": [
         [
@@ -2763,70 +3691,6 @@
       }
     },
     {
-      "id": "NEST-CHAIR",
-      "sku": "NEST-CHAIR",
-      "name": "Nest 藤編包覆休閒椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Nest 藤編包覆休閒椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_NEST-CHAIR/[PDF]_nest-chair_page7_img8.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "OFFIZ-CHAIR",
-      "sku": "OFFIZ-CHAIR",
-      "name": "Offiz 人體工學電腦椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Offiz 人體工學電腦椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_OFFIZ-CHAIR/[PDF]_offiz-chair_page6_img7.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
       "id": "OLIE-BAR-STOOL",
       "sku": "OLIE-BAR-STOOL",
       "name": "商用高腳吧檯椅",
@@ -2844,38 +3708,6 @@
       "origin": "馬來西亞製",
       "images": [
         "Product_Images/[Commercial]_[pdf]_OLIE-BAR-STOOL/[PDF]_olie-bar-stool_page10_img7.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "OPPSI-CHAIR",
-      "sku": "OPPSI-CHAIR",
-      "name": "Oppsi 弧形休閒設計椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Oppsi 弧形休閒設計椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約560×510cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_OPPSI-CHAIR/[PDF]_oppsi-chair_page5_img9.png"
       ],
       "image_dimensions": [
         [
@@ -2955,70 +3787,6 @@
       }
     },
     {
-      "id": "OZEAN-CHAIR",
-      "sku": "OZEAN-CHAIR",
-      "name": "Ozean 全天候戶外休閒椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Ozean 全天候戶外休閒椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_OZEAN-CHAIR/[PDF]_ozean-chair_page7_img6.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "PANZER-CHAIR",
-      "sku": "PANZER-CHAIR",
-      "name": "Panzer 工業風鐵網單椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Panzer 工業風鐵網單椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_PANZER-CHAIR/[PDF]_panzer-chair_page7_img2.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
       "id": "PERA-BAR-STOOL",
       "sku": "PERA-BAR-STOOL",
       "name": "商用高腳吧檯椅",
@@ -3036,38 +3804,6 @@
       "origin": "馬來西亞製",
       "images": [
         "Product_Images/[Commercial]_[pdf]_PERA-BAR-STOOL/[PDF]_pera-bar-stool_page9_img6.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "PLASTIC-CHAIR",
-      "sku": "PLASTIC-CHAIR",
-      "name": "商用塑料椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "商用塑料椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_PLASTIC-CHAIR/[PDF]_plastic-chair_page7_img1.png"
       ],
       "image_dimensions": [
         [
@@ -3115,38 +3851,6 @@
       }
     },
     {
-      "id": "RATTAN-CHAIR",
-      "sku": "RATTAN-CHAIR",
-      "name": "戶外天然藤編休閒椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "戶外天然藤編休閒椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_RATTAN-CHAIR/[PDF]_rattan-chair_page7_img3.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
       "id": "RAYNE-BAR-SET",
       "sku": "RAYNE-BAR-SET",
       "name": "Rayne 經典高腳吧檯桌椅組",
@@ -3164,102 +3868,6 @@
       "origin": "馬來西亞製",
       "images": [
         "Product_Images/[Outdoor]_[pdf]_RAYNE-BAR-SET/[PDF]_rayne-bar-set_page8_img1.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "RENCE-CHAIR",
-      "sku": "RENCE-CHAIR",
-      "name": "Rence 質感皮革軟包椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Rence 質感皮革軟包椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約52×58cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_RENCE-CHAIR/[PDF]_rence-chair_page4_img6.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "RONDE-CHAIR",
-      "sku": "RONDE-CHAIR",
-      "name": "Ronde 圓坐墊實木スツール",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Ronde 圓坐墊實木スツール",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_RONDE-CHAIR/[PDF]_ronde-chair_page7_img7.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "ROSLY-CHAIR",
-      "sku": "ROSLY-CHAIR",
-      "name": "Rosly 現代美學餐椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Rosly 現代美學餐椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約56×52cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_ROSLY-CHAIR/[PDF]_rosly-chair_page7_img10.png"
       ],
       "image_dimensions": [
         [
@@ -3307,70 +3915,6 @@
       }
     },
     {
-      "id": "RUSTIC-CHAIR",
-      "sku": "RUSTIC-CHAIR",
-      "name": "Rustic 美式復古餐椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Rustic 美式復古餐椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約490×550cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_RUSTIC-CHAIR/[PDF]_rustic-chair_page5_img8.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "SALA-CHAIR",
-      "sku": "SALA-CHAIR",
-      "name": "Sala 北歐經典實木椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Sala 北歐經典實木椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約48×46cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_SALA-CHAIR/[PDF]_sala-chair_page3_img8.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
       "id": "SANTA-BAR-STOOL",
       "sku": "SANTA-BAR-STOOL",
       "name": "商用高腳吧檯椅",
@@ -3388,38 +3932,6 @@
       "origin": "馬來西亞製",
       "images": [
         "Product_Images/[Commercial]_[pdf]_SANTA-BAR-STOOL/[PDF]_santa-bar-stool_page10_img5.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "SCANDI-CHAIR",
-      "sku": "SCANDI-CHAIR",
-      "name": "Scandi 溫潤橡膠木椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Scandi 溫潤橡膠木椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_SCANDI-CHAIR/[PDF]_scandi-chair_page5_img2.png"
       ],
       "image_dimensions": [
         [
@@ -3484,70 +3996,6 @@
       "origin": "馬來西亞製",
       "images": [
         "Product_Images/[Commercial]_[pdf]_SISCO-BAR-STOOL/[PDF]_sisco-bar-stool_page9_img8.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "SIZZIE-LOUNGE-CHAIR",
-      "sku": "SIZZIE-LOUNGE-CHAIR",
-      "name": "商用單人沙發休閒椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "商用單人沙發休閒椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_SIZZIE-LOUNGE-CHAIR/[PDF]_sizzie-lounge-chair_page11_img2.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "SOKONI-CHAIR",
-      "sku": "SOKONI-CHAIR",
-      "name": "Sokoni 溫潤實木椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Sokoni 溫潤實木椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×56cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_SOKONI-CHAIR/[PDF]_sokoni-chair_page4_img1.png"
       ],
       "image_dimensions": [
         [
@@ -3805,70 +4253,6 @@
       }
     },
     {
-      "id": "STEEL-DINING-CHAIR",
-      "sku": "STEEL-DINING-CHAIR",
-      "name": "鋼製工業風餐椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "鋼製工業風餐椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_STEEL-DINING-CHAIR/[PDF]_steel-dining-chair_page6_img2.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "STEFIS-CHAIR",
-      "sku": "STEFIS-CHAIR",
-      "name": "Stefis 軟包氣壓升降椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Stefis 軟包氣壓升降椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約62×57cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_STEFIS-CHAIR/[PDF]_stefis-chair_page6_img1.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
       "id": "STIG-BAR-STOOL",
       "sku": "STIG-BAR-STOOL",
       "name": "商用高腳吧檯椅",
@@ -3963,38 +4347,6 @@
       }
     },
     {
-      "id": "TALENTI-CHAIR",
-      "sku": "TALENTI-CHAIR",
-      "name": "Talenti 輕奢戶外休閒椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Talenti 輕奢戶外休閒椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_TALENTI-CHAIR/[PDF]_talenti-chair_page20_img4.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
       "id": "TENZA-BAR-STOOL",
       "sku": "TENZA-BAR-STOOL",
       "name": "商用高腳吧檯椅",
@@ -4012,38 +4364,6 @@
       "origin": "馬來西亞製",
       "images": [
         "Product_Images/[Commercial]_[pdf]_TENZA-BAR-STOOL/[PDF]_tenza-bar-stool_page21_img2.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "TINA-CHAIR",
-      "sku": "TINA-CHAIR",
-      "name": "Tina 高透氣網背辦公椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Tina 高透氣網背辦公椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_TINA-CHAIR/[PDF]_tina-chair_page4_img4.png"
       ],
       "image_dimensions": [
         [
@@ -4123,102 +4443,6 @@
       }
     },
     {
-      "id": "TOLIX-DINING-ARM-CHAIR",
-      "sku": "TOLIX-DINING-ARM-CHAIR",
-      "name": "Tolix 帶扶手鐵藝餐椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Tolix 帶扶手鐵藝餐椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約52×52cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_TOLIX-DINING-ARM-CHAIR/[PDF]_tolix-dining-arm-chair_page8_img5.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "TOLIX-DINING-CHAIR",
-      "sku": "TOLIX-DINING-CHAIR",
-      "name": "Tolix 工業風餐椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Tolix 工業風餐椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_TOLIX-DINING-CHAIR/[PDF]_tolix-dining-chair_page8_img4.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "TOLIX-STEEL-CHAIR",
-      "sku": "TOLIX-STEEL-CHAIR",
-      "name": "Tolix 經典復古鐵藝椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Tolix 經典復古鐵藝椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_TOLIX-STEEL-CHAIR/[PDF]_tolix-steel-chair_page8_img1.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
       "id": "TOLIX-STOOL",
       "sku": "TOLIX-STOOL",
       "name": "Tolix 工業風高腳吧檯凳",
@@ -4283,38 +4507,6 @@
       }
     },
     {
-      "id": "VANDOM-CHAIR",
-      "sku": "VANDOM-CHAIR",
-      "name": "Vandom 戶外耐候塑料椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Vandom 戶外耐候塑料椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約48×46cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_VANDOM-CHAIR/[PDF]_vandom-chair_page20_img1.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
       "id": "VARAS-BAR-STOOL",
       "sku": "VARAS-BAR-STOOL",
       "name": "商用高腳吧檯椅",
@@ -4347,38 +4539,6 @@
       }
     },
     {
-      "id": "VARAS-CHAIR",
-      "sku": "VARAS-CHAIR",
-      "name": "Varas 戶外防撥水餐椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Varas 戶外防撥水餐椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_VARAS-CHAIR/[PDF]_varas-chair_page20_img5.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
       "id": "VEES-BAR-STOOL",
       "sku": "VEES-BAR-STOOL",
       "name": "商用高腳吧檯椅",
@@ -4396,102 +4556,6 @@
       "origin": "馬來西亞製",
       "images": [
         "Product_Images/[Commercial]_[pdf]_VEES-BAR-STOOL/[PDF]_vees-bar-stool_page10_img6.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "VICTORY-CHAIR",
-      "sku": "VICTORY-CHAIR",
-      "name": "Victory 經典商用椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Victory 經典商用椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約48×46cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_VICTORY-CHAIR/[PDF]_victory-chair_page3_img10.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "VITRA-LOUNGE-CHAIR",
-      "sku": "VITRA-LOUNGE-CHAIR",
-      "name": "商用單人沙發休閒椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "商用單人沙發休閒椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約54×60cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_VITRA-LOUNGE-CHAIR/[PDF]_vitra-lounge-chair_page20_img8.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "WASSI-CHAIR",
-      "sku": "WASSI-CHAIR",
-      "name": "Wassi 圓背休閒單椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "Wassi 圓背休閒單椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約550×480cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_WASSI-CHAIR/[PDF]_wassi-chair_page5_img1.png"
       ],
       "image_dimensions": [
         [
@@ -4648,70 +4712,6 @@
       "origin": "馬來西亞製",
       "images": [
         "Product_Images/[Outdoor]_[pdf]_X-DINING-SET/[PDF]_x-dining-set_page5_img1.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "YUKO-LOUNGE-CHAIR",
-      "sku": "YUKO-LOUNGE-CHAIR",
-      "name": "商用單人沙發休閒椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "商用單人沙發休閒椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_YUKO-LOUNGE-CHAIR/[PDF]_yuko-lounge-chair_page11_img8.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "ZEN-LOUNGE-CHAIR",
-      "sku": "ZEN-LOUNGE-CHAIR",
-      "name": "商用單人沙發休閒椅",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "餐椅",
-      "collection": "General Collection",
-      "description": "商用單人沙發休閒椅",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製",
-      "images": [
-        "Product_Images/[Commercial]_ZEN-LOUNGE-CHAIR/[PDF]_zen-lounge-chair_page11_img6.png"
       ],
       "image_dimensions": [
         [
