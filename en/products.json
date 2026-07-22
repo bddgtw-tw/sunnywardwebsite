@@ -17,7 +17,7 @@
       },
       "origin": "馬來西亞製 Made in Malaysia",
       "images": [
-        "Product_Images/[Commercial]_CIRCON-CHAIR/circon_studio_relight.jpg"
+        "Product_Images/[Commercial]_CIRCON-CHAIR/[PDF]_circon-chair_page3_img7.png"
       ],
       "image_dimensions": [
         [
@@ -49,7 +49,7 @@
       },
       "origin": "馬來西亞製 Made in Malaysia",
       "images": [
-        "Product_Images/[Commercial]_MACHETE-CHAIR/machete_premium_chair.jpg"
+        "Product_Images/[Commercial]_MACHETE-CHAIR/[PDF]_machete-chair_page3_img3.png"
       ],
       "image_dimensions": [
         [
@@ -113,7 +113,7 @@
       },
       "origin": "馬來西亞製 Made in Malaysia",
       "images": [
-        "Product_Images/[Office]_ST-MN01/executive_office_desk.jpg"
+        "Product_Images/[Commercial]_ST-MN01-1/st_mn01_1.png"
       ],
       "image_dimensions": [
         [
@@ -145,7 +145,7 @@
       },
       "origin": "馬來西亞製 Made in Malaysia",
       "images": [
-        "Product_Images/[Commercial]_SUTERA-CHAIR/sutera_studio_photo.jpg"
+        "Product_Images/[Commercial]_SUTERA-CHAIR/[PDF]_sutera-chair_page3_img9.png"
       ],
       "image_dimensions": [
         [
@@ -183,7 +183,7 @@
       },
       "origin": "China",
       "images": [
-        "Product_Images/[Outdoor]_SWF-91704070/swf_91704070.png"
+        "Product_Images/[Commercial]_SWF-91704070-1/swf_91704070_1.png"
       ],
       "image_dimensions": [
         [
@@ -220,7 +220,7 @@
       },
       "origin": "China",
       "images": [
-        "Product_Images/[Outdoor]_SWF-91704140/swf_91704140.png"
+        "Product_Images/[Commercial]_SWF-91704140-1/swf_91704140_1.png"
       ],
       "image_dimensions": [
         [
@@ -257,7 +257,7 @@
       },
       "origin": "China",
       "images": [
-        "Product_Images/[Outdoor]_SWF-91962520/swf_91962520.jpg"
+        "Product_Images/[Commercial]_SWF-91962520-1/swf_91962520_1.jpg"
       ],
       "image_dimensions": [
         [
@@ -289,7 +289,7 @@
       },
       "origin": "馬來西亞製 Made in Malaysia",
       "images": [
-        "Product_Images/[Commercial]_UNO-CHAIR/uno_designer_chair.jpg"
+        "Product_Images/[Commercial]_UNO-CHAIR/[PDF]_uno-chair_page3_img1.png"
       ],
       "image_dimensions": [
         [
@@ -321,7 +321,7 @@
       },
       "origin": "馬來西亞製 Made in Malaysia",
       "images": [
-        "Product_Images/[Commercial]_WOODEN-CHAIR/wooden_dining_chair.jpg"
+        "Product_Images/[Commercial]_WOODEN-CHAIR/[PDF]_wooden-chair_page3_img2.png"
       ],
       "image_dimensions": [
         [
@@ -337,14 +337,14 @@
       }
     },
     {
-      "id": "ABBRE-CHAIR",
-      "sku": "ABBRE-CHAIR",
-      "name": "Abbre Minimalist Dining Chair",
+      "id": "LOUNGE-CHAIR",
+      "sku": "LOUNGE-CHAIR",
+      "name": "Bespoke Lounge Chair",
       "brand": "Sunnyward",
       "category": "project",
       "sub_category": "Chair",
       "collection": "General Collection",
-      "description": "Abbre Minimalist Dining Chair",
+      "description": "Bespoke Lounge Chair",
       "materials": [
         "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
       ],
@@ -353,7 +353,7 @@
       },
       "origin": "馬來西亞製 Made in Malaysia",
       "images": [
-        "Product_Images/[Commercial]_ABBRE-CHAIR/abbre_chair.png"
+        "Product_Images/[Commercial]_BENSO-LOUNGE-CHAIR/benso_lounge_chair.png"
       ],
       "image_dimensions": [
         [
@@ -369,87 +369,23 @@
       }
     },
     {
-      "id": "BULL-CHAIR",
-      "sku": "BULL-CHAIR",
-      "name": "Bull Horn Solid Wood Chair",
+      "id": "SET",
+      "sku": "SET",
+      "name": "SET",
       "brand": "Sunnyward",
-      "category": "project",
+      "category": "outdoor",
       "sub_category": "Chair",
       "collection": "General Collection",
-      "description": "Bull Horn Solid Wood Chair",
+      "description": "SET",
       "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+        "Main Material: Premium Grade Balau Hardwood (Shorea Wood)"
       ],
       "dimensions": {
-        "raw": "約50×50cm"
+        "raw": "約121×121cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
       "images": [
-        "Product_Images/[Commercial]_BULL-CHAIR/bull_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "CAMPIZ-CHAIR",
-      "sku": "CAMPIZ-CHAIR",
-      "name": "Campiz Iron Armchair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Campiz Iron Armchair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_CAMPIZ-CHAIR/campiz_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "ERIK-CHAIR",
-      "sku": "ERIK-CHAIR",
-      "name": "Erik Wooden Side Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Erik Wooden Side Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_ERIK-CHAIR/erik_chair.png"
+        "Product_Images/[Outdoor]_SQUARE-TABLE-SET/balau_wood_patio_set.jpg"
       ],
       "image_dimensions": [
         [
@@ -513,7 +449,7 @@
       },
       "origin": "馬來西亞製 Made in Malaysia",
       "images": [
-        "Product_Images/[Office]_ST-DM01/st_dm01.jpeg"
+        "Product_Images/[Commercial]_ST-DM01-1/st_dm01_1.png"
       ],
       "image_dimensions": [
         [
@@ -545,7 +481,7 @@
       },
       "origin": "馬來西亞製 Made in Malaysia",
       "images": [
-        "Product_Images/[Office]_ST-MS01/st_ms01.jpeg"
+        "Product_Images/[Commercial]_ST-MS01-1/st_ms01_1.png"
       ],
       "image_dimensions": [
         [
@@ -561,14 +497,366 @@
       }
     },
     {
-      "id": "TINA-CHAIR",
-      "sku": "TINA-CHAIR",
-      "name": "Tina Ergonomic Mesh Task Chair",
+      "id": "ST-SQAMT2400",
+      "sku": "ST-SQAMT2400",
+      "name": "Modular Conference Table",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "Table",
+      "collection": "General Collection",
+      "description": "Modular Conference Table",
+      "materials": [
+        "Tabletop: Melamine Faced Chipboard (MFC) | Frame: Heavy-duty powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約240×120cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/[Commercial]_ST-SQAMT-2400-1/st_sqamt_2400_1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-SQAMT3600",
+      "sku": "ST-SQAMT3600",
+      "name": "Modular Conference Table",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "Table",
+      "collection": "General Collection",
+      "description": "Modular Conference Table",
+      "materials": [
+        "Tabletop: Melamine Faced Chipboard (MFC) | Frame: Heavy-duty powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約360×150cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/[Commercial]_ST-SQAMT-3600/st_sqamt_3600.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-SQAMT4800",
+      "sku": "ST-SQAMT4800",
+      "name": "Modular Conference Table",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "Table",
+      "collection": "General Collection",
+      "description": "Modular Conference Table",
+      "materials": [
+        "Tabletop: Melamine Faced Chipboard (MFC) | Frame: Heavy-duty powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約480×150cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/[Commercial]_ST-SQAMT-4800-1/st_sqamt_4800_1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-TRIMT1800",
+      "sku": "ST-TRIMT1800",
+      "name": "Modular Conference Table",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "Table",
+      "collection": "General Collection",
+      "description": "Modular Conference Table",
+      "materials": [
+        "Tabletop: Melamine Faced Chipboard (MFC) | Frame: Heavy-duty powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約180×90cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/[Commercial]_ST-TRIMT-1800-1/st_trimt_1800_1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-TRIMT2400",
+      "sku": "ST-TRIMT2400",
+      "name": "Modular Conference Table",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "Table",
+      "collection": "General Collection",
+      "description": "Modular Conference Table",
+      "materials": [
+        "Tabletop: Melamine Faced Chipboard (MFC) | Frame: Heavy-duty powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約240×120cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/[Commercial]_ST-TRIMT-2400/st_trimt_2400.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-TRIMT3000",
+      "sku": "ST-TRIMT3000",
+      "name": "Modular Conference Table",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "Table",
+      "collection": "General Collection",
+      "description": "Modular Conference Table",
+      "materials": [
+        "Tabletop: Melamine Faced Chipboard (MFC) | Frame: Heavy-duty powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約300×150cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/[Commercial]_ST-TRIMT-3000/st_trimt_3000.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-TRIMT3600",
+      "sku": "ST-TRIMT3600",
+      "name": "Modular Conference Table",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "Table",
+      "collection": "General Collection",
+      "description": "Modular Conference Table",
+      "materials": [
+        "Tabletop: Melamine Faced Chipboard (MFC) | Frame: Heavy-duty powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約360×150cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/[Commercial]_ST-TRIMT-3600/st_trimt_3600.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-TRIMT4800",
+      "sku": "ST-TRIMT4800",
+      "name": "Modular Conference Table",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "Table",
+      "collection": "General Collection",
+      "description": "Modular Conference Table",
+      "materials": [
+        "Tabletop: Melamine Faced Chipboard (MFC) | Frame: Heavy-duty powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約480×150cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/[Commercial]_ST-TRIMT-4800/st_trimt_4800.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-YOUNG01",
+      "sku": "ST-YOUNG01",
+      "name": "Executive Director Office Desk",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "Table",
+      "collection": "General Collection",
+      "description": "Executive Director Office Desk",
+      "materials": [
+        "Tabletop: Melamine Faced Chipboard (MFC) | Frame: Heavy-duty powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約210×200cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/[Commercial]_ST-YOUNG01-1/st_young01_1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-YOUNGMT2400",
+      "sku": "ST-YOUNGMT2400",
+      "name": "Modular Conference Table",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "Table",
+      "collection": "General Collection",
+      "description": "Modular Conference Table",
+      "materials": [
+        "Tabletop: Melamine Faced Chipboard (MFC) | Frame: Heavy-duty powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約240×120cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/[Commercial]_ST-YOUNGMT-2400-1/st_youngmt_2400_1.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ST-YOUNGMT4800",
+      "sku": "ST-YOUNGMT4800",
+      "name": "Modular Conference Table",
+      "brand": "Sunnyward",
+      "category": "office",
+      "sub_category": "Table",
+      "collection": "General Collection",
+      "description": "Modular Conference Table",
+      "materials": [
+        "Tabletop: Melamine Faced Chipboard (MFC) | Frame: Heavy-duty powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約480×150cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/[Commercial]_ST-YOUNGMT-4800/st_youngmt_4800.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ABBRE-CHAIR",
+      "sku": "ABBRE-CHAIR",
+      "name": "Abbre Minimalist Dining Chair",
       "brand": "Sunnyward",
       "category": "project",
       "sub_category": "Chair",
       "collection": "General Collection",
-      "description": "Tina Ergonomic Mesh Task Chair",
+      "description": "Abbre Minimalist Dining Chair",
       "materials": [
         "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
       ],
@@ -577,39 +865,7 @@
       },
       "origin": "馬來西亞製 Made in Malaysia",
       "images": [
-        "Product_Images/[Commercial]_TINA-CHAIR/ergonomic_mesh_chair.jpg"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "TOLIX-DINING-ARM-CHAIR",
-      "sku": "TOLIX-DINING-ARM-CHAIR",
-      "name": "Tolix Dining Armchair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Tolix Dining Armchair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約52×52cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_TOLIX-DINING-ARM-CHAIR/tolix_dining_arm_chair.png"
+        "Product_Images/[Commercial]_ABBRE-CHAIR/[PDF]_abbre-chair_page3_img4.png"
       ],
       "image_dimensions": [
         [
@@ -737,7 +993,7 @@
       },
       "origin": "馬來西亞製 Made in Malaysia",
       "images": [
-        "Product_Images/[Commercial]_[pdf]_BAR-STOOL/[PDF]_bar-stool_page109_img1.jpeg"
+        "Product_Images/[Commercial]_[pdf]_ATTIE-BAR-STOOL/[PDF]_attie-bar-stool_page21_img1.png"
       ],
       "image_dimensions": [
         [
@@ -769,7 +1025,7 @@
       },
       "origin": "馬來西亞製 Made in Malaysia",
       "images": [
-        "Product_Images/[Outdoor]_[pdf]_BBQ-SET/[PDF]_bbq-set_page15_img1.png"
+        "Product_Images/[Outdoor]_[pdf]_BBQ-SET-ELITE/[PDF]_bbq-set-elite_page15_img1.png"
       ],
       "image_dimensions": [
         [
@@ -800,7 +1056,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Outdoor]_[pdf]_BBQ-SET-ELITE/[PDF]_bbq-set-elite_page15_img1.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -830,7 +1088,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Outdoor]_[pdf]_BBQ-SET-SUPREME/[PDF]_bbq-set-supreme_page15_img1.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -924,7 +1184,9 @@
         "raw": "約55×60cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_BOBI-BAR-STOOL/[PDF]_bobi-bar-stool_page21_img9.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -954,7 +1216,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_BOYIE-LOUNGE-CHAIR/[PDF]_boyie-lounge-chair_page11_img5.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -984,7 +1248,73 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_BUENO-BAR-STOOL/[PDF]_bueno-bar-stool_page21_img4.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "BULL-CHAIR",
+      "sku": "BULL-CHAIR",
+      "name": "Bull Horn Solid Wood Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Bull Horn Solid Wood Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/[Commercial]_BULL-CHAIR/[PDF]_bull-chair_page7_img9.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "CAMPIZ-CHAIR",
+      "sku": "CAMPIZ-CHAIR",
+      "name": "Campiz Iron Armchair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Campiz Iron Armchair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/[Commercial]_CAMPIZ-CHAIR/[PDF]_campiz-chair_page6_img3.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1014,7 +1344,9 @@
         "raw": "約58×53cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_CASTER-CHAIR/[PDF]_caster-chair_page6_img8.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1044,7 +1376,9 @@
         "raw": "約52×46cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_CASY-BAR-STOOL/[PDF]_casy-bar-stool_page10_img9.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1074,7 +1408,9 @@
         "raw": "約52×58cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_CHERI-CHAIR/[PDF]_cheri-chair_page4_img7.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1104,7 +1440,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_COMBO-CHAIR/[PDF]_combo-chair_page7_img4.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1134,7 +1472,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_COMFORT-CHAIR/[PDF]_comfort-chair_page3_img6.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1164,7 +1504,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_DAMIEN-BAR-STOOL/[PDF]_damien-bar-stool_page9_img3.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1194,7 +1536,9 @@
         "raw": "約46×56cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_DARYL-BAR-STOOL/[PDF]_daryl-bar-stool_page10_img10.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1224,7 +1568,9 @@
         "raw": "約121×304cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Outdoor]_[pdf]_DINING-SET-WITH/[PDF]_dining-set-with_page4_img1.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1284,7 +1630,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_DROIT-CHAIR/[PDF]_droit-chair_page3_img5.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1346,7 +1694,41 @@
         "raw": "約54×60cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_EMU-LOUNGE-CHAIR/[PDF]_emu-lounge-chair_page20_img9.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ERIK-CHAIR",
+      "sku": "ERIK-CHAIR",
+      "name": "Erik Wooden Side Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Erik Wooden Side Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/[Commercial]_ERIK-CHAIR/[PDF]_erik-chair_page5_img5.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1376,7 +1758,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_ESSO-LOUNGE-CHAIR/[PDF]_esso-lounge-chair_page11_img1.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1406,7 +1790,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_ETHIMO-CHAIR/[PDF]_ethimo-chair_page20_img2.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1436,7 +1822,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Outdoor]_[pdf]_FAMILY-SWING/[PDF]_family-swing_page11_img1.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1466,7 +1854,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_FEIJOA-LOUNGE-CHAIR/[PDF]_feijoa-lounge-chair_page11_img3.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1496,7 +1886,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_FERMOB-CHAIR/[PDF]_fermob-chair_page20_img3.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1526,7 +1918,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_FILTRO-CHAIR/[PDF]_filtro-chair_page7_img5.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1588,7 +1982,9 @@
         "raw": "約63×63cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_GRACIAS-BAR-STOOL/[PDF]_gracias-bar-stool_page21_img10.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1618,7 +2014,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_HANAKO-CHAIR/[PDF]_hanako-chair_page4_img2.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1680,7 +2078,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_HATTIE-BAR-STOOL/[PDF]_hattie-bar-stool_page9_img4.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1710,7 +2110,9 @@
         "raw": "約52×58cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_KATTI-CHAIR/[PDF]_katti-chair_page4_img8.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1740,7 +2142,9 @@
         "raw": "約51×54cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_KERI-BAR-STOOL/[PDF]_keri-bar-stool_page10_img8.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1770,7 +2174,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_KESSIE-LOUNGE-CHAIR/[PDF]_kessie-lounge-chair_page11_img7.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1800,7 +2206,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_KETTAL-LOUNGE-CHAIR/[PDF]_kettal-lounge-chair_page11_img4.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1860,7 +2268,9 @@
         "raw": "約54×58cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_LACITO-BAR-STOOL/[PDF]_lacito-bar-stool_page21_img8.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1890,7 +2300,9 @@
         "raw": "約490×550cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_LAZOMI-CHAIR/[PDF]_lazomi-chair_page5_img7.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1920,7 +2332,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_LEON-CHAIR/[PDF]_leon-chair_page6_img5.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1950,7 +2364,9 @@
         "raw": "約58×53cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_LISS-CHAIR/[PDF]_liss-chair_page6_img10.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -1980,38 +2396,8 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "LOUNGE-CHAIR",
-      "sku": "LOUNGE-CHAIR",
-      "name": "Bespoke Lounge Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Bespoke Lounge Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
       "images": [
-        "Product_Images/[Commercial]_LOUNGE-CHAIR/[PDF]_lounge-chair_page16_img1.png"
+        "Product_Images/[Commercial]_LOUIS-CHAIR/[PDF]_louis-chair_page6_img4.png"
       ],
       "image_dimensions": [
         [
@@ -2072,7 +2458,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_LUIS-BAR-STOOL/[PDF]_luis-bar-stool_page10_img2.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2102,7 +2490,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_MAGNUS-CHAIR/[PDF]_magnus-chair_page5_img3.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2132,7 +2522,9 @@
         "raw": "約58×53cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_MAMORIS-CHAIR/[PDF]_mamoris-chair_page6_img9.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2162,7 +2554,9 @@
         "raw": "約54×64cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_MANTI-BAR-STOOL/[PDF]_manti-bar-stool_page21_img7.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2192,7 +2586,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_MAYA-CHAIR/[PDF]_maya-chair_page6_img6.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2222,7 +2618,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_MIA-CHAIR/[PDF]_mia-chair_page4_img5.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2252,7 +2650,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_MOLLY-CHAIR/[PDF]_molly-chair_page5_img4.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2282,7 +2682,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_MORA-CHAIR/[PDF]_mora-chair_page5_img6.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2312,7 +2714,9 @@
         "raw": "約42×44cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_MORAS-BAR-STOOL/[PDF]_moras-bar-stool_page9_img1.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2342,7 +2746,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_NERDY-BAR-STOOL/[PDF]_nerdy-bar-stool_page9_img2.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2372,7 +2778,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_NEST-CHAIR/[PDF]_nest-chair_page7_img8.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2402,7 +2810,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_OFFIZ-CHAIR/[PDF]_offiz-chair_page6_img7.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2432,7 +2842,9 @@
         "raw": "約51×54cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_OLIE-BAR-STOOL/[PDF]_olie-bar-stool_page10_img7.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2462,7 +2874,9 @@
         "raw": "約560×510cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_OPPSI-CHAIR/[PDF]_oppsi-chair_page5_img9.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2492,7 +2906,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_ORIN-BAR-STOOL/[PDF]_orin-bar-stool_page10_img3.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2522,7 +2938,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_OUTDOOR-BAR-STOOL/[PDF]_outdoor-bar-stool_page21_img1.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2552,7 +2970,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_OZEAN-CHAIR/[PDF]_ozean-chair_page7_img6.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2582,7 +3002,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_PANZER-CHAIR/[PDF]_panzer-chair_page7_img2.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2612,7 +3034,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_PERA-BAR-STOOL/[PDF]_pera-bar-stool_page9_img6.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2642,7 +3066,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_PLASTIC-CHAIR/[PDF]_plastic-chair_page7_img1.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2672,7 +3098,9 @@
         "raw": "約41×39cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_POLLY-BAR-STOOL/[PDF]_polly-bar-stool_page10_img4.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2702,7 +3130,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_RATTAN-CHAIR/[PDF]_rattan-chair_page7_img3.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2732,7 +3162,9 @@
         "raw": "約3×26cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Outdoor]_[pdf]_RAYNE-BAR-SET/[PDF]_rayne-bar-set_page8_img1.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2762,7 +3194,9 @@
         "raw": "約52×58cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_RENCE-CHAIR/[PDF]_rence-chair_page4_img6.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2792,7 +3226,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_RONDE-CHAIR/[PDF]_ronde-chair_page7_img7.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2822,7 +3258,9 @@
         "raw": "約56×52cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_ROSLY-CHAIR/[PDF]_rosly-chair_page7_img10.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2884,7 +3322,9 @@
         "raw": "約490×550cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_RUSTIC-CHAIR/[PDF]_rustic-chair_page5_img8.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2914,7 +3354,9 @@
         "raw": "約48×46cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_SALA-CHAIR/[PDF]_sala-chair_page3_img8.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2944,7 +3386,9 @@
         "raw": "約41×39cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_SANTA-BAR-STOOL/[PDF]_santa-bar-stool_page10_img5.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -2974,7 +3418,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_SCANDI-CHAIR/[PDF]_scandi-chair_page5_img2.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -3004,38 +3450,8 @@
         "raw": "約52×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "SET",
-      "sku": "SET",
-      "name": "SET",
-      "brand": "Sunnyward",
-      "category": "outdoor",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "SET",
-      "materials": [
-        "Main Material: Premium Grade Balau Hardwood (Shorea Wood)"
-      ],
-      "dimensions": {
-        "raw": "約121×121cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
       "images": [
-        "Product_Images/[Outdoor]_[pdf]_SET/[PDF]_set_page10_img1.png"
+        "Product_Images/[Commercial]_[pdf]_SENSILLA-BAR-STOOL/[PDF]_sensilla-bar-stool_page21_img6.png"
       ],
       "image_dimensions": [
         [
@@ -3066,7 +3482,9 @@
         "raw": "約42×45cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_SISCO-BAR-STOOL/[PDF]_sisco-bar-stool_page9_img8.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -3096,7 +3514,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_SIZZIE-LOUNGE-CHAIR/[PDF]_sizzie-lounge-chair_page11_img2.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -3126,7 +3546,9 @@
         "raw": "約50×56cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_SOKONI-CHAIR/[PDF]_sokoni-chair_page4_img1.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -3184,276 +3606,6 @@
       ],
       "dimensions": {
         "raw": "約180×90cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "ST-SQAMT2400",
-      "sku": "ST-SQAMT2400",
-      "name": "Modular Conference Table",
-      "brand": "Sunnyward",
-      "category": "office",
-      "sub_category": "Table",
-      "collection": "General Collection",
-      "description": "Modular Conference Table",
-      "materials": [
-        "Tabletop: Melamine Faced Chipboard (MFC) | Frame: Heavy-duty powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約240×120cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "ST-SQAMT3600",
-      "sku": "ST-SQAMT3600",
-      "name": "Modular Conference Table",
-      "brand": "Sunnyward",
-      "category": "office",
-      "sub_category": "Table",
-      "collection": "General Collection",
-      "description": "Modular Conference Table",
-      "materials": [
-        "Tabletop: Melamine Faced Chipboard (MFC) | Frame: Heavy-duty powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約360×150cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "ST-SQAMT4800",
-      "sku": "ST-SQAMT4800",
-      "name": "Modular Conference Table",
-      "brand": "Sunnyward",
-      "category": "office",
-      "sub_category": "Table",
-      "collection": "General Collection",
-      "description": "Modular Conference Table",
-      "materials": [
-        "Tabletop: Melamine Faced Chipboard (MFC) | Frame: Heavy-duty powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約480×150cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "ST-TRIMT1800",
-      "sku": "ST-TRIMT1800",
-      "name": "Modular Conference Table",
-      "brand": "Sunnyward",
-      "category": "office",
-      "sub_category": "Table",
-      "collection": "General Collection",
-      "description": "Modular Conference Table",
-      "materials": [
-        "Tabletop: Melamine Faced Chipboard (MFC) | Frame: Heavy-duty powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約180×90cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "ST-TRIMT2400",
-      "sku": "ST-TRIMT2400",
-      "name": "Modular Conference Table",
-      "brand": "Sunnyward",
-      "category": "office",
-      "sub_category": "Table",
-      "collection": "General Collection",
-      "description": "Modular Conference Table",
-      "materials": [
-        "Tabletop: Melamine Faced Chipboard (MFC) | Frame: Heavy-duty powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約240×120cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "ST-TRIMT3000",
-      "sku": "ST-TRIMT3000",
-      "name": "Modular Conference Table",
-      "brand": "Sunnyward",
-      "category": "office",
-      "sub_category": "Table",
-      "collection": "General Collection",
-      "description": "Modular Conference Table",
-      "materials": [
-        "Tabletop: Melamine Faced Chipboard (MFC) | Frame: Heavy-duty powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約300×150cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "ST-TRIMT3600",
-      "sku": "ST-TRIMT3600",
-      "name": "Modular Conference Table",
-      "brand": "Sunnyward",
-      "category": "office",
-      "sub_category": "Table",
-      "collection": "General Collection",
-      "description": "Modular Conference Table",
-      "materials": [
-        "Tabletop: Melamine Faced Chipboard (MFC) | Frame: Heavy-duty powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約360×150cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "ST-TRIMT4800",
-      "sku": "ST-TRIMT4800",
-      "name": "Modular Conference Table",
-      "brand": "Sunnyward",
-      "category": "office",
-      "sub_category": "Table",
-      "collection": "General Collection",
-      "description": "Modular Conference Table",
-      "materials": [
-        "Tabletop: Melamine Faced Chipboard (MFC) | Frame: Heavy-duty powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約480×150cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "ST-YOUNG01",
-      "sku": "ST-YOUNG01",
-      "name": "Executive Director Office Desk",
-      "brand": "Sunnyward",
-      "category": "office",
-      "sub_category": "Table",
-      "collection": "General Collection",
-      "description": "Executive Director Office Desk",
-      "materials": [
-        "Tabletop: Melamine Faced Chipboard (MFC) | Frame: Heavy-duty powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約210×200cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
       "images": [],
@@ -3561,36 +3713,6 @@
       }
     },
     {
-      "id": "ST-YOUNGMT2400",
-      "sku": "ST-YOUNGMT2400",
-      "name": "Modular Conference Table",
-      "brand": "Sunnyward",
-      "category": "office",
-      "sub_category": "Table",
-      "collection": "General Collection",
-      "description": "Modular Conference Table",
-      "materials": [
-        "Tabletop: Melamine Faced Chipboard (MFC) | Frame: Heavy-duty powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約240×120cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
       "id": "ST-YOUNGMT3600",
       "sku": "ST-YOUNGMT3600",
       "name": "Modular Conference Table",
@@ -3604,36 +3726,6 @@
       ],
       "dimensions": {
         "raw": "約360×150cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "ST-YOUNGMT4800",
-      "sku": "ST-YOUNGMT4800",
-      "name": "Modular Conference Table",
-      "brand": "Sunnyward",
-      "category": "office",
-      "sub_category": "Table",
-      "collection": "General Collection",
-      "description": "Modular Conference Table",
-      "materials": [
-        "Tabletop: Melamine Faced Chipboard (MFC) | Frame: Heavy-duty powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約480×150cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
       "images": [],
@@ -3696,7 +3788,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_STEEL-BAR-STOOL/[PDF]_steel-bar-stool_page10_img1.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -3726,7 +3820,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_STEEL-DINING-CHAIR/[PDF]_steel-dining-chair_page6_img2.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -3756,7 +3852,9 @@
         "raw": "約62×57cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_STEFIS-CHAIR/[PDF]_stefis-chair_page6_img1.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -3786,7 +3884,9 @@
         "raw": "約42×45cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_STIG-BAR-STOOL/[PDF]_stig-bar-stool_page9_img7.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -3846,7 +3946,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Outdoor]_[pdf]_SWING-WITH-STAND/[PDF]_swing-with-stand_page11_img1.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -3876,7 +3978,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_TALENTI-CHAIR/[PDF]_talenti-chair_page20_img4.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -3906,7 +4010,41 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_TENZA-BAR-STOOL/[PDF]_tenza-bar-stool_page21_img2.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "TINA-CHAIR",
+      "sku": "TINA-CHAIR",
+      "name": "Tina Ergonomic Mesh Task Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Tina Ergonomic Mesh Task Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/[Commercial]_TINA-CHAIR/[PDF]_tina-chair_page4_img4.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -3936,7 +4074,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_TOBY-BAR-STOOL/[PDF]_toby-bar-stool_page9_img5.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -3966,7 +4106,41 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_TOLIX-BAR-STOOL/[PDF]_tolix-bar-stool_page8_img3.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "TOLIX-DINING-ARM-CHAIR",
+      "sku": "TOLIX-DINING-ARM-CHAIR",
+      "name": "Tolix Dining Armchair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Tolix Dining Armchair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約52×52cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/[Commercial]_TOLIX-DINING-ARM-CHAIR/[PDF]_tolix-dining-arm-chair_page8_img5.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -3996,7 +4170,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_TOLIX-DINING-CHAIR/[PDF]_tolix-dining-chair_page8_img4.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -4026,7 +4202,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_TOLIX-STEEL-CHAIR/[PDF]_tolix-steel-chair_page8_img1.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -4056,7 +4234,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_TOLIX-STOOL/[PDF]_tolix-stool_page8_img2.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -4086,7 +4266,9 @@
         "raw": "約91×152cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Outdoor]_[pdf]_TWO-SEAT-BAR-SET/[PDF]_two-seat-bar-set_page8_img1.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -4116,7 +4298,9 @@
         "raw": "約48×46cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_VANDOM-CHAIR/[PDF]_vandom-chair_page20_img1.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -4146,7 +4330,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_VARAS-BAR-STOOL/[PDF]_varas-bar-stool_page20_img6.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -4176,7 +4362,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_VARAS-CHAIR/[PDF]_varas-chair_page20_img5.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -4206,7 +4394,9 @@
         "raw": "約53×52cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_VEES-BAR-STOOL/[PDF]_vees-bar-stool_page10_img6.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -4236,7 +4426,9 @@
         "raw": "約48×46cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_VICTORY-CHAIR/[PDF]_victory-chair_page3_img10.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -4266,7 +4458,9 @@
         "raw": "約54×60cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_VITRA-LOUNGE-CHAIR/[PDF]_vitra-lounge-chair_page20_img8.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -4296,7 +4490,9 @@
         "raw": "約550×480cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_WASSI-CHAIR/[PDF]_wassi-chair_page5_img1.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -4357,7 +4553,7 @@
       },
       "origin": "馬來西亞製 Made in Malaysia",
       "images": [
-        "Product_Images/[Outdoor]_[pdf]_WITH-STAND/[PDF]_with-stand_page124_img1.jpeg"
+        "Product_Images/[Outdoor]_[pdf]_SWING-WITH-STAND/[PDF]_swing-with-stand_page11_img1.png"
       ],
       "image_dimensions": [
         [
@@ -4388,7 +4584,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Outdoor]_[pdf]_WITH-SWING/[PDF]_with-swing_page12_img1.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -4448,7 +4646,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Outdoor]_[pdf]_X-DINING-SET/[PDF]_x-dining-set_page5_img1.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -4478,7 +4678,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_YUKO-LOUNGE-CHAIR/[PDF]_yuko-lounge-chair_page11_img8.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -4508,7 +4710,9 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_ZEN-LOUNGE-CHAIR/[PDF]_zen-lounge-chair_page11_img6.png"
+      ],
       "image_dimensions": [
         [
           600,
@@ -4538,7 +4742,9 @@
         "raw": "約50×51cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [],
+      "images": [
+        "Product_Images/[Commercial]_[pdf]_ZUSS-BAR-STOOL/[PDF]_zuss-bar-stool_page21_img5.png"
+      ],
       "image_dimensions": [
         [
           600,
