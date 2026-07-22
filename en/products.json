@@ -289,7 +289,7 @@
       },
       "origin": "馬來西亞製 Made in Malaysia",
       "images": [
-        "Product_Images/[Commercial]_UNO-CHAIR/uno_chair.png"
+        "Product_Images/[Commercial]_UNO-CHAIR/uno_designer_chair.jpg"
       ],
       "image_dimensions": [
         [
@@ -321,7 +321,7 @@
       },
       "origin": "馬來西亞製 Made in Malaysia",
       "images": [
-        "Product_Images/[Commercial]_WOODEN-CHAIR/wooden_chair.png"
+        "Product_Images/[Commercial]_WOODEN-CHAIR/wooden_dining_chair.jpg"
       ],
       "image_dimensions": [
         [
@@ -354,102 +354,6 @@
       "origin": "馬來西亞製 Made in Malaysia",
       "images": [
         "Product_Images/[Commercial]_ABBRE-CHAIR/abbre_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "ANGEL-CHAIR",
-      "sku": "ANGEL-CHAIR",
-      "name": "Angel Upholstered Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Angel Upholstered Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_ANGEL-CHAIR/angel_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "BENSO-LOUNGE-CHAIR",
-      "sku": "BENSO-LOUNGE-CHAIR",
-      "name": "Bespoke Lounge Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Bespoke Lounge Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約60×64cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_BENSO-LOUNGE-CHAIR/benso_lounge_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "BOYIE-LOUNGE-CHAIR",
-      "sku": "BOYIE-LOUNGE-CHAIR",
-      "name": "Bespoke Lounge Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Bespoke Lounge Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_BOYIE-LOUNGE-CHAIR/boyie_lounge_chair.png"
       ],
       "image_dimensions": [
         [
@@ -529,230 +433,6 @@
       }
     },
     {
-      "id": "CASTER-CHAIR",
-      "sku": "CASTER-CHAIR",
-      "name": "Caster Swivel Task Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Caster Swivel Task Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約58×53cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_CASTER-CHAIR/caster_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "CHERI-CHAIR",
-      "sku": "CHERI-CHAIR",
-      "name": "Cheri Luxury Metal Frame Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Cheri Luxury Metal Frame Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約52×58cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_CHERI-CHAIR/cheri_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "COMBO-CHAIR",
-      "sku": "COMBO-CHAIR",
-      "name": "Combo Folding Utility Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Combo Folding Utility Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_COMBO-CHAIR/combo_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "COMFORT-CHAIR",
-      "sku": "COMFORT-CHAIR",
-      "name": "Comfort Padded Dining Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Comfort Padded Dining Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_COMFORT-CHAIR/comfort_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "DROIT-CHAIR",
-      "sku": "DROIT-CHAIR",
-      "name": "Droit Dining Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Droit Dining Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_DROIT-CHAIR/droit_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "EMU-CHAIR",
-      "sku": "EMU-CHAIR",
-      "name": "EMU CHAIR",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "EMU CHAIR",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約54×60cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_EMU-CHAIR/emu_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "EMU-LOUNGE-CHAIR",
-      "sku": "EMU-LOUNGE-CHAIR",
-      "name": "Bespoke Lounge Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Bespoke Lounge Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約54×60cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_EMU-LOUNGE-CHAIR/emu_lounge_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
       "id": "ERIK-CHAIR",
       "sku": "ERIK-CHAIR",
       "name": "Erik Wooden Side Chair",
@@ -770,1126 +450,6 @@
       "origin": "馬來西亞製 Made in Malaysia",
       "images": [
         "Product_Images/[Commercial]_ERIK-CHAIR/erik_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "ESSO-LOUNGE-CHAIR",
-      "sku": "ESSO-LOUNGE-CHAIR",
-      "name": "Bespoke Lounge Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Bespoke Lounge Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_ESSO-LOUNGE-CHAIR/esso_lounge_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "ETHIMO-CHAIR",
-      "sku": "ETHIMO-CHAIR",
-      "name": "Ethimo Premium Outdoor Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Ethimo Premium Outdoor Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_ETHIMO-CHAIR/ethimo_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "FEIJOA-LOUNGE-CHAIR",
-      "sku": "FEIJOA-LOUNGE-CHAIR",
-      "name": "Bespoke Lounge Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Bespoke Lounge Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_FEIJOA-LOUNGE-CHAIR/feijoa_lounge_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "FERMOB-CHAIR",
-      "sku": "FERMOB-CHAIR",
-      "name": "Fermob French Bistro Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Fermob French Bistro Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_FERMOB-CHAIR/fermob_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "FILTRO-CHAIR",
-      "sku": "FILTRO-CHAIR",
-      "name": "Filtro Minimalist Plastic Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Filtro Minimalist Plastic Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_FILTRO-CHAIR/filtro_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "HANAKO-CHAIR",
-      "sku": "HANAKO-CHAIR",
-      "name": "Hanako Zen Style Dining Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Hanako Zen Style Dining Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_HANAKO-CHAIR/hanako_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "KATTI-CHAIR",
-      "sku": "KATTI-CHAIR",
-      "name": "Katti Industrial Steel Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Katti Industrial Steel Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約52×58cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_KATTI-CHAIR/katti_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "KESSIE-LOUNGE-CHAIR",
-      "sku": "KESSIE-LOUNGE-CHAIR",
-      "name": "Bespoke Lounge Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Bespoke Lounge Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_KESSIE-LOUNGE-CHAIR/kessie_lounge_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "KETTAL-LOUNGE-CHAIR",
-      "sku": "KETTAL-LOUNGE-CHAIR",
-      "name": "Bespoke Lounge Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Bespoke Lounge Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_KETTAL-LOUNGE-CHAIR/kettal_lounge_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "LAZOMI-CHAIR",
-      "sku": "LAZOMI-CHAIR",
-      "name": "Lazomi Modern Dining Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Lazomi Modern Dining Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約490×550cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_LAZOMI-CHAIR/lazomi_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "LEON-CHAIR",
-      "sku": "LEON-CHAIR",
-      "name": "Leon Nordic Cushioned Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Leon Nordic Cushioned Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_LEON-CHAIR/leon_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "LISS-CHAIR",
-      "sku": "LISS-CHAIR",
-      "name": "Liss Contemporary Dining Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Liss Contemporary Dining Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約58×53cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_LISS-CHAIR/liss_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "LOUIS-CHAIR",
-      "sku": "LOUIS-CHAIR",
-      "name": "Louis French Provincial Dining Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Louis French Provincial Dining Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_LOUIS-CHAIR/louis_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "LOUNGE-CHAIR",
-      "sku": "LOUNGE-CHAIR",
-      "name": "Bespoke Lounge Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Bespoke Lounge Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_LOUNGE-CHAIR/lounge_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "MAGNUS-CHAIR",
-      "sku": "MAGNUS-CHAIR",
-      "name": "Magnus Solid Wood Dining Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Magnus Solid Wood Dining Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_MAGNUS-CHAIR/magnus_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "MAMORIS-CHAIR",
-      "sku": "MAMORIS-CHAIR",
-      "name": "Mamoris Wooden Dining Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Mamoris Wooden Dining Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約58×53cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_MAMORIS-CHAIR/mamoris_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "MAYA-CHAIR",
-      "sku": "MAYA-CHAIR",
-      "name": "Maya Contemporary Lounge Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Maya Contemporary Lounge Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_MAYA-CHAIR/maya_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "MIA-CHAIR",
-      "sku": "MIA-CHAIR",
-      "name": "Mia Nordic Accent Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Mia Nordic Accent Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_MIA-CHAIR/mia_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "MOLLY-CHAIR",
-      "sku": "MOLLY-CHAIR",
-      "name": "Molly Dining Chair with Backrest",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Molly Dining Chair with Backrest",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_MOLLY-CHAIR/molly_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "MORA-CHAIR",
-      "sku": "MORA-CHAIR",
-      "name": "Mora Ergonomic Dining Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Mora Ergonomic Dining Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_MORA-CHAIR/mora_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "NEST-CHAIR",
-      "sku": "NEST-CHAIR",
-      "name": "Nest Cozy Rattan Armchair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Nest Cozy Rattan Armchair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_NEST-CHAIR/nest_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "OFFIZ-CHAIR",
-      "sku": "OFFIZ-CHAIR",
-      "name": "Offiz Ergonomic Desk Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Offiz Ergonomic Desk Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_OFFIZ-CHAIR/offiz_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "OPPSI-CHAIR",
-      "sku": "OPPSI-CHAIR",
-      "name": "Oppsi Curved Lounge Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Oppsi Curved Lounge Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約560×510cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_OPPSI-CHAIR/oppsi_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "OZEAN-CHAIR",
-      "sku": "OZEAN-CHAIR",
-      "name": "Ozean All-Weather Patio Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Ozean All-Weather Patio Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_OZEAN-CHAIR/ozean_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "PANZER-CHAIR",
-      "sku": "PANZER-CHAIR",
-      "name": "Panzer Metal Mesh Dining Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Panzer Metal Mesh Dining Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_PANZER-CHAIR/panzer_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "PLASTIC-CHAIR",
-      "sku": "PLASTIC-CHAIR",
-      "name": "Commercial Molded Plastic Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Commercial Molded Plastic Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_PLASTIC-CHAIR/plastic_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "RATTAN-CHAIR",
-      "sku": "RATTAN-CHAIR",
-      "name": "Natural Rattan Accent Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Natural Rattan Accent Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_RATTAN-CHAIR/rattan_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "RENCE-CHAIR",
-      "sku": "RENCE-CHAIR",
-      "name": "Rence Premium Leather Upholstered Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Rence Premium Leather Upholstered Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約52×58cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_RENCE-CHAIR/rence_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "RONDE-CHAIR",
-      "sku": "RONDE-CHAIR",
-      "name": "Ronde Round Cushion Wooden Stool",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Ronde Round Cushion Wooden Stool",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_RONDE-CHAIR/ronde_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "ROSLY-CHAIR",
-      "sku": "ROSLY-CHAIR",
-      "name": "Rosly Modernist Dining Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Rosly Modernist Dining Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約56×52cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_ROSLY-CHAIR/rosly_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "RUSTIC-CHAIR",
-      "sku": "RUSTIC-CHAIR",
-      "name": "Rustic Vintage Dining Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Rustic Vintage Dining Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約490×550cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_RUSTIC-CHAIR/rustic_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "SALA-CHAIR",
-      "sku": "SALA-CHAIR",
-      "name": "Sala Nordic Wooden Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Sala Nordic Wooden Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約48×46cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_SALA-CHAIR/sala_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "SCANDI-CHAIR",
-      "sku": "SCANDI-CHAIR",
-      "name": "Scandi Wooden Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Scandi Wooden Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_SCANDI-CHAIR/scandi_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "SIZZIE-LOUNGE-CHAIR",
-      "sku": "SIZZIE-LOUNGE-CHAIR",
-      "name": "Bespoke Lounge Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Bespoke Lounge Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_SIZZIE-LOUNGE-CHAIR/sizzie_lounge_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "SOKONI-CHAIR",
-      "sku": "SOKONI-CHAIR",
-      "name": "Sokoni Solid Wood Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Sokoni Solid Wood Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×56cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_SOKONI-CHAIR/sokoni_chair.png"
       ],
       "image_dimensions": [
         [
@@ -2001,102 +561,6 @@
       }
     },
     {
-      "id": "STEEL-DINING-CHAIR",
-      "sku": "STEEL-DINING-CHAIR",
-      "name": "Industrial Steel Dining Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Industrial Steel Dining Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_STEEL-DINING-CHAIR/steel_dining_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "STEFIS-CHAIR",
-      "sku": "STEFIS-CHAIR",
-      "name": "Stefis Swivel Task Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Stefis Swivel Task Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約62×57cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_STEFIS-CHAIR/stefis_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "TALENTI-CHAIR",
-      "sku": "TALENTI-CHAIR",
-      "name": "Talenti Outdoor Armchair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Talenti Outdoor Armchair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_TALENTI-CHAIR/talenti_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
       "id": "TINA-CHAIR",
       "sku": "TINA-CHAIR",
       "name": "Tina Ergonomic Mesh Task Chair",
@@ -2161,14 +625,14 @@
       }
     },
     {
-      "id": "TOLIX-DINING-CHAIR",
-      "sku": "TOLIX-DINING-CHAIR",
-      "name": "Tolix Dining Chair",
+      "id": "ANGEL-CHAIR",
+      "sku": "ANGEL-CHAIR",
+      "name": "Angel Upholstered Chair",
       "brand": "Sunnyward",
       "category": "project",
       "sub_category": "Chair",
       "collection": "General Collection",
-      "description": "Tolix Dining Chair",
+      "description": "Angel Upholstered Chair",
       "materials": [
         "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
       ],
@@ -2177,263 +641,7 @@
       },
       "origin": "馬來西亞製 Made in Malaysia",
       "images": [
-        "Product_Images/[Commercial]_TOLIX-DINING-CHAIR/tolix_dining_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "TOLIX-STEEL-CHAIR",
-      "sku": "TOLIX-STEEL-CHAIR",
-      "name": "Tolix Classic Steel Side Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Tolix Classic Steel Side Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_TOLIX-STEEL-CHAIR/tolix_steel_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "VANDOM-CHAIR",
-      "sku": "VANDOM-CHAIR",
-      "name": "Vandom Outdoor Plastic Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Vandom Outdoor Plastic Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約48×46cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_VANDOM-CHAIR/vandom_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "VARAS-CHAIR",
-      "sku": "VARAS-CHAIR",
-      "name": "Varas Dining Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Varas Dining Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_VARAS-CHAIR/varas_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "VICTORY-CHAIR",
-      "sku": "VICTORY-CHAIR",
-      "name": "Victory Contract Dining Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Victory Contract Dining Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約48×46cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_VICTORY-CHAIR/victory_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "VITRA-LOUNGE-CHAIR",
-      "sku": "VITRA-LOUNGE-CHAIR",
-      "name": "Bespoke Lounge Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Bespoke Lounge Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約54×60cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_VITRA-LOUNGE-CHAIR/vitra_lounge_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "WASSI-CHAIR",
-      "sku": "WASSI-CHAIR",
-      "name": "Wassi Rounded Back Leisure Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Wassi Rounded Back Leisure Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約550×480cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_WASSI-CHAIR/wassi_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "YUKO-LOUNGE-CHAIR",
-      "sku": "YUKO-LOUNGE-CHAIR",
-      "name": "Bespoke Lounge Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Bespoke Lounge Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_YUKO-LOUNGE-CHAIR/yuko_lounge_chair.png"
-      ],
-      "image_dimensions": [
-        [
-          600,
-          450
-        ]
-      ],
-      "detail_page": "products.html",
-      "frontend_visible": true,
-      "frontend_status": "published",
-      "data_quality": {
-        "image_status": "verified_reference"
-      }
-    },
-    {
-      "id": "ZEN-LOUNGE-CHAIR",
-      "sku": "ZEN-LOUNGE-CHAIR",
-      "name": "Bespoke Lounge Chair",
-      "brand": "Sunnyward",
-      "category": "project",
-      "sub_category": "Chair",
-      "collection": "General Collection",
-      "description": "Bespoke Lounge Chair",
-      "materials": [
-        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
-      ],
-      "dimensions": {
-        "raw": "約50×50cm"
-      },
-      "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_ZEN-LOUNGE-CHAIR/zen_lounge_chair.png"
+        "Product_Images/[Commercial]_ANGEL-CHAIR/[PDF]_angel-chair_page4_img3.png"
       ],
       "image_dimensions": [
         [
@@ -2592,9 +800,7 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Outdoor]_[pdf]_BBQ-SET-ELITE/[PDF]_bbq-set-elite_page15_img1.png"
-      ],
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -2624,8 +830,38 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "BENSO-LOUNGE-CHAIR",
+      "sku": "BENSO-LOUNGE-CHAIR",
+      "name": "Bespoke Lounge Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Bespoke Lounge Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約60×64cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
       "images": [
-        "Product_Images/[Outdoor]_[pdf]_BBQ-SET-SUPREME/[PDF]_bbq-set-supreme_page15_img1.png"
+        "Product_Images/[Commercial]_BENSO-LOUNGE-CHAIR/[PDF]_benso-lounge-chair_page11_img9.png"
       ],
       "image_dimensions": [
         [
@@ -2688,9 +924,37 @@
         "raw": "約55×60cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_BOBI-BAR-STOOL/[PDF]_bobi-bar-stool_page21_img9.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "BOYIE-LOUNGE-CHAIR",
+      "sku": "BOYIE-LOUNGE-CHAIR",
+      "name": "Bespoke Lounge Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Bespoke Lounge Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -2720,9 +984,37 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_BUENO-BAR-STOOL/[PDF]_bueno-bar-stool_page21_img4.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "CASTER-CHAIR",
+      "sku": "CASTER-CHAIR",
+      "name": "Caster Swivel Task Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Caster Swivel Task Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約58×53cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -2752,9 +1044,97 @@
         "raw": "約52×46cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_CASY-BAR-STOOL/[PDF]_casy-bar-stool_page10_img9.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "CHERI-CHAIR",
+      "sku": "CHERI-CHAIR",
+      "name": "Cheri Luxury Metal Frame Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Cheri Luxury Metal Frame Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約52×58cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "COMBO-CHAIR",
+      "sku": "COMBO-CHAIR",
+      "name": "Combo Folding Utility Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Combo Folding Utility Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "COMFORT-CHAIR",
+      "sku": "COMFORT-CHAIR",
+      "name": "Comfort Padded Dining Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Comfort Padded Dining Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -2784,9 +1164,7 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_DAMIEN-BAR-STOOL/[PDF]_damien-bar-stool_page9_img3.png"
-      ],
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -2816,9 +1194,7 @@
         "raw": "約46×56cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_DARYL-BAR-STOOL/[PDF]_daryl-bar-stool_page10_img10.png"
-      ],
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -2848,9 +1224,7 @@
         "raw": "約121×304cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Outdoor]_[pdf]_DINING-SET-WITH/[PDF]_dining-set-with_page4_img1.png"
-      ],
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -2895,6 +1269,158 @@
       }
     },
     {
+      "id": "DROIT-CHAIR",
+      "sku": "DROIT-CHAIR",
+      "name": "Droit Dining Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Droit Dining Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "EMU-CHAIR",
+      "sku": "EMU-CHAIR",
+      "name": "EMU CHAIR",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "EMU CHAIR",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約54×60cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [
+        "Product_Images/[Commercial]_EMU-CHAIR/[PDF]_emu-chair_page20_img7.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "EMU-LOUNGE-CHAIR",
+      "sku": "EMU-LOUNGE-CHAIR",
+      "name": "Bespoke Lounge Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Bespoke Lounge Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約54×60cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ESSO-LOUNGE-CHAIR",
+      "sku": "ESSO-LOUNGE-CHAIR",
+      "name": "Bespoke Lounge Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Bespoke Lounge Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ETHIMO-CHAIR",
+      "sku": "ETHIMO-CHAIR",
+      "name": "Ethimo Premium Outdoor Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Ethimo Premium Outdoor Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
       "id": "FAMILY-SWING",
       "sku": "FAMILY-SWING",
       "name": "Balau Wood Family Swing with Canopy",
@@ -2910,9 +1436,97 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Outdoor]_[pdf]_FAMILY-SWING/[PDF]_family-swing_page11_img1.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "FEIJOA-LOUNGE-CHAIR",
+      "sku": "FEIJOA-LOUNGE-CHAIR",
+      "name": "Bespoke Lounge Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Bespoke Lounge Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "FERMOB-CHAIR",
+      "sku": "FERMOB-CHAIR",
+      "name": "Fermob French Bistro Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Fermob French Bistro Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "FILTRO-CHAIR",
+      "sku": "FILTRO-CHAIR",
+      "name": "Filtro Minimalist Plastic Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Filtro Minimalist Plastic Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -2974,9 +1588,37 @@
         "raw": "約63×63cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_GRACIAS-BAR-STOOL/[PDF]_gracias-bar-stool_page21_img10.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "HANAKO-CHAIR",
+      "sku": "HANAKO-CHAIR",
+      "name": "Hanako Zen Style Dining Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Hanako Zen Style Dining Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -3038,9 +1680,37 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_HATTIE-BAR-STOOL/[PDF]_hattie-bar-stool_page9_img4.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "KATTI-CHAIR",
+      "sku": "KATTI-CHAIR",
+      "name": "Katti Industrial Steel Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Katti Industrial Steel Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約52×58cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -3070,9 +1740,67 @@
         "raw": "約51×54cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_KERI-BAR-STOOL/[PDF]_keri-bar-stool_page10_img8.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "KESSIE-LOUNGE-CHAIR",
+      "sku": "KESSIE-LOUNGE-CHAIR",
+      "name": "Bespoke Lounge Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Bespoke Lounge Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "KETTAL-LOUNGE-CHAIR",
+      "sku": "KETTAL-LOUNGE-CHAIR",
+      "name": "Bespoke Lounge Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Bespoke Lounge Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -3132,8 +1860,158 @@
         "raw": "約54×58cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "LAZOMI-CHAIR",
+      "sku": "LAZOMI-CHAIR",
+      "name": "Lazomi Modern Dining Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Lazomi Modern Dining Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約490×550cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "LEON-CHAIR",
+      "sku": "LEON-CHAIR",
+      "name": "Leon Nordic Cushioned Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Leon Nordic Cushioned Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "LISS-CHAIR",
+      "sku": "LISS-CHAIR",
+      "name": "Liss Contemporary Dining Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Liss Contemporary Dining Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約58×53cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "LOUIS-CHAIR",
+      "sku": "LOUIS-CHAIR",
+      "name": "Louis French Provincial Dining Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Louis French Provincial Dining Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "LOUNGE-CHAIR",
+      "sku": "LOUNGE-CHAIR",
+      "name": "Bespoke Lounge Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Bespoke Lounge Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
       "images": [
-        "Product_Images/[Commercial]_[pdf]_LACITO-BAR-STOOL/[PDF]_lacito-bar-stool_page21_img8.png"
+        "Product_Images/[Commercial]_LOUNGE-CHAIR/[PDF]_lounge-chair_page16_img1.png"
       ],
       "image_dimensions": [
         [
@@ -3194,9 +2072,67 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_LUIS-BAR-STOOL/[PDF]_luis-bar-stool_page10_img2.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "MAGNUS-CHAIR",
+      "sku": "MAGNUS-CHAIR",
+      "name": "Magnus Solid Wood Dining Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Magnus Solid Wood Dining Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "MAMORIS-CHAIR",
+      "sku": "MAMORIS-CHAIR",
+      "name": "Mamoris Wooden Dining Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Mamoris Wooden Dining Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約58×53cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -3226,9 +2162,127 @@
         "raw": "約54×64cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_MANTI-BAR-STOOL/[PDF]_manti-bar-stool_page21_img7.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "MAYA-CHAIR",
+      "sku": "MAYA-CHAIR",
+      "name": "Maya Contemporary Lounge Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Maya Contemporary Lounge Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "MIA-CHAIR",
+      "sku": "MIA-CHAIR",
+      "name": "Mia Nordic Accent Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Mia Nordic Accent Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "MOLLY-CHAIR",
+      "sku": "MOLLY-CHAIR",
+      "name": "Molly Dining Chair with Backrest",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Molly Dining Chair with Backrest",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "MORA-CHAIR",
+      "sku": "MORA-CHAIR",
+      "name": "Mora Ergonomic Dining Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Mora Ergonomic Dining Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -3258,9 +2312,7 @@
         "raw": "約42×44cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_MORAS-BAR-STOOL/[PDF]_moras-bar-stool_page9_img1.png"
-      ],
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -3290,9 +2342,67 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_NERDY-BAR-STOOL/[PDF]_nerdy-bar-stool_page9_img2.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "NEST-CHAIR",
+      "sku": "NEST-CHAIR",
+      "name": "Nest Cozy Rattan Armchair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Nest Cozy Rattan Armchair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "OFFIZ-CHAIR",
+      "sku": "OFFIZ-CHAIR",
+      "name": "Offiz Ergonomic Desk Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Offiz Ergonomic Desk Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -3322,9 +2432,37 @@
         "raw": "約51×54cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_OLIE-BAR-STOOL/[PDF]_olie-bar-stool_page10_img7.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "OPPSI-CHAIR",
+      "sku": "OPPSI-CHAIR",
+      "name": "Oppsi Curved Lounge Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Oppsi Curved Lounge Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約560×510cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -3354,9 +2492,7 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_ORIN-BAR-STOOL/[PDF]_orin-bar-stool_page10_img3.png"
-      ],
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -3386,9 +2522,67 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_OUTDOOR-BAR-STOOL/[PDF]_outdoor-bar-stool_page21_img1.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "OZEAN-CHAIR",
+      "sku": "OZEAN-CHAIR",
+      "name": "Ozean All-Weather Patio Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Ozean All-Weather Patio Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "PANZER-CHAIR",
+      "sku": "PANZER-CHAIR",
+      "name": "Panzer Metal Mesh Dining Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Panzer Metal Mesh Dining Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -3418,9 +2612,37 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_PERA-BAR-STOOL/[PDF]_pera-bar-stool_page9_img6.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "PLASTIC-CHAIR",
+      "sku": "PLASTIC-CHAIR",
+      "name": "Commercial Molded Plastic Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Commercial Molded Plastic Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -3450,9 +2672,37 @@
         "raw": "約41×39cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_POLLY-BAR-STOOL/[PDF]_polly-bar-stool_page10_img4.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "RATTAN-CHAIR",
+      "sku": "RATTAN-CHAIR",
+      "name": "Natural Rattan Accent Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Natural Rattan Accent Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -3482,9 +2732,97 @@
         "raw": "約3×26cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Outdoor]_[pdf]_RAYNE-BAR-SET/[PDF]_rayne-bar-set_page8_img1.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "RENCE-CHAIR",
+      "sku": "RENCE-CHAIR",
+      "name": "Rence Premium Leather Upholstered Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Rence Premium Leather Upholstered Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約52×58cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "RONDE-CHAIR",
+      "sku": "RONDE-CHAIR",
+      "name": "Ronde Round Cushion Wooden Stool",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Ronde Round Cushion Wooden Stool",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ROSLY-CHAIR",
+      "sku": "ROSLY-CHAIR",
+      "name": "Rosly Modernist Dining Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Rosly Modernist Dining Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約56×52cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -3531,6 +2869,66 @@
       }
     },
     {
+      "id": "RUSTIC-CHAIR",
+      "sku": "RUSTIC-CHAIR",
+      "name": "Rustic Vintage Dining Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Rustic Vintage Dining Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約490×550cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SALA-CHAIR",
+      "sku": "SALA-CHAIR",
+      "name": "Sala Nordic Wooden Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Sala Nordic Wooden Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約48×46cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
       "id": "SANTA-BAR-STOOL",
       "sku": "SANTA-BAR-STOOL",
       "name": "Commercial Bar Stool",
@@ -3546,9 +2944,37 @@
         "raw": "約41×39cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_SANTA-BAR-STOOL/[PDF]_santa-bar-stool_page10_img5.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SCANDI-CHAIR",
+      "sku": "SCANDI-CHAIR",
+      "name": "Scandi Wooden Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Scandi Wooden Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -3578,9 +3004,7 @@
         "raw": "約52×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_SENSILLA-BAR-STOOL/[PDF]_sensilla-bar-stool_page21_img6.png"
-      ],
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -3642,9 +3066,67 @@
         "raw": "約42×45cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_SISCO-BAR-STOOL/[PDF]_sisco-bar-stool_page9_img8.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SIZZIE-LOUNGE-CHAIR",
+      "sku": "SIZZIE-LOUNGE-CHAIR",
+      "name": "Bespoke Lounge Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Bespoke Lounge Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "SOKONI-CHAIR",
+      "sku": "SOKONI-CHAIR",
+      "name": "Sokoni Solid Wood Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Sokoni Solid Wood Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×56cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -4214,9 +3696,67 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_STEEL-BAR-STOOL/[PDF]_steel-bar-stool_page10_img1.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "STEEL-DINING-CHAIR",
+      "sku": "STEEL-DINING-CHAIR",
+      "name": "Industrial Steel Dining Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Industrial Steel Dining Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "STEFIS-CHAIR",
+      "sku": "STEFIS-CHAIR",
+      "name": "Stefis Swivel Task Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Stefis Swivel Task Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約62×57cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -4246,9 +3786,7 @@
         "raw": "約42×45cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_STIG-BAR-STOOL/[PDF]_stig-bar-stool_page9_img7.png"
-      ],
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -4308,9 +3846,37 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Outdoor]_[pdf]_SWING-WITH-STAND/[PDF]_swing-with-stand_page11_img1.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "TALENTI-CHAIR",
+      "sku": "TALENTI-CHAIR",
+      "name": "Talenti Outdoor Armchair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Talenti Outdoor Armchair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -4340,9 +3906,7 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_TENZA-BAR-STOOL/[PDF]_tenza-bar-stool_page21_img2.png"
-      ],
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -4372,9 +3936,7 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_TOBY-BAR-STOOL/[PDF]_toby-bar-stool_page9_img5.png"
-      ],
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -4404,9 +3966,67 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_TOLIX-BAR-STOOL/[PDF]_tolix-bar-stool_page8_img3.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "TOLIX-DINING-CHAIR",
+      "sku": "TOLIX-DINING-CHAIR",
+      "name": "Tolix Dining Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Tolix Dining Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "TOLIX-STEEL-CHAIR",
+      "sku": "TOLIX-STEEL-CHAIR",
+      "name": "Tolix Classic Steel Side Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Tolix Classic Steel Side Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -4436,9 +4056,7 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_TOLIX-STOOL/[PDF]_tolix-stool_page8_img2.png"
-      ],
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -4468,9 +4086,37 @@
         "raw": "約91×152cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Outdoor]_[pdf]_TWO-SEAT-BAR-SET/[PDF]_two-seat-bar-set_page8_img1.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "VANDOM-CHAIR",
+      "sku": "VANDOM-CHAIR",
+      "name": "Vandom Outdoor Plastic Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Vandom Outdoor Plastic Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約48×46cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -4500,9 +4146,37 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_VARAS-BAR-STOOL/[PDF]_varas-bar-stool_page20_img6.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "VARAS-CHAIR",
+      "sku": "VARAS-CHAIR",
+      "name": "Varas Dining Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Varas Dining Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -4532,9 +4206,97 @@
         "raw": "約53×52cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_VEES-BAR-STOOL/[PDF]_vees-bar-stool_page10_img6.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "VICTORY-CHAIR",
+      "sku": "VICTORY-CHAIR",
+      "name": "Victory Contract Dining Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Victory Contract Dining Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約48×46cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "VITRA-LOUNGE-CHAIR",
+      "sku": "VITRA-LOUNGE-CHAIR",
+      "name": "Bespoke Lounge Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Bespoke Lounge Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約54×60cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "WASSI-CHAIR",
+      "sku": "WASSI-CHAIR",
+      "name": "Wassi Rounded Back Leisure Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Wassi Rounded Back Leisure Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約550×480cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -4595,7 +4357,7 @@
       },
       "origin": "馬來西亞製 Made in Malaysia",
       "images": [
-        "Product_Images/[Outdoor]_[pdf]_WITH-STAND/[PDF]_with-stand_page11_img1.png"
+        "Product_Images/[Outdoor]_[pdf]_WITH-STAND/[PDF]_with-stand_page124_img1.jpeg"
       ],
       "image_dimensions": [
         [
@@ -4626,9 +4388,7 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Outdoor]_[pdf]_WITH-SWING/[PDF]_with-swing_page12_img1.png"
-      ],
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -4688,9 +4448,67 @@
         "raw": "約50×50cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Outdoor]_[pdf]_X-DINING-SET/[PDF]_x-dining-set_page5_img1.png"
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
       ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "YUKO-LOUNGE-CHAIR",
+      "sku": "YUKO-LOUNGE-CHAIR",
+      "name": "Bespoke Lounge Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Bespoke Lounge Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "detail_page": "products.html",
+      "frontend_visible": true,
+      "frontend_status": "published",
+      "data_quality": {
+        "image_status": "verified_reference"
+      }
+    },
+    {
+      "id": "ZEN-LOUNGE-CHAIR",
+      "sku": "ZEN-LOUNGE-CHAIR",
+      "name": "Bespoke Lounge Chair",
+      "brand": "Sunnyward",
+      "category": "project",
+      "sub_category": "Chair",
+      "collection": "General Collection",
+      "description": "Bespoke Lounge Chair",
+      "materials": [
+        "Seat/Back: Solid Rubberwood | Frame: Powder coated steel"
+      ],
+      "dimensions": {
+        "raw": "約50×50cm"
+      },
+      "origin": "馬來西亞製 Made in Malaysia",
+      "images": [],
       "image_dimensions": [
         [
           600,
@@ -4720,9 +4538,7 @@
         "raw": "約50×51cm"
       },
       "origin": "馬來西亞製 Made in Malaysia",
-      "images": [
-        "Product_Images/[Commercial]_[pdf]_ZUSS-BAR-STOOL/[PDF]_zuss-bar-stool_page21_img5.png"
-      ],
+      "images": [],
       "image_dimensions": [
         [
           600,
