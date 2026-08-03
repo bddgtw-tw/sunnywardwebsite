@@ -1,0 +1,20 @@
+{
+  "project_id": "case-waterpark",
+  "slug": "ll-waterpark-poolside-furniture-installation",
+  "private_input": true,
+  "text_files": [
+    "en.json",
+    "jp.json",
+    "tw.json"
+  ],
+  "image_files": [
+    "490092252_1209480437854131_9119969951171433752_n_cropped.jpg",
+    "490092252_1209480437854131_9119969951171433752_n_q1.jpg",
+    "490092252_1209480437854131_9119969951171433752_n_q2.jpg",
+    "490092252_1209480437854131_9119969951171433752_n_q3.jpg",
+    "490092252_1209480437854131_9119969951171433752_n_q4.jpg"
+  ],
+  "video_files": [
+    "2025.05_ll_waterpark.mp4"
+  ]
+}

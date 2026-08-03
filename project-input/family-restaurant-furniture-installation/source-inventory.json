@@ -1,0 +1,20 @@
+{
+  "project_id": "case-woodfire",
+  "slug": "family-restaurant-furniture-installation",
+  "private_input": true,
+  "text_files": [
+    "en.json",
+    "jp.json",
+    "tw.json"
+  ],
+  "image_files": [
+    "485005693_1188406983294810_676741634435601911_n_cropped.jpg",
+    "485005693_1188406983294810_676741634435601911_n_q1.jpg",
+    "485005693_1188406983294810_676741634435601911_n_q2.jpg",
+    "485005693_1188406983294810_676741634435601911_n_q3.jpg",
+    "485005693_1188406983294810_676741634435601911_n_q4.jpg"
+  ],
+  "video_files": [
+    "2024.01_family_restaurant.mp4"
+  ]
+}

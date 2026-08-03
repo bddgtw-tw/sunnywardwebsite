@@ -1,0 +1,12 @@
+{
+  "brand": "Sunnyward",
+  "production_origin": "https://sunnyward.com",
+  "github_pages_origin": "https://bddgtw-tw.github.io/sunnywardwebsite",
+  "custom_domain": "sunnyward.com",
+  "default_language": "en",
+  "languages": {
+    "en": "en",
+    "tw": "zh-TW",
+    "jp": "ja"
+  }
+}

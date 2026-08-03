@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "status": "internal_reference",
+  "public_export": false,
+  "project_id": "case-legoland-cafe",
+  "slug": "legoland-cafeteria-furniture-installation",
+  "source_basis": {
+    "confirmed": [
+      "Archived project media dated 2025-12",
+      "Media-backed space classification: attraction cafeteria",
+      "Visible furniture focus: high-traffic tables and chairs"
+    ],
+    "unavailable": [
+      "approved client brief",
+      "contract scope",
+      "product schedule",
+      "quantities",
+      "specifications",
+      "client interview",
+      "measured outcome"
+    ]
+  },
+  "working_decision_maker_persona": {
+    "evidence_status": "inferred_for_internal_planning",
+    "role": "Attraction F&B operations or facilities manager",
+    "context": "Managing high-volume family dining with strong visual branding and rapid turnover.",
+    "priorities": [
+      "high-throughput seating",
+      "family-friendly layouts",
+      "easy cleaning",
+      "clear circulation",
+      "visual alignment with the venue"
+    ],
+    "anxieties": [
+      "peak-time bottlenecks",
+      "furniture damage",
+      "slow reset and cleaning",
+      "layouts that do not accommodate groups"
+    ],
+    "success": "A robust, recognizable cafeteria environment that supports fast daily operations and varied family groups."
+  },
+  "project_background_hypothesis": {
+    "evidence_status": "inferred_for_internal_planning",
+    "guidance": "Discuss high-traffic planning, color coordination and operational reset without claiming visitor or revenue results."
+  },
+  "publication_boundary": [
+    "Do not identify this persona as the actual client or quote it as a real stakeholder.",
+    "Do not convert priorities, anxieties or success criteria into claims about completed outcomes.",
+    "Public copy may describe observable conditions and reasonable project considerations using bounded language.",
+    "Replace inferred content when approved project documents become available."
+  ],
+  "pending_verification": [
+    "Who approved the furniture and what was their formal role?",
+    "What products, quantities, finishes and custom requirements were approved?",
+    "What constraints, standards, budget range and delivery milestones applied?",
+    "What exact scope was performed by Sunnyward?",
+    "Is there an approved client quotation or measurable outcome?"
+  ]
+}

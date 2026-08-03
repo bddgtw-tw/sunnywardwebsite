@@ -1,0 +1,20 @@
+{
+  "project_id": "case-toastmaster",
+  "slug": "tsutaya-bookstore-furniture-installation",
+  "private_input": true,
+  "text_files": [
+    "en.json",
+    "jp.json",
+    "tw.json"
+  ],
+  "image_files": [
+    "486540137_1194648809337294_8428044945485451315_n_cropped.jpg",
+    "486540137_1194648809337294_8428044945485451315_n_q1.jpg",
+    "486540137_1194648809337294_8428044945485451315_n_q2.jpg",
+    "486540137_1194648809337294_8428044945485451315_n_q3.jpg",
+    "486540137_1194648809337294_8428044945485451315_n_q4.jpg"
+  ],
+  "video_files": [
+    "2024.11_tsutaya_bookstore.mp4"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "source_policy": "Public titles and dates below are derived only from archived media filenames. Client quotations, measured outcomes, exact SKUs, quantities and contractual scope remain unpublished until source documents are verified.",
+  "records": [
+    {"id":"case-hotel-fb","date":"2026-01","video":"2026.01_kai_restaurant.mp4","titles":{"en":"Kai Restaurant Furniture Installation","tw":"Kai 餐廳家具安裝紀錄","jp":"Kaiレストラン 家具導入記録"}},
+    {"id":"case-woodfire","date":"2024-01","video":"2024.01_family_restaurant.mp4","titles":{"en":"Family Restaurant Furniture Installation","tw":"家庭餐廳家具安裝紀錄","jp":"ファミリーレストラン 家具導入記録"}},
+    {"id":"case-toastmaster","date":"2024-11","video":"2024.11_tsutaya_bookstore.mp4","titles":{"en":"Tsutaya Bookstore Furniture Installation","tw":"Tsutaya 書店家具安裝紀錄","jp":"TSUTAYA書店 家具導入記録"}},
+    {"id":"case-massage","date":"2024-05","video":"2024.05_dragon_ginseng.mp4","titles":{"en":"Dragon Ginseng Interior Furniture Record","tw":"Dragon Ginseng 空間家具紀錄","jp":"Dragon Ginseng 空間家具記録"}},
+    {"id":"case-ampang-cafe","date":"2025-10","video":"2025.10_ampang_cafe.mp4","titles":{"en":"Ampang Cafe Furniture Installation","tw":"Ampang 咖啡廳家具安裝紀錄","jp":"アンパン・カフェ 家具導入記録"}},
+    {"id":"case-sushi-plus","date":"2026-06","video":"2026.06_sushi_plus_outlet.mp4","titles":{"en":"Sushi Plus Outlet Furniture Installation","tw":"Sushi Plus 門市家具安裝紀錄","jp":"Sushi Plus店舗 家具導入記録"}},
+    {"id":"case-noodles","date":"2024-04","video":"2024.04_noodles_restaurant.mp4","titles":{"en":"Noodles Restaurant Furniture Installation","tw":"麵食餐廳家具安裝紀錄","jp":"麺レストラン 家具導入記録"}},
+    {"id":"case-office-outdoor","date":"2024-01","video":"2024.01_office_outdoor_area.mp4","titles":{"en":"Office Outdoor Area Furniture Installation","tw":"辦公空間戶外區家具安裝紀錄","jp":"オフィス屋外エリア 家具導入記録"}},
+    {"id":"case-legoland-cafe","date":"2025-12","video":"2025.12_legoland_cafeteria.mp4","titles":{"en":"Legoland Cafeteria Furniture Installation","tw":"Legoland 餐廳家具安裝紀錄","jp":"LEGOLANDカフェテリア 家具導入記録"}},
+    {"id":"case-waterpark","date":"2025-05","video":"2025.05_ll_waterpark.mp4","titles":{"en":"LL Waterpark Poolside Furniture Installation","tw":"LL 水上樂園池畔家具安裝紀錄","jp":"LLウォーターパーク プールサイド家具導入記録"}}
+  ]
+}

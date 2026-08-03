@@ -1,0 +1,20 @@
+{
+  "project_id": "case-massage",
+  "slug": "dragon-ginseng-interior-furniture",
+  "private_input": true,
+  "text_files": [
+    "en.json",
+    "jp.json",
+    "tw.json"
+  ],
+  "image_files": [
+    "487230012_1197042165764625_5235377330861897247_n_cropped.jpg",
+    "487230012_1197042165764625_5235377330861897247_n_q1.jpg",
+    "487230012_1197042165764625_5235377330861897247_n_q2.jpg",
+    "487230012_1197042165764625_5235377330861897247_n_q3.jpg",
+    "487230012_1197042165764625_5235377330861897247_n_q4.jpg"
+  ],
+  "video_files": [
+    "2024.05_dragon_ginseng.mp4"
+  ]
+}

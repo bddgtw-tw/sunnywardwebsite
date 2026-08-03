@@ -1,0 +1,20 @@
+{
+  "project_id": "case-ampang-cafe",
+  "slug": "ampang-cafe-furniture-installation",
+  "private_input": true,
+  "text_files": [
+    "en.json",
+    "jp.json",
+    "tw.json"
+  ],
+  "image_files": [
+    "487987172_1203941861741322_5531705742715616204_n_cropped.jpg",
+    "487987172_1203941861741322_5531705742715616204_n_q1.jpg",
+    "487987172_1203941861741322_5531705742715616204_n_q2.jpg",
+    "487987172_1203941861741322_5531705742715616204_n_q3.jpg",
+    "487987172_1203941861741322_5531705742715616204_n_q4.jpg"
+  ],
+  "video_files": [
+    "2025.10_ampang_cafe.mp4"
+  ]
+}

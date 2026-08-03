@@ -1,0 +1,16 @@
+# Ignore temp files
+.tmp.driveupload/
+*.log
+__pycache__/
+*.py[cod]
+
+# Internal product and procurement sources must never enter the public site repo.
+*.xlsx
+*.xls
+data/all_products_structured.json
+data/outdoor_products.json
+data/outdoor_products_structured.json
+data/internal/
+internal_data/
+*pricing*.json
+*procurement*.json

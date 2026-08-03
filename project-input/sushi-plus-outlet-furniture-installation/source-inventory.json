@@ -1,0 +1,20 @@
+{
+  "project_id": "case-sushi-plus",
+  "slug": "sushi-plus-outlet-furniture-installation",
+  "private_input": true,
+  "text_files": [
+    "en.json",
+    "jp.json",
+    "tw.json"
+  ],
+  "image_files": [
+    "488205633_1206283328173842_1752346583025989446_n_cropped.jpg",
+    "488205633_1206283328173842_1752346583025989446_n_q1.jpg",
+    "488205633_1206283328173842_1752346583025989446_n_q2.jpg",
+    "488205633_1206283328173842_1752346583025989446_n_q3.jpg",
+    "488205633_1206283328173842_1752346583025989446_n_q4.jpg"
+  ],
+  "video_files": [
+    "2026.06_sushi_plus_outlet.mp4"
+  ]
+}

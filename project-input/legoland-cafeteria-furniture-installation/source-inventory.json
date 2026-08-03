@@ -1,0 +1,20 @@
+{
+  "project_id": "case-legoland-cafe",
+  "slug": "legoland-cafeteria-furniture-installation",
+  "private_input": true,
+  "text_files": [
+    "en.json",
+    "jp.json",
+    "tw.json"
+  ],
+  "image_files": [
+    "489433395_1207544954714346_7387054704136033221_n_cropped.jpg",
+    "489433395_1207544954714346_7387054704136033221_n_q1.jpg",
+    "489433395_1207544954714346_7387054704136033221_n_q2.jpg",
+    "489433395_1207544954714346_7387054704136033221_n_q3.jpg",
+    "489433395_1207544954714346_7387054704136033221_n_q4.jpg"
+  ],
+  "video_files": [
+    "2025.12_legoland_cafeteria.mp4"
+  ]
+}

@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta name="robots" content="noindex,nofollow">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sunnyward - Office Furniture Preview</title>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --primary: #B88E6B;
+      --bg: #F9F8F6;
+      --text: #2E2722;
+      --card-bg: rgba(255, 255, 255, 0.7);
+    }
+    
+    body {
+      font-family: 'Outfit', sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+
+    header {
+      text-align: center;
+      padding: 4rem 2rem;
+      background: linear-gradient(135deg, rgba(255,255,255,0.9) 0%, rgba(255,255,255,0.4) 100%);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid rgba(255,255,255,0.5);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      font-weight: 600;
+      margin: 0;
+      letter-spacing: 0.05em;
+    }
+
+    p.subtitle {
+      color: #666;
+      font-weight: 300;
+      margin-top: 0.5rem;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 3rem auto;
+      padding: 0 2rem;
+    }
+
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 2.5rem;
+    }
+
+    .card {
+      background: var(--card-bg);
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+      transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      border: 1px solid rgba(255,255,255,0.8);
+      display: flex;
+      flex-direction: column;
+    }
+
+    .card:hover {
+      transform: translateY(-10px);
+      box-shadow: 0 15px 40px rgba(0,0,0,0.1);
+    }
+
+    .card-img {
+      width: 100%;
+      height: 250px;
+      object-fit: cover;
+      background: #eee;
+      border-bottom: 1px solid rgba(0,0,0,0.05);
+      transition: transform 0.5s ease;
+    }
+    
+    .card:hover .card-img {
+      transform: scale(1.05);
+    }
+    
+    .img-wrapper {
+      overflow: hidden;
+      position: relative;
+    }
+
+    .card-content {
+      padding: 1.5rem;
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .collection-tag {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--primary);
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+
+    .product-title {
+      font-size: 1.25rem;
+      font-weight: 500;
+      margin: 0 0 1rem 0;
+    }
+    
+    .product-sku {
+      font-size: 0.8rem;
+      color: #888;
+      margin-bottom: 1rem;
+    }
+
+    .product-details {
+      font-size: 0.9rem;
+      color: #555;
+      margin-bottom: 1rem;
+      flex-grow: 1;
+    }
+
+    .dimensions {
+      background: rgba(184, 142, 107, 0.1);
+      padding: 0.5rem 1rem;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      color: var(--primary);
+      display: inline-block;
+      margin-top: auto;
+    }
+
+    .no-image-placeholder {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+      background: #f0f0f0;
+      color: #999;
+      font-size: 0.9rem;
+      letter-spacing: 0.05em;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Office Furniture Collection</h1>
+    <p class="subtitle">Sunnyward Preview Edition</p>
+  </header>
+
+  <div class="container">
+    <div class="gallery" id="gallery">
+      <!-- Cards will be injected here -->
+    </div>
+  </div>
+
+  <script>
+    async function loadProducts() {
+      try {
+        const response = await fetch('data/all_products_structured.json?t=' + new Date().getTime());
+        const data = await response.json();
+        
+        let products = data.products.filter(p => p.supplier_code && (p.category === 'Office' || p.category === 'office'));
+        
+        products.sort((a, b) => {
+          const aHasImg = a.images && a.images.length > 0;
+          const bHasImg = b.images && b.images.length > 0;
+          
+          if (aHasImg && !bHasImg) return -1;
+          if (!aHasImg && bHasImg) return 1;
+          return 0;
+        });
+
+        const gallery = document.getElementById('gallery');
+        
+        if (products.length === 0) {
+            gallery.innerHTML = '<p>No office products found.</p>';
+            return;
+        }
+
+        products.forEach(product => {
+          const hasImages = product.images && product.images.length > 0;
+          const imgSrc = hasImages ? product.images[0] : '';
+          
+          const imageHtml = hasImages 
+            ? `<img src="${imgSrc}" alt="${product.name}" class="card-img" loading="lazy">`
+            : `<div class="card-img no-image-placeholder">NO IMAGE AVAILABLE</div>`;
+            
+          const collection = product.category || 'Office Collection';
+          const name = product.name || 'Unnamed Product';
+          const sku = product.supplier_code || 'N/A';
+          const desc = product.description ? product.description.replace(/\n/g, '<br>') : 'No description available.';
+          const dims = product.dimensions || 'Dimensions TBD';
+
+          const card = document.createElement('div');
+          card.className = 'card';
+          card.innerHTML = `
+            <div class="img-wrapper">
+              ${imageHtml}
+            </div>
+            <div class="card-content">
+              <div class="collection-tag">${collection}</div>
+              <h3 class="product-title">${name}</h3>
+              <div class="product-sku">SKU: ${sku}</div>
+              <div class="product-details">${desc}</div>
+              <div class="dimensions">${dims}</div>
+            </div>
+          `;
+          
+          gallery.appendChild(card);
+        });
+
+      } catch (err) {
+        console.error('Failed to load products:', err);
+        document.getElementById('gallery').innerHTML = '<p>Error loading products. Please check the JSON data.</p>';
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', loadProducts);
+  </script>
+</body>
+</html>

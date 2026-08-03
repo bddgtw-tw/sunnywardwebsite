@@ -1,0 +1,202 @@
+{
+  "source_note": "Public pilot product records verified against internal source records and matching product images on 2026-07-15. Pricing and internal procurement data are excluded.",
+  "products": [
+    {
+      "sku": "SWF-91704140",
+      "slug": "string-aluminum-outdoor-lounger",
+      "brand": "Funife",
+      "collection": "STRING COLLECTION",
+      "category": "Outdoor Furniture",
+      "dimensions": {
+        "raw": "W67 × D200 × H36 cm",
+        "w": 67,
+        "d": 200,
+        "h": 36,
+        "unit": "cm"
+      },
+      "materials": [
+        "Anthracite aluminum",
+        "Batyline mesh"
+      ],
+      "origin": "China",
+      "planning_reference": "ll-waterpark-poolside-furniture-installation",
+      "images": [
+        "Product_Images/[Outdoor]/[Outdoor]_SWF-91704140/swf_91704140.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "locales": {
+        "en": {
+          "name": "STRING Aluminum Outdoor Lounger",
+          "title": "STRING Aluminum Outdoor Lounger | Sunnyward",
+          "description": "Commercial outdoor lounger with an anthracite aluminum frame and Batyline mesh. View verified dimensions, materials and product images for hospitality enquiries.",
+          "intro": "A low-profile outdoor lounger from the STRING Collection, combining an anthracite aluminum frame with Batyline mesh. Its 200 cm depth makes it suitable for poolside, resort and hospitality planning where a full-length reclining format is required.",
+          "applications": [
+            "Hotel and resort poolside areas",
+            "Outdoor hospitality terraces",
+            "Commercial leisure spaces"
+          ]
+        },
+        "tw": {
+          "name": "STRING 系列鋁合金戶外躺椅",
+          "title": "STRING 系列鋁合金戶外躺椅｜Sunnyward",
+          "description": "商用戶外躺椅，採碳灰色鋁合金框架與 Batyline 網布。查看已核對的尺寸、材質與產品圖片，適合飯店及度假空間詢價評估。",
+          "intro": "STRING 系列低座戶外躺椅，採用碳灰色鋁合金框架與 Batyline 網布。200 公分的椅身深度，適合飯店泳池、度假村與商業休憩空間進行全身躺臥配置。",
+          "applications": [
+            "飯店與度假村泳池區",
+            "戶外餐旅露台",
+            "商業休憩空間"
+          ]
+        },
+        "jp": {
+          "name": "STRINGコレクション アルミ製アウトドアラウンジャー",
+          "title": "アルミ製アウトドアラウンジャー｜Sunnyward",
+          "description": "アンスラサイト色アルミフレームとBatylineメッシュを使用した業務用アウトドアラウンジャー。確認済みの寸法・素材・製品画像をご覧いただけます。",
+          "intro": "STRINGコレクションのロースタイル・アウトドアラウンジャーです。アンスラサイト色のアルミフレームとBatylineメッシュを組み合わせ、全長200cmのフルレングス仕様で、ホテルのプールサイドやリゾート施設の計画に適しています。",
+          "applications": [
+            "ホテル・リゾートのプールサイド",
+            "屋外ホスピタリティテラス",
+            "商業施設のリラクゼーションエリア"
+          ]
+        }
+      }
+    },
+    {
+      "sku": "SWF-91704070",
+      "slug": "string-rope-outdoor-dining-chair",
+      "brand": "Funife",
+      "collection": "STRING COLLECTION",
+      "category": "Outdoor Furniture",
+      "dimensions": {
+        "raw": "W60 × D58 × H77 cm",
+        "w": 60,
+        "d": 58,
+        "h": 77,
+        "unit": "cm"
+      },
+      "materials": [
+        "Anthracite aluminum",
+        "Acrylic rope",
+        "Granite or greige seat cushion"
+      ],
+      "origin": "China",
+      "planning_reference": "kai-restaurant-furniture-installation",
+      "images": [
+        "Product_Images/[Outdoor]/[Outdoor]_SWF-91704070/swf_91704070.png"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "locales": {
+        "en": {
+          "name": "STRING Rope Outdoor Dining Chair",
+          "title": "STRING Rope Outdoor Dining Chair | Sunnyward",
+          "description": "Commercial outdoor dining chair with anthracite aluminum, acrylic rope and a granite or greige cushion. Verified dimensions and images for hospitality projects.",
+          "intro": "An outdoor dining armchair from the STRING Collection with an anthracite aluminum frame, acrylic-rope sides and a seat cushion offered in granite or greige. The verified 60 × 58 × 77 cm format supports restaurant, café and hotel terrace planning.",
+          "applications": [
+            "Restaurant and café terraces",
+            "Hotel outdoor dining",
+            "Hospitality patio seating"
+          ]
+        },
+        "tw": {
+          "name": "STRING 系列編織繩戶外餐椅",
+          "title": "STRING 系列編織繩戶外餐椅｜Sunnyward",
+          "description": "商用戶外餐椅，採碳灰色鋁合金、壓克力編織繩與 Granite／Greige 坐墊。提供已核對尺寸與圖片，適合餐旅專案評估。",
+          "intro": "STRING 系列戶外扶手餐椅，結合碳灰色鋁合金框架、壓克力編織繩側面與 Granite 或 Greige 坐墊。已核對尺寸為 60 × 58 × 77 公分，適合餐廳、咖啡廳與飯店戶外用餐區規劃。",
+          "applications": [
+            "餐廳與咖啡廳露台",
+            "飯店戶外用餐區",
+            "餐旅庭院座位"
+          ]
+        },
+        "jp": {
+          "name": "STRINGコレクション ロープ編みアウトドアダイニングチェア",
+          "title": "ロープ編みアウトドアダイニングチェア｜Sunnyward",
+          "description": "アンスラサイト色アルミ、アクリルロープ、グラナイトまたはグレージュの座面クッションを組み合わせた業務用屋外ダイニングチェアです。",
+          "intro": "STRINGコレクションの屋外用アームダイニングチェアです。アンスラサイト色アルミフレーム、アクリルロープの側面、グラナイトまたはグレージュの座面クッションを組み合わせています。確認済み寸法は60 × 58 × 77cmです。",
+          "applications": [
+            "レストラン・カフェのテラス",
+            "ホテルの屋外ダイニング",
+            "ホスピタリティ施設のパティオ"
+          ]
+        }
+      }
+    },
+    {
+      "sku": "SWF-91962520",
+      "slug": "foundation-louvered-outdoor-cabana-daybed",
+      "brand": "Funife",
+      "collection": "FOUNDATION COLLECTION",
+      "category": "Outdoor Furniture",
+      "dimensions": {
+        "raw": "W180 × D205 × H200 cm",
+        "w": 180,
+        "d": 205,
+        "h": 200,
+        "unit": "cm"
+      },
+      "materials": [
+        "Anthracite aluminum",
+        "Dark grey seat and back cushions"
+      ],
+      "origin": "China",
+      "planning_reference": "ll-waterpark-poolside-furniture-installation",
+      "images": [
+        "Product_Images/[Outdoor]/[Outdoor]_SWF-91962520/swf_91962520.jpg"
+      ],
+      "image_dimensions": [
+        [
+          600,
+          450
+        ]
+      ],
+      "source_images": [
+        "Product_Images/[Outdoor]_SWF-91962520/swf_91962520_3.png",
+        "Product_Images/[Outdoor]_SWF-91962520/swf_91962520_4.png"
+      ],
+      "locales": {
+        "en": {
+          "name": "FOUNDATION Louvered Outdoor Cabana Daybed",
+          "title": "Louvered Outdoor Cabana Daybed | Sunnyward",
+          "description": "Commercial outdoor cabana daybed with an anthracite aluminum frame, louvered roof and dark grey cushions. Verified 180 × 205 × 200 cm dimensions.",
+          "intro": "A large-format outdoor cabana daybed from the FOUNDATION Collection. The anthracite aluminum frame, louvered roof and dark grey cushions create a defined relaxation zone for resort, hotel and poolside planning.",
+          "applications": [
+            "Resort and hotel poolside areas",
+            "Private hospitality cabanas",
+            "Commercial outdoor relaxation zones"
+          ]
+        },
+        "tw": {
+          "name": "FOUNDATION 系列百葉頂棚戶外 Cabana 躺床",
+          "title": "百葉頂棚戶外 Cabana 躺床｜Sunnyward",
+          "description": "商用戶外 Cabana 躺床，採碳灰色鋁合金框架、百葉頂棚與深灰色坐背墊，已核對尺寸為 180 × 205 × 200 公分。",
+          "intro": "FOUNDATION 系列大型戶外 Cabana 躺床，結合碳灰色鋁合金框架、百葉頂棚與深灰色坐背墊，可作為度假村、飯店及泳池區的獨立休憩配置。",
+          "applications": [
+            "度假村與飯店泳池區",
+            "餐旅私人 Cabana",
+            "商業戶外休憩區"
+          ]
+        },
+        "jp": {
+          "name": "FOUNDATIONコレクション ルーバールーフ付きアウトドアカバナデイベッド",
+          "title": "ルーバールーフ付きアウトドアカバナ｜Sunnyward",
+          "description": "アンスラサイト色アルミフレーム、ルーバールーフ、ダークグレーのクッションを備えた業務用アウトドアカバナデイベッドです。",
+          "intro": "FOUNDATIONコレクションの大型アウトドアカバナデイベッドです。アンスラサイト色アルミフレーム、ルーバールーフ、ダークグレーのクッションを組み合わせ、リゾートやホテルのプールサイドに独立したリラクゼーションエリアを構成します。",
+          "applications": [
+            "リゾート・ホテルのプールサイド",
+            "ホスピタリティ施設のプライベートカバナ",
+            "商業施設の屋外リラクゼーションエリア"
+          ]
+        }
+      }
+    }
+  ]
+}

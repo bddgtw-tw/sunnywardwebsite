@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "status": "internal_reference",
+  "public_export": false,
+  "project_id": "case-noodles",
+  "slug": "noodles-restaurant-furniture-installation",
+  "source_basis": {
+    "confirmed": [
+      "Archived project media dated 2024-04",
+      "Media-backed space classification: casual noodle restaurant",
+      "Visible furniture focus: compact dining chairs"
+    ],
+    "unavailable": [
+      "approved client brief",
+      "contract scope",
+      "product schedule",
+      "quantities",
+      "specifications",
+      "client interview",
+      "measured outcome"
+    ]
+  },
+  "working_decision_maker_persona": {
+    "evidence_status": "inferred_for_internal_planning",
+    "role": "Fast-casual restaurant operator or rollout manager",
+    "context": "Balancing compact floor use, customer turnover and a recognizable dining identity.",
+    "priorities": [
+      "efficient seating density",
+      "quick cleaning and reset",
+      "clear customer and staff movement",
+      "consistent repeated furniture"
+    ],
+    "anxieties": [
+      "crowded aisles",
+      "chairs obstructing service",
+      "finishes that show wear quickly",
+      "a generic or mismatched appearance"
+    ],
+    "success": "An efficient dining floor that remains coherent, approachable and easy to operate."
+  },
+  "project_background_hypothesis": {
+    "evidence_status": "inferred_for_internal_planning",
+    "guidance": "Use the project to explore compact planning, repeatability and service clearance rather than promising turnover improvements."
+  },
+  "publication_boundary": [
+    "Do not identify this persona as the actual client or quote it as a real stakeholder.",
+    "Do not convert priorities, anxieties or success criteria into claims about completed outcomes.",
+    "Public copy may describe observable conditions and reasonable project considerations using bounded language.",
+    "Replace inferred content when approved project documents become available."
+  ],
+  "pending_verification": [
+    "Who approved the furniture and what was their formal role?",
+    "What products, quantities, finishes and custom requirements were approved?",
+    "What constraints, standards, budget range and delivery milestones applied?",
+    "What exact scope was performed by Sunnyward?",
+    "Is there an approved client quotation or measurable outcome?"
+  ]
+}

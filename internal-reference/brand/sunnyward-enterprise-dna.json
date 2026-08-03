@@ -1,0 +1,154 @@
+{
+  "document": "Sunnyward enterprise DNA",
+  "version": "1.0",
+  "status": "internal_reference",
+  "public_export": false,
+  "purpose": "Guide future AI decisions, brand writing, design direction and project interpretation; not customer-facing copy.",
+  "evidence_boundary": {
+    "supported": [
+      "Furniture and international trade experience since 1988",
+      "Commercial furniture sourcing, customization and project coordination",
+      "Regional operating presence in Malaysia and Singapore",
+      "Focus on hospitality, restaurant, leisure, office, retail and commercial environments",
+      "Available project media demonstrates installed furniture in completed spaces"
+    ],
+    "not_yet_supported": [
+      "Exact project quantities, specifications, contract scope or commercial outcomes",
+      "Named customer testimonials or attributed quotations",
+      "Performance, revenue, traffic, durability or sustainability metrics",
+      "Claims that Sunnyward designed or delivered an entire project unless approved documents confirm the scope"
+    ]
+  },
+  "core_identity": {
+    "category": "B2B commercial furniture project partner",
+    "role": "Connect design intent with practical furniture sourcing, customization and project coordination.",
+    "geographic_character": "Southeast Asia grounded, internationally usable, operationally pragmatic.",
+    "brand_archetype": [
+      "experienced guide",
+      "practical coordinator",
+      "design-conscious operator"
+    ],
+    "desired_impression": [
+      "quiet confidence",
+      "commercial reliability",
+      "refined judgment",
+      "approachable expertise"
+    ]
+  },
+  "brand_promise": "Help commercial-space teams move from furniture intent to a coordinated, practical and visually coherent result.",
+  "principles": [
+    {
+      "name": "Commercial reality first",
+      "meaning": "Balance appearance with circulation, maintenance, repeat use, lead time and operational constraints."
+    },
+    {
+      "name": "Coherence over spectacle",
+      "meaning": "Furniture should reinforce the whole space rather than compete for attention."
+    },
+    {
+      "name": "Evidence before claims",
+      "meaning": "Separate documented facts, reasonable interpretation and unverified assumptions."
+    },
+    {
+      "name": "Coordination reduces friction",
+      "meaning": "Create a clearer route across selection, customization, review and delivery planning."
+    },
+    {
+      "name": "Regional intelligence",
+      "meaning": "Consider Southeast Asian climate, hospitality patterns, maintenance conditions and commercial use."
+    }
+  ],
+  "primary_audiences": [
+    {
+      "role": "Owner, developer or operator",
+      "needs": [
+        "commercial fit",
+        "brand coherence",
+        "budget and schedule confidence",
+        "operational usability"
+      ]
+    },
+    {
+      "role": "Architect or interior designer",
+      "needs": [
+        "design-intent alignment",
+        "material and finish options",
+        "technical coordination",
+        "clear review process"
+      ]
+    },
+    {
+      "role": "Procurement or project manager",
+      "needs": [
+        "specification clarity",
+        "repeatability",
+        "lead-time visibility",
+        "risk and delivery coordination"
+      ]
+    },
+    {
+      "role": "Operations or facilities lead",
+      "needs": [
+        "durability",
+        "maintenance",
+        "circulation",
+        "replacement practicality"
+      ]
+    }
+  ],
+  "verbal_identity": {
+    "tone": [
+      "clear",
+      "measured",
+      "specific",
+      "commercially literate",
+      "warm but not promotional"
+    ],
+    "prefer": [
+      "can support",
+      "designed to consider",
+      "helps coordinate",
+      "shown in the completed setting",
+      "project-specific review"
+    ],
+    "avoid": [
+      "best-in-class",
+      "guaranteed results",
+      "transformative",
+      "revolutionary",
+      "perfect",
+      "unsupported superlatives"
+    ]
+  },
+  "visual_identity": {
+    "character": [
+      "architectural calm",
+      "material warmth",
+      "functional elegance",
+      "generous negative space",
+      "credible commercial environments"
+    ],
+    "motion": "Slow, stable and deliberate; never shaky, flashy or social-media paced.",
+    "palette": [
+      "warm timber",
+      "sand",
+      "stone",
+      "muted bronze",
+      "deep olive",
+      "charcoal"
+    ],
+    "avoid": [
+      "residential styling",
+      "excess gold",
+      "neon color",
+      "visual clutter",
+      "unreal furniture geometry"
+    ]
+  },
+  "ai_use_rules": [
+    "Use this file as interpretation guidance, never as proof of a specific project fact.",
+    "Do not publish internal personas, anxieties or hypotheses as statements made by a real client.",
+    "When project evidence is incomplete, describe what a buyer can evaluate and what the approach can reasonably support.",
+    "Keep internal strategy separate from localized public copy."
+  ]
+}

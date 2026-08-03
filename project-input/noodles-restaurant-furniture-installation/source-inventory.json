@@ -1,0 +1,20 @@
+{
+  "project_id": "case-noodles",
+  "slug": "noodles-restaurant-furniture-installation",
+  "private_input": true,
+  "text_files": [
+    "en.json",
+    "jp.json",
+    "tw.json"
+  ],
+  "image_files": [
+    "488538040_1204903331645175_5225319039366592359_n_cropped.jpg",
+    "488538040_1204903331645175_5225319039366592359_n_q1.jpg",
+    "488538040_1204903331645175_5225319039366592359_n_q2.jpg",
+    "488538040_1204903331645175_5225319039366592359_n_q3.jpg",
+    "488538040_1204903331645175_5225319039366592359_n_q4.jpg"
+  ],
+  "video_files": [
+    "2024.04_noodles_restaurant.mp4"
+  ]
+}
