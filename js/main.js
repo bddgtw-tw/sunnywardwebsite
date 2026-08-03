@@ -215,13 +215,24 @@ document.addEventListener("DOMContentLoaded", () => {
   });
   if (topOpts.length) updateMatcher();
 
-  // 8. CATALOG MODAL (Dynamic Multi-step)
+  // 8. ABOUT STORY IMAGE (use the verified poolside furniture source on every locale)
+  const aboutImages = document.querySelectorAll(".about-story__media img");
+  if (aboutImages.length) {
+    const pageLang = document.documentElement.lang || "en";
+    const aboutAlt = pageLang === "ja" ? "プールサイドの屋外家具" : pageLang === "tw" ? "泳池旁的戶外家具" : "Poolside outdoor furniture";
+    aboutImages.forEach((image) => {
+      image.src = "../_assets/about/sunnyward_poolside_furniture.jpg";
+      image.alt = aboutAlt;
+    });
+  }
+
+  // 9. CATALOG MODAL (validated direct PDF download)
   const catalogs = [
     { id: "cat1", name: "2025 Funife Premium Outdoor Catalogue (A4)", file: "../catalogs/2025_Funife_Premium_Outdoor_catalogue_A4.pdf" },
-    { id: "cat3", name: "2026 SWA Office Furniture Specification", file: "../catalogs/2026_SWA_Office_Furniture_Specification.pdf" },
-    { id: "cat4", name: "2026 SWA Outdoor Selection Catalog", file: "../catalogs/2026_SWA_Outdoor_Selection_Catalog.pdf" },
-    { id: "cat5", name: "2026 SWA Project Catalog", file: "../catalogs/2026_SWA_project_catalog.pdf" },
-    { id: "cat6", name: "SWA Racking System", file: "../catalogs/SWA_Racking_System.pdf" }
+    { id: "cat2", name: "2026 SWA Office Furniture Specification", file: "../catalogs/2026_SWA_Office_Furniture_Specification.pdf" },
+    { id: "cat3", name: "2026 SWA Outdoor Selection Catalog", file: "../catalogs/2026_SWA_Outdoor_Selection_Catalog.pdf" },
+    { id: "cat4", name: "2026 SWA Project Catalog", file: "../catalogs/2026_SWA_project_catalog.pdf" },
+    { id: "cat5", name: "SWA Racking System", file: "../catalogs/SWA_Racking_System.pdf" }
   ];
 
   function createCatalogModal() {
@@ -240,6 +251,14 @@ document.addEventListener("DOMContentLoaded", () => {
       err: lang === "ja" ? "少なくとも1つのカタログを選択してください。" : lang === "tw" ? "請至少選擇一份型錄。" : "Please select at least one catalog.",
       success: lang === "ja" ? "ありがとうございます！ダウンロードが開始されます。" : lang === "tw" ? "感謝填寫！下載即將開始。" : "Thank you! Downloads will begin shortly."
     };
+
+    Object.assign(t, lang === "ja" ? {
+      title: "カタログをダウンロード", desc1: "確認済みの PDF カタログを選択してください。", desc2: "PDF の状態を確認してからダウンロードします。", next: "次へ", download: "PDFをダウンロード", name: "氏名", email: "業務用メールアドレス", back: "戻る", err: "カタログを1つ以上選択してください。", success: "ダウンロードを開始しました。", checking: "PDFを確認しています…", failed: "この PDF は現在利用できません。時間をおいて再度お試しください。"
+    } : lang === "tw" ? {
+      title: "下載產品型錄", desc1: "請選擇要下載的已確認 PDF 型錄。", desc2: "下載前會先確認 PDF 是否可用。", next: "下一步", download: "下載 PDF", name: "姓名", email: "商務電子郵件", back: "返回", err: "請至少選擇一份型錄。", success: "已開始下載。", checking: "正在確認 PDF…", failed: "此 PDF 目前無法使用，請稍後再試。"
+    } : {
+      title: "DOWNLOAD CATALOGUE", desc1: "Select a verified PDF catalogue.", desc2: "The PDF is checked before the download begins.", next: "Next", download: "DOWNLOAD PDF", name: "Full Name", email: "Business Email", back: "Back", err: "Please select at least one catalogue.", success: "Download started.", checking: "Checking PDF…", failed: "This PDF is not available right now. Please try again later."
+    });
 
     const modalHTML = `
       <div class="modal" id="catalog-modal">
@@ -266,14 +285,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <div id="catalog-step-2" style="display: none;">
             <p class="modal__desc">${t.desc2}</p>
             <form id="catalog-form">
-              <div class="form-field" style="text-align: left;">
-                <label for="catalog-name" class="form-label">${t.name}</label>
-                <input type="text" id="catalog-name" class="form-input" required>
-              </div>
-              <div class="form-field" style="text-align: left;">
-                <label for="catalog-email" class="form-label">${t.email}</label>
-                <input type="email" id="catalog-email" class="form-input" required>
-              </div>
+              <p id="catalog-status" class="modal__desc" role="status" aria-live="polite" style="min-height: 1.4em;"></p>
               <div style="display: flex; gap: 1rem;">
                 <button type="button" class="btn btn-ghost" id="catalog-back-btn" style="flex: 1;">${t.back}</button>
                 <button type="submit" class="btn btn-primary" style="flex: 2;">${t.download}</button>
@@ -320,24 +332,32 @@ document.addEventListener("DOMContentLoaded", () => {
       s1.style.display = 'block';
     });
 
-    form.addEventListener("submit", (e) => {
+    form.addEventListener("submit", async (e) => {
       e.preventDefault();
       const selected = document.querySelectorAll('input[name="selected_catalogs"]:checked');
-      
-      alert(t.success);
-      
-      selected.forEach((cb, index) => {
-        setTimeout(() => {
+      const submit = form.querySelector('button[type="submit"]');
+      const status = document.getElementById("catalog-status");
+      submit.disabled = true;
+      status.textContent = t.checking;
+      try {
+        for (const cb of selected) {
+          const response = await fetch(cb.value, { method: "HEAD", cache: "no-store" });
+          const contentType = (response.headers.get("content-type") || "").toLowerCase();
+          if (!response.ok || !contentType.includes("application/pdf")) throw new Error("invalid-pdf");
           const a = document.createElement("a");
           a.href = cb.value;
-          a.download = "";
+          a.download = cb.value.split("/").pop() || "sunnyward-catalogue.pdf";
+          a.rel = "noopener";
           document.body.appendChild(a);
           a.click();
           document.body.removeChild(a);
-        }, index * 500); // Stagger downloads
-      });
-      
-      close();
+        }
+        status.textContent = t.success;
+      } catch (error) {
+        status.textContent = t.failed;
+      } finally {
+        submit.disabled = false;
+      }
     });
   }
 
