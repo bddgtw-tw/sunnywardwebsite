@@ -218,7 +218,6 @@ document.addEventListener("DOMContentLoaded", () => {
   // 8. CATALOG MODAL (Dynamic Multi-step)
   const catalogs = [
     { id: "cat1", name: "2025 Funife Premium Outdoor Catalogue (A4)", file: "../catalogs/2025_Funife_Premium_Outdoor_catalogue_A4.pdf" },
-    { id: "cat2", name: "2026 Sunnyward Balau Wood Outdoor Furniture", file: "../catalogs/2026_Sunnyward_Balau_wood_outdoor_furniture_catalogue.pdf" },
     { id: "cat3", name: "2026 SWA Office Furniture Specification", file: "../catalogs/2026_SWA_Office_Furniture_Specification.pdf" },
     { id: "cat4", name: "2026 SWA Outdoor Selection Catalog", file: "../catalogs/2026_SWA_Outdoor_Selection_Catalog.pdf" },
     { id: "cat5", name: "2026 SWA Project Catalog", file: "../catalogs/2026_SWA_project_catalog.pdf" },
