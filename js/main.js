@@ -221,7 +221,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const pageLang = document.documentElement.lang || "en";
     const aboutAlt = pageLang === "ja" ? "プールサイドの屋外家具" : pageLang === "tw" ? "泳池旁的戶外家具" : "Poolside outdoor furniture";
     aboutImages.forEach((image) => {
-      image.src = "../_assets/about/sunnyward_poolside_furniture.jpg";
+      image.src = "../_assets/media/33e0c086aa8ab4546088496ddeebbb8d.jpg";
       image.alt = aboutAlt;
     });
   }
