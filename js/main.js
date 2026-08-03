@@ -226,6 +226,29 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
+  // Keep the public organization metadata aligned with the confirmed Malaysia address.
+  const organizationSchema = document.querySelector('script[type="application/ld+json"]');
+  if (organizationSchema) {
+    try {
+      const schema = JSON.parse(organizationSchema.textContent);
+      const malaysiaAddress = Array.isArray(schema.address)
+        ? schema.address.find((address) => address.addressCountry === "MY")
+        : null;
+      if (malaysiaAddress) {
+        Object.assign(malaysiaAddress, {
+          streetAddress: "27 Jalan Impian Emas 18, Taman Impian Emas",
+          addressLocality: "Johor",
+          addressRegion: "Johor",
+          postalCode: "81300",
+          addressCountry: "MY"
+        });
+        organizationSchema.textContent = JSON.stringify(schema);
+      }
+    } catch (error) {
+      // Preserve the page if a legacy metadata block is malformed.
+    }
+  }
+
   // 9. CATALOG MODAL (validated direct PDF download)
   const catalogs = [
     { id: "cat2", name: "2026 SWA Office Furniture Specification", file: "../catalogs/2026_SWA_Office_Furniture_Specification.pdf" },
@@ -239,7 +262,7 @@ document.addEventListener("DOMContentLoaded", () => {
     
     const lang = document.documentElement.lang || "en";
     const t = {
-      title: lang === "ja" ? "カタログのダウンロード" : lang === "tw" ? "下載型錄" : "Download Catalog",
+      title: lang === "ja" ? "カタログのダウンロード" : lang === "tw" ? "下載型錄" : "DOWNLOAD CATALOGUE",
       desc1: lang === "ja" ? "ダウンロードするカタログを選択してください（複数選択可）。" : lang === "tw" ? "請選擇您要下載的型錄 (可多選)。" : "Select the catalogs you wish to download (multiple allowed).",
       desc2: lang === "ja" ? "詳細を入力して、選択したPDFを受け取ります。" : lang === "tw" ? "請輸入您的聯絡資訊以取得 PDF。" : "Enter your details to receive the selected PDFs.",
       next: lang === "ja" ? "次へ" : lang === "tw" ? "下一步" : "Next",
@@ -256,7 +279,7 @@ document.addEventListener("DOMContentLoaded", () => {
     } : lang === "tw" ? {
       title: "下載產品型錄", desc1: "請選擇要下載的已確認 PDF 型錄。", desc2: "下載前會先確認 PDF 是否可用。", next: "下一步", download: "下載 PDF", name: "姓名", email: "商務電子郵件", back: "返回", err: "請至少選擇一份型錄。", success: "已開始下載。", checking: "正在確認 PDF…", failed: "此 PDF 目前無法使用，請稍後再試。"
     } : {
-      title: "DOWNLOAD CATALOGUE", desc1: "Select a verified PDF catalogue.", desc2: "The PDF is checked before the download begins.", next: "Next", download: "DOWNLOAD PDF", name: "Full Name", email: "Business Email", back: "Back", err: "Please select at least one catalogue.", success: "Download started.", checking: "Checking PDF…", failed: "This PDF is not available right now. Please try again later."
+      title: "DOWNLOAD CATALOGUE", desc1: "Select a Sunnyward PDF catalogue.", desc2: "The PDF is checked before the download begins.", next: "Next", download: "DOWNLOAD PDF", name: "Full Name", email: "Business Email", back: "Back", err: "Please select at least one catalogue.", success: "Download started.", checking: "Preparing download…", failed: "The catalogue could not be downloaded. Please try again or contact Sunnyward."
     });
 
     const modalHTML = `
