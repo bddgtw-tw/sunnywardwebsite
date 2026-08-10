@@ -6,8 +6,26 @@ document.addEventListener("DOMContentLoaded", () => {
   document.querySelectorAll(".uc-video-poster").forEach(poster => {
     const video = poster.parentElement?.querySelector("video");
     if (!video) return;
+
+    // A data-thumbnail-time value uses a frame from the film as the poster.
+    const thumbnailTime = Number(video.dataset.thumbnailTime);
+    if (Number.isFinite(thumbnailTime) && thumbnailTime >= 0) {
+      const loadThumbnailFrame = () => {
+        const safeTime = video.duration && Number.isFinite(video.duration)
+          ? Math.min(thumbnailTime, Math.max(0, video.duration - 0.05))
+          : thumbnailTime;
+        video.currentTime = safeTime;
+      };
+      if (video.readyState >= HTMLMediaElement.HAVE_METADATA) {
+        loadThumbnailFrame();
+      } else {
+        video.addEventListener("loadedmetadata", loadThumbnailFrame, { once: true });
+        video.load();
+      }
+    }
     poster.addEventListener("click", () => {
       video.controls = true;
+      if (Number.isFinite(thumbnailTime)) video.currentTime = 0;
       const playback = video.play();
       if (playback && typeof playback.then === "function") {
         playback.then(() => poster.classList.add("is-hidden")).catch(() => {});
