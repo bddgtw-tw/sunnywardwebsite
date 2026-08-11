@@ -1283,6 +1283,10 @@ footer{background:var(--espresso);color:var(--cream);padding:6rem 0 2.5rem}
 .about-ecosystem__item,.about-case{padding:clamp(1.6rem,3vw,2.5rem);border:1px solid var(--border);background:var(--white)}
 .about-ecosystem__item h3,.about-case h3{margin:0 0 .6rem;font-size:1.35rem}.about-ecosystem__item strong{display:block;margin-bottom:1rem;color:var(--accent)}
 .about-ecosystem__item p,.about-case p{margin:0;line-height:1.72;color:var(--text-light)}
+.about-ecosystem__link{display:block;color:inherit;text-decoration:none;transition:border-color var(--t-fast),box-shadow var(--t-fast),transform var(--t-fast)}
+.about-ecosystem__link:hover{border-color:var(--accent);box-shadow:var(--shadow-sm);transform:translateY(-2px)}
+.about-ecosystem__link:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.about-ecosystem__cta{display:inline-block;margin-top:1.35rem;color:var(--accent);font-size:.76rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase}
 .about-value{background:#171411;color:var(--white)}.about-value .about-section-heading p{color:rgba(255,255,255,.67)}
 .about-value__item{padding:1.8rem;border:1px solid rgba(255,255,255,.16)}.about-value__item h3{margin:0 0 .75rem;color:var(--white)}.about-value__item p{margin:0;line-height:1.7;color:rgba(255,255,255,.67)}
 .about-cases .about-actions{margin-top:2rem}.about-vision__grid{display:grid;grid-template-columns:minmax(300px,.75fr) minmax(0,1fr);gap:clamp(3rem,7vw,7rem);align-items:center}
