@@ -73,7 +73,7 @@ p{font-size:1.05rem;line-height:1.72;color:var(--text-secondary);font-weight:300
 .nav-container{position:relative;width:100%;max-width:var(--max-w);margin:0 auto;padding:0 var(--gutter);display:flex;align-items:center;justify-content:space-between;gap:2rem}
 .logo{font-family:var(--font-display);font-size:1.55rem;letter-spacing:0.06em;text-decoration:none;color:var(--text-primary);display:flex;align-items:center;gap:0.1em;flex-shrink:0}
 .logo span{color:var(--copper)}
-.nav-menu{position:absolute;left:50%;transform:translateX(-50%);display:flex;align-items:center;gap:2.8rem;list-style:none;white-space:nowrap}
+.nav-menu{position:absolute;left:50%;transform:translateX(-50%);display:flex;align-items:center;gap:clamp(1.15rem,2vw,2.4rem);list-style:none;white-space:nowrap}
 .nav-link{text-decoration:none;color:var(--text-primary);font-size:0.82rem;font-weight:400;letter-spacing:0.08em;text-transform:uppercase;position:relative;padding-bottom:3px;transition:color var(--t-fast)}
 .nav-link::before{content:"";position:absolute;bottom:0;left:0;width:0;height:1px;background:var(--accent);transition:width var(--t-base)}
 .nav-link:hover::before,.nav-link.active::before{width:100%}
